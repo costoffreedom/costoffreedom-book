@@ -68,9 +68,7 @@ and seeing them flourish, and to see the spread of ideas which the
 Creative Commons community has carried forward.</p>
 
 
-> [Lawrence Lessig](../authors/lawrence-lessig) is an American academic, and
+> Lawrence Lessig is an American academic, and
 political activist. He is the founder of [Creative
 Commons](http://creativecommons.org/) and
 [Rootstrikers](http://www.rootstrikers.org/).
-
-

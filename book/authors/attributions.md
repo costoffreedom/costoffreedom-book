@@ -32,15 +32,14 @@ __MISSINGBASSEL Illustration__: Neil Stuber
 * {% include "./ginger-coons.md" %}
 * {% include "./giorgos-cheliotis.md" %}
 * {% include "./hellekin.md" %}
-* {% include "./hellekin-natacha-roussel-and-pauline-gadea.md" %}
-* {% include "./jane-doe.md" %}
 * {% include "./jean-noel-montagne.md" %}
 * {% include "./john-wilbanks.md" %}
 * {% include "./jon-phillips.md" %}
 * {% include "./lawrence-lessig.md" %}
 * {% include "./lorna-campbell.md" %}
 * {% include "./lucas-gonze.md" %}
-* {% include "./maarten-zeinstra-muid-latif.md" %}
+* {% include "./maarten-zeinstra.md" %}
+* {% include "./muid-latif.md" %}
 * {% include "./mark-weidenbaum.md" %}
 * {% include "./martin-paul-eve.md" %}
 * {% include "./melanie-dulong-de-rosnay.md" %}

@@ -1,57 +1,4 @@
 /* CSS for pdf */
-
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-    display: block;
-}
-body {
-    line-height: 1;
-}
-ol, ul {
-    list-style: none;
-}
-blockquote, q {
-    quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-    content: '';
-    content: none;
-}
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-}
-
-
-/* fonts */
-
 @charset "UTF-8";
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup,
@@ -64,49 +11,16 @@ header, hgroup, menu, nav, section, summary, time, mark, audio, video {
   font-size: 100%;
   vertical-align: baseline; }
 
-@font-face {
-  font-family: "Cormorant/Cormorant";
-  src: url(../fonts/Cormorant/Cormorant-Regular.otf);
-  src: url(../fonts/Cormorant/Cormorant-Regular.ttf);
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: "Cormorant/Cormorant";
-  src: url(../fonts/Cormorant/Cormorant-Italic.otf);
-  src: url(../fonts/Cormorant/Cormorant-Italic.ttf);
-  font-weight: normal;
-  font-style: italic; }
-@font-face {
-  font-family: "Cormorant/Cormorant";
-  src: url(../fonts/Cormorant/Cormorant-Bold.otf);
-  src: url(../fonts/Cormorant/Cormorant-Bold.ttf);
-  font-weight: bold;
-  font-style: normal; }
-@font-face {
-  font-family: "Cormorant/Cormorant";
-  src: url(../fonts/Cormorant/Cormorant-BoldItalic.otf);
-  src: url(../fonts/Cormorant/Cormorant-BoldItalic.ttf);
-  font-weight: bold;
-  font-style: normal; }
-@font-face {
-  font-family: "League Spartan";
-  src: url(../fonts/LeagueSpartan/leaguespartan-bold.otf);
-  src: url(../fonts/LeagueSpartan/leaguespartan-bold.ttf);
-  font-weight: bold;
-  font-style: normal; }
-
 
 /*needed Vars
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
 /* General CSS for contents */
 body {
-  font-family: "Cormorant/Cormorant";
   font-weight: normal;
   font-size: 10pt;
   color: black; }
 
 p {
-  font-family: "Cormorant/Cormorant";
   font-size: 10pt;
   line-height: 1.55;
   text-align: justify;
@@ -114,32 +28,29 @@ p {
   word-break: break-word; }
 
 quote {
-  font-family: "League Spartan";
   margin-left: 40mm;
   text-indent: 3mm;
   line-height: 1.55; }
 
 em, .italic {
-  font-family: inherit;
+  ;
   font-style: italic;
   font-weight: 400; }
 
 pre {
   max-width: 11.6875cm; }
 
-a {
+a, a:visited, a:hover {
   word-wrap: break-word;
   color: #FF4229;
-  border-bottom: 1px dotted #FF4229;
-  font-family: "Cormorant/Cormorant";
-  text-decoration: none; }
+  text-decoration: none;
+}
 
 strong em {
   font-weight: bold;
   font-style: italic; }
 
 var {
-  font-family: "League Spartan";
   font-weight: normal; }
   var em, var .Italic {
     font-weight: normal;
@@ -148,7 +59,7 @@ var {
 blockquote {
   font-style: italic;
   page-break-inside: avoid;
-  font-family: inherit;
+  ;
   line-height: 1.55;
   display: block;
   margin-bottom: 3em;
@@ -171,7 +82,6 @@ sup {
 
 /* The ways all the titles appears */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "League Spartan";
   font-weight: 400;
   color: #FF4229;
   text-align: left;
@@ -179,13 +89,12 @@ h1, h2, h3, h4, h5, h6 {
   h1 em, h1 .Italic, h2 em, h2 .Italic, h3 em, h3 .Italic, h4 em, h4 .Italic, h5 em, h5 .Italic, h6 em, h6 .Italic {
     font-weight: 400;
     font-style: italic;
-    font-family: "League Spartan"; }
+
+  }
   h1 strong, h1 .bold, h1 .Bold, h2 strong, h2 .bold, h2 .Bold, h3 strong, h3 .bold, h3 .Bold, h4 strong, h4 .bold, h4 .Bold, h5 strong, h5 .bold, h5 .Bold, h6 strong, h6 .bold, h6 .Bold {
-    font-weight: "League Spartan";
     font-style: normal; }
 
 h1 {
-  font-family: "League Spartan";
   font-style: normal;
   font-size: 23pt;
   line-height: 1.1;
@@ -196,7 +105,6 @@ h1 {
     text-indent: 0; }
 
 h2 {
-  font-family: "League Spartan";
   font-size: 14pt;
   text-transform: uppercase;
   color: #FF4229;
@@ -213,7 +121,6 @@ h2 {
     font-style: normal; }
 
 h3 {
-  font-family: "League Spartan";
   font-size: 11pt;
   margin: 15pt 0 5pt 0;
   font-weight: 400;
@@ -226,7 +133,6 @@ h3 {
     page-break-before: avoid; }
 
 h4 {
-  font-family: "League Spartan";
   font-size: 10pt;
   margin: 10pt 0 5pt 0;
   line-height: 1.2;
@@ -244,7 +150,6 @@ h1, .chaptertitle {
   text-align: left;
   z-index: 0;
   font-size: 20pt;
-  font-family: "League Spartan";
   margin-bottom: 20pt;
   overflow: visible;
   display: block;
@@ -254,7 +159,6 @@ h1, .chaptertitle {
 
 .sectiontitle {
   font-size: 30pt;
-  font-family: "League Spartan";
   font-weight: normal;
   text-transform: uppercase;
   margin-top: 236pt;
@@ -348,7 +252,8 @@ ul {
     float: left;
     padding-top: 2pt;
     color: #FF4229;
-    margin-right: 1.5em; }
+    margin-right: 1.5em;
+}
 
 ol {
   list-style-type: none;
@@ -358,24 +263,12 @@ ol {
   padding: 0;
   padding-left: 2em;
   text-indent: -1.5em;
-  counter-reset: ol1counter; }
-  ol li:before {
-    counter-increment: ol1counter;
-    content: counter(ol1counter);
-    float: left;
-    padding-top: 2pt;
-    color: #FF4229;
-    margin-right: 1.5em; }
-  ol li ol {
-    counter-reset: ol2counter; }
-    ol li ol li:before {
-      background-color: blue;
-      counter-increment: ol2counter;
-      content: counter(ol2counter,lower-alpha); }
+  counter-reset: ol1counter;
+}
+
 
 table {
   width: 100% !important;
-  font-family: "League Spartan";
   background-size: 10pt;
   page-break-inside: avoid;
   margin-top: 10pt;
@@ -398,7 +291,7 @@ table {
   table p, table ul, table li, table ol {
     font-size: 10pt;
     margin: 0;
-    font-family: "League Spartan";
+    ;
     text-align: left; }
   table ol, table ul {
     list-style-position: inside; }
@@ -419,14 +312,14 @@ table > thead > tr > th {
   border: 1px solid #39A329; }
 
 .pagination-page {
-  font-family: "League Spartan";
+  ;
   font-size: 7pt; }
   .pagination-page .pagination-pagenumber {
     position: absolute;
     display: inline-block;
     width: 7mm;
     height: 5mm;
-    font-family: "League Spartan";
+    ;
     font-size: 8pt;
     color: #FF4229; }
   .pagination-page:nth-child(even) .pagination-pagenumber {
@@ -451,13 +344,13 @@ table > thead > tr > th {
   text-align: center !important; }
 
 .pagination-header-chapter {
-  font-family: "League Spartan"; }
+  }
   .pagination-header-chapter em, .pagination-header-chapter .italic, .pagination-header-chapter .Italic {
-    font-family: "League Spartan"; }
+    }
 
 .pagination-header-section {
   color: #f51d00;
-  font-family: "League Spartan"; }
+  }
 
 .pagination-chapter .pagination-page:first-of-type .pagination-header-chapter {
   display: none; }
