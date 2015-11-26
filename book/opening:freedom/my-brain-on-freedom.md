@@ -1,14 +1,7 @@
----
-title: My Brain on Freedom
-author: Mike Linksvayer
-section: 'OPENING: FREEDOM'
-layout: book
-previous: <a href="costs-of-openness">Costs of Openness</a>
-up: '<a href="./">OPENING: FREEDOM</a>'
-next: <a href="too-poor-not-to-care">Too Poor Not to Care</a>
----
 
-A cost of participation in free knowledge movements is “stupidity” – an assault
+# My Brain on Freedom
+
+<p>A cost of participation in free knowledge movements is “stupidity” – an assault
 on intelligence, wisdom, reason, knowledge. The net effect of free knowledge on
 intelligence is probably positive, possibly hugely positive if free knowledge
 movements succeed in thoroughly commoning the noosphere, making collaboration
@@ -16,14 +9,14 @@ and inclusion the dominant paradigm for all economically valuable knowledge
 production and distribution. But the stupidity costs of free knowledge are real
 and painful, at least to me. Fortunately the costs, if acknowledged, can be
 decreased, and doing so will increase the chances of achieving free knowledge
-world liberation.
+world liberation.</p>
 
-I want to explore briefly how individuals, communities, and society are
+<p>I want to explore briefly how individuals, communities, and society are
 affected by various kinds of costs of free knowledge. This is going to be
 cursory and incomplete. Very possibly also stupid: my mind has been infected by
-free knowledge for about 25 years.
+free knowledge for about 25 years.</p>
 
-Commitment makes us morally stupid, lazy, and unconvincing. Claiming that
+<p>Commitment makes us morally stupid, lazy, and unconvincing. Claiming that
 knowledge freedom is a moral issue is not a valid moral argument, but merely an
 unsupported claim which ought be embarrassing if not immediately followed or
 preceded by justification and more importantly, critique of said justification.
@@ -39,9 +32,9 @@ perspectives of various conceptions of freedom and other values and objectives
 such as efficiency, equality, and security. Doing so will make you morally
 smarter, more interesting, and make it more possible for people and movements
 with non-freedom top goals or different conceptions of freedom to join in the
-struggle for free knowledge.
+struggle for free knowledge.</p>
 
-Opportunity cost. Participating in free knowledge movements often entails
+<p>Opportunity cost. Participating in free knowledge movements often entails
 filling one’s brain with ridiculous trivia (e.g., about copyright), developing
 one’s skills to workaround underdeveloped systems and institutions (e.g.,
 administering one’s own server, [self-]publishing with little or no support for
@@ -53,9 +46,9 @@ admit that these are huge costs, take them on carefully, and avoid criticizing
 those who fail to fail to take them on, at least not without acknowledging that
 they are costs rather than, or at least in addition to being moral imperatives.
 Once admitted, free knowledge movement actors might prioritize reducing these
-costs.
+costs.</p>
 
-Scale. Free knowledge movements are often thought of as “bottom up” – see
+<p>Scale. Free knowledge movements are often thought of as “bottom up” – see
 phrases such as “many eyes make bugs shallow” and “democratized innovation”,
 the idealization of DIY, decentralization, and contribution by individuals and
 small non-profits; and suspicion of huge government and companies – at best
@@ -81,9 +74,9 @@ back for every one forward, with bonus for failing to realize this is what is
 happening. In this sense dwarfish free knowledge actors are stupid, and will
 remain so til they crack the logic of collective action, mostly through huge
 free knowledge institutions, though other improved coordination mechanisms may
-help as well.
+help as well.</p>
 
-Diversity. Free knowledge movements aren’t very diverse, which contributes
+<p>Diversity. Free knowledge movements aren’t very diverse, which contributes
 mightily to the costs of joining and scaling, and thus intelligence, in
 addition to missing out on intelligence benefits of diverse perspectives
 documented elsewhere. Much has been written about lack of diversity in free
@@ -97,9 +90,9 @@ scale makes free knowledge movements insular and non-diverse. Like hanging out
 with culturally similar committed free knowledge hacks? Great, you’re in the
 right social club. Want world liberation? The cost in the short term might be
 shedding some certainty, insularity, and fear, and thus feeling stupid. It’ll
-make you, me, and free knowledge movements much smarter in the longer term.
+make you, me, and free knowledge movements much smarter in the longer term.</p>
 
-Toxin. One topic endemic to most free knowledge movements is worth calling out
+<p>Toxin. One topic endemic to most free knowledge movements is worth calling out
 as an especially potent brain toxin: licenses. Yes they’re necessary for the
 most part given bad default knowledge governance. But they make us stupid, over
 and above knowledge of copyright, patent, and other regimes entailed.
@@ -118,9 +111,9 @@ obvious: re-conceptualize licenses away from vehicles of creator choice towards
 prototypes for commons-favoring public policy. This exercise and actualization
 will make free knowledge movement actors much smarter – we’ll have to engage
 with the non-dwarfish implications of free knowledge and actually convince
-people with other top policy concerns rather than hide from them.
+people with other top policy concerns rather than hide from them.</p>
 
-One way to decrease the stupidity of free knowledge movements is more
+<p>One way to decrease the stupidity of free knowledge movements is more
 cross-fertilization and knowledge and tool sharing across said movements.
 Stupid-making knowledge acquisition about topics such as copyright and licenses
 ought not need to be re-experienced in each free knowledge movement silo.
@@ -129,7 +122,10 @@ silos. Breaking apart the silos would also increase diversity – each has a
 different mix of participants, even if they are also almost all biased in some
 of the same ways. While good for the whole, a warning to individuals:
 attempting to learn about and cross-fertilize multiple free knowledge movements
-might come at an extra high cost to your intelligence.
+might come at an extra high cost to your intelligence.</p>
 
-<p class="author bio">Mike Linksvayer speaks internationally and writes
-broadly. He is the first CTO and then Vice President of Creative Commons.</p>
+
+> Mike Linksvayer speaks internationally and writes broadly. He is the first CTO
+and then Vice President of Creative Commons.
+
+

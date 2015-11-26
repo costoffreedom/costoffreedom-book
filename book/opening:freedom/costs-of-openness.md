@@ -1,22 +1,15 @@
----
-title: Costs of Openness
-author: Tim Boykett
-section: 'OPENING: FREEDOM'
-layout: book
-previous: <a href="the-open-world">The Open World</a>
-up: '<a href="./">OPENING: FREEDOM</a>'
-next: <a href="my-brain-on-freedom">My Brain on Freedom</a>
----
 
-This is a collection of notes about some thoughts on openness as a way of
+# Costs of Openness
+
+<p>This is a collection of notes about some thoughts on openness as a way of
 working, living and acting. The summary might be that openness is about
 conversations, about being able to discuss things, about not sticking to your
 guns about taste, correctness, relevance and all that, but about building
 communities of sharing, caring and being able to correct one another's
 mistakes. Maybe openness is a state, not a statement; a process, not a
-proclamation.
+proclamation.</p>
 
-We do not do copyright every well at Time's Up: "Copyright is problematic.
+<p>We do not do copyright every well at Time's Up: "Copyright is problematic.
 Contact for clarification" or something similar is at the bottom of many of our
 web pages. We do not think we can make a single licence statement that will
 work. We would like to talk to people and organisations about what they would
@@ -26,9 +19,9 @@ become the European Capital of Culture, without asking us. It is nice to be so
 appreciated that we are a beacon of Linz culture, but we ask you to talk to us.
 A licence is possible a way to avoid talking to one another, openness is
 perhaps about encouraging us to talk, to think, to share and communicate, not
-just announce.
+just announce.</p>
 
-Open academic publishing allows too much nonsense and badly written yet often
+<p>Open academic publishing allows too much nonsense and badly written yet often
 useful stuff to get out. Peer review does not stop this, but quality reviewing
 does. This is a discussion between the author(s) and someone who cares. A
 reviewer is a peer who should care. If one is asked to be a reviewer, it is
@@ -45,16 +38,16 @@ or selling your work, about making people care, but about finding out who does.
 I do not have the right to demand that you care about my work. You cannot keep
 up with all the things that you might be interested in, so unless you can trust
 that I have made something that you care about, why would you bother looking at
-it?
+it?</p>
 
-Less is more. Fewer things to sort through. We have too many books,
+<p>Less is more. Fewer things to sort through. We have too many books,
 publications, articles, white papers, etc, etc: how to find what we need, let
 people know about what we do. We in the sense of all the communities I am
 involved in, from Time's Up through the universities, the research communities,
 the cultural communities and the world in general. Not all forms of openness
-can help that, many will harm it.
+can help that, many will harm it.</p>
 
-Patents only help if you want to "exploit" the invention. If you just care
+<p>Patents only help if you want to "exploit" the invention. If you just care
 about doing interesting things, then being first is enough. Or even just doing
 it. Patents have that secondary effect, that once the idea is patented, we can
 all see how it works. So Patents are opening and closing: I know how it works,
@@ -65,9 +58,9 @@ programming technique. So for them, making it open closes it. There is, of
 course, the danger of reinventing the wheel (we have done that), wasted effort,
 dead-end developments. That's fine. In the long run, we are all dead and all
 the effort was futile. But in the meantime, let's keep it interesting. Let's
-share ideas and experiences and find communities to be involved in.
+share ideas and experiences and find communities to be involved in.</p>
 
-Open acknowledges mistakes and wrong directions. But we don't need to proclaim
+<p>Open acknowledges mistakes and wrong directions. But we don't need to proclaim
 them: the reason there is little interest in the "Journal of Negative Results"
 is that failure often just means "I cannot see how to do this" rather than the
 implied, or even believed "this cannot happen." Mathematics is a great place to
@@ -83,9 +76,9 @@ long proofs because these are the things that interrupt or confirm beliefs,
 hopes, steps to results that are interesting. Openness here means that I open
 up my mind and show you not only that I can do this thing, but how I do it, so
 that you know that each time I do it, the answer is true. And thus you can do
-it too. It is open and open.
+it too. It is open and open.</p>
 
-In order to be relevant, mathematics needs two things: to be true and to be
+<p>In order to be relevant, mathematics needs two things: to be true and to be
 interesting. One of the downsides of open publishing is that spotting the
 interesting becomes harder, because there are no gatekeepers who polish, edit,
 review and perhaps reject the ugly dross. We have to use coding as a
@@ -96,9 +89,9 @@ probably misguided amateur. But these codes are false, and occasionally as
 false as James Lovelock's issues with scientific publishing from outside an
 institution: because his address was not a university or company, journals
 rejected his papers. Discussions were had and his papers were accepted, but it
-was more effort, there was a gatekeeper that was using inappropriate codes.
+was more effort, there was a gatekeeper that was using inappropriate codes.</p>
 
-Openness has so many other branches. Money earnt, work done, distractions
+<p>Openness has so many other branches. Money earnt, work done, distractions
 allowed. In collective work, we often agree upon a "basic wage" and share the
 work equally, something like from each according to their abilities, to each
 according to their needs. But how many innovators are independently wealthy and
@@ -114,9 +107,9 @@ needed to ensure that "public monies" are being correctly spent on science,
 humanities, culture and the arts? Are the numerical results of bums on seats
 and webpage views actually useful, or is that just another coded gatekeeper? If
 you can get through the dross of the application, then you are serious enough
-to be able to make it happen.
+to be able to make it happen.</p>
 
-Perhaps transparency breaks trust. Perhaps openness creates not just abundance
+<p>Perhaps transparency breaks trust. Perhaps openness creates not just abundance
 but waste. In the sense of "There's no such thing as waste, just stuff in the
 wrong place." It is probably worth keeping a lot of things out of the public
 eye, of not sharing every little detail on a blog or a series of explanations
@@ -134,9 +127,9 @@ to invest time in reading my question, you need to trust me that I have
 bothered answering the question already. That I have looked in all the normal
 places, tried the standard solutions. If I want to revolutionise gender theory,
 then I need to have read enough background, not just thought about it a bit and
-been excited by an idea.
+been excited by an idea.</p>
 
-Paul Erdos is an acclaimed mathematician, who would arrive with the statement
+<p>Paul Erdos is an acclaimed mathematician, who would arrive with the statement
 "my brain is open" and work with colleagues on problems before travelling
 onwards to the next stop on his never ending journey. This openness led to him
 being the most published mathematician in history. His case is rare. The web is
@@ -148,8 +141,10 @@ that crosses their well-fed minds gets deposited in the collection, pages of
 PDFs, hundreds of blog posts, hours of video lectures: too much! It is said
 that mathematicians are cheap. They require paper, pens and a large wastepaper
 basket. This process of disposal, of winnowing out the dross and keeping the
-good stuff, is the core of good work. If only I would learn that myself.
+good stuff, is the core of good work. If only I would learn that myself.</p>
 
-<p class="author bio">Tim Boykett is involved in researches in the field of
-nearrings, relations between theoretical computer science and abstract
-algebra.</p>
+
+> Tim Boykett is involved in researches in the field of nearrings, relations
+between theoretical computer science and abstract algebra.
+
+

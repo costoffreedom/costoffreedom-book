@@ -1,18 +1,12 @@
----
-title: Nomadic Family
-author: Natacha Roussel
-authorslug: natacha-roussel
-section: AFFORDANCES
-layout: book
-previous: <a href="queering">Queering</a>
-up: <a href="./">AFFORDANCES</a>
-next: <a href="self-sufficiency">Self-Sufficiency</a>
----
 
-> The problem of the costs within the schizoid logic of our times concerns mostly _potestas_, the quantitative, not _potentia_, or incorporeal intensities." 
-    --Rosi Braidotti, Nomadic Theory
+# Nomadic Family
 
-The question of costs often translates into issues of scale and
+<blockquote>
+  <p>The problem of the costs within the schizoid logic of our times concerns mostly <em>potestas</em>, the quantitative, not <em>potentia</em>, or incorporeal intensities." 
+      --Rosi Braidotti, Nomadic Theory</p>
+</blockquote>
+
+<p>The question of costs often translates into issues of scale and
 scalability that are dominant in technological societies. The "scale
 solutionism" starts from the desire to solve cost problems and ends in
 hyper-control, restriction, dissociation and finally disaster
@@ -24,9 +18,9 @@ the rule of preservation and the social limit, Achille Mbembe explains
 that it seems figures of sovereignty develop a general concern that is
 not the preservation of the commons and liveliness, but the spreading
 of death and the material destruction of bodies and populations:
-Bassel Khartabil is, unfortunately, a direct victim.
+Bassel Khartabil is, unfortunately, a direct victim.</p>
 
-In this context, it is impossible to address the problem of costs
+<p>In this context, it is impossible to address the problem of costs
 without transforming our relation to the existing system. Always
 confronted with an impossible dilemma of sustainability, we need to
 envision different ways to face this situation. While costs are most
@@ -37,9 +31,9 @@ avenues to overcome the cost issues, and define new criteria of cost
 evaluation that could lead to re-thinking the free production
 processes in a different organization scheme, resulting in the main
 question: we should ask ourselves if the costs of freedom cannot be
-addressed as a qualitative process rather than a quantitative one.
+addressed as a qualitative process rather than a quantitative one.</p>
 
-Practically, to enforce such a process, only the diversity of networks
+<p>Practically, to enforce such a process, only the diversity of networks
 can help secure our individual endeavors; therefore, the re-evaluation
 of the cost of freedom should start from the premises of community and
 collective approaches to production and network realization, which
@@ -51,9 +45,9 @@ new contexts for such a production. Starting from an assertion of the
 actual situation, we are looking at ways to think complexly with
 regards to freedom issues, and explore how to co-synchronise so that
 the relation that feeds our networks can exist despite actual power
-issues.
+issues.</p>
 
-A Foucauldian view of the actual context would present, coextensively
+<p>A Foucauldian view of the actual context would present, coextensively
 to the rise of power structures, the formulation of scientific
 discourse as the cause of actual costly body politics. While modernity
 has attached its project to a rational view of the world based on a
@@ -71,9 +65,9 @@ presence on earth and the growth of social control apparatus, can an
 examination of relational complexity bring us towards social
 sustainability, and what would be the sensitive approach that could
 ground an exchange system, and lead it towards a sustainable
-expansion?
+expansion?</p>
 
-A holistic setup would allow us to spare ourselves by leaving the
+<p>A holistic setup would allow us to spare ourselves by leaving the
 costs for freedom at the expense of the potestas while reacting in
 diverse and unstructured networks, and at a molecular level to reach
 full potentia. We are looking for ways to confront necropolitics and
@@ -85,15 +79,15 @@ looking for substitutes and technological prosthesis, it fully assumes
 death as a constituent of human relation and organisation while it
 looks beyond the unitary vision of the self, to molecular
 transformations as a way to synchronize to the world in a deeply
-transformative process (Braidotti 2011).
+transformative process (Braidotti 2011).</p>
 
-In response to this statement, several issues need to be addressed
+<p>In response to this statement, several issues need to be addressed
 that would further ground the development of our community processes,
 based on a long history and knowledge of existing knowledge. Some
 affordances might lead to explore different relational setups that
-would help to transpose the question of costs.
+would help to transpose the question of costs.</p>
 
-__TRANSMISSION__: While power relations build over cycles of crisis,
+<p><strong>TRANSMISSION</strong>: While power relations build over cycles of crisis,
 they seem to destroy reference points and instrumentalize history to
 the service of immediate power relations. Indeed, it is clear that
 technological breakthroughs importantly transform relational
@@ -112,9 +106,9 @@ possibilities is to expose current technological communities to
 existing social science and allow for transdisciplinarity and
 politicization of the discourse. The project of hackerspaces
 workshops, for example, inscribes itself into a transactional process
-of transmission through a collective community context.
+of transmission through a collective community context.</p>
 
-__BIOPOWER__: As it appears that sovereignty stands as a condition of
+<p><strong>BIOPOWER</strong>: As it appears that sovereignty stands as a condition of
 control, the question of the unicity of self, is again a transient
 issue persisting across time and through technologies. Variations of
 intensity characterize the thinking subject and are mostly
@@ -124,9 +118,9 @@ principle go far further than the limits of human species in setting
 the potential of transformation into a process of becoming. According
 to Rosi Braidotti, this denaturalization process is one of the effects
 of technological progress in fields such as biogenetics where we
-integrate different species in an inter-evolutionary process.
+integrate different species in an inter-evolutionary process.</p>
 
-__TRANSFORMATION__: After a consciousness-rising process triggered by
+<p><strong>TRANSFORMATION</strong>: After a consciousness-rising process triggered by
 the awareness of a state of dismay, it could be timely to consider,
 observe and acknowledge a trans-species potential for knowledge
 diversity leading to social sustainability. This process can be
@@ -137,6 +131,10 @@ responding to the trigger of the momentum is a way to reach the
 acknowledgment of the possibility of instantaneous
 transformation. Variations of codes, genres and modalities of
 expression of the idea see transposition as a possible solution for
-genetic transmutation and exchange.
+genetic transmutation and exchange.</p>
 
-<p class="author bio">by {{ page.author }}</p>
+
+> Natacha Roussel is a f-loss artist. She is the co-founder of the F-lat
+collective. Natacha is based in Brussels.
+
+

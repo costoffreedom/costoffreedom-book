@@ -1,15 +1,7 @@
----
-title: Reconciliation
-author: hellekin, Natacha Roussel, and Pauline Gadea
-authorslug: natacha-roussel,hellekin,pauline-gadea
-section: AFFORDANCES
-layout: book
-previous: <a href="resilient-networks">Resilient Networks</a>
-up: <a href="./">AFFORDANCES</a>
-next: <a href="../epilogue/">Epilogue</a>
----
 
-Like a teenager discovering the shortcomings of the father, 21st
+# Reconciliation
+
+<p>Like a teenager discovering the shortcomings of the father, 21st
 Century humans want to break free from a paternalist system that
 cannot address complexity. They start looking after each other and
 invent new associative institutions for solidarity, and take the
@@ -24,9 +16,9 @@ and a new concept of freedom is necessary to keep the system from
 running out of control. We must acknowledge that with freedom comes
 responsibility. If "with power comes great responsibility", political
 power brings the most responsibility, therefore it must respect
-individual freedom in the first place.
+individual freedom in the first place.</p>
 
-The antagonistic contradiction between global and individual freedoms
+<p>The antagonistic contradiction between global and individual freedoms
 brings on the notion of choice and responsibility to create the
 balance and resolve it at another level of reality. Gaining power is
 not anymore a question of taking it, but to accept responsibility at a
@@ -45,9 +37,9 @@ self-determination is paternalism, a principal regulator of our
 infantilizing civilization. It can be retraced up and until liberalism
 and must disappear from a different organizational model if we are to
 achieve global individual and responsible freedom, responding to the
-injunction to "think global, act local".
+injunction to "think global, act local".</p>
 
-Free culture is all about addressing this contradiction as it emerges
+<p>Free culture is all about addressing this contradiction as it emerges
 from this polarized tension. It produces the actual means and
 technical tools both inspired by those issues and created to resolve
 them. But free culture was born in reaction to the impeachment of
@@ -57,9 +49,9 @@ for free culture organizations to benefit from the synergies of
 interdependence that could enable it to become a tangible way out of
 dying social structures. It rises the essential question of scale of
 organisazion, on which contributions here above express diverging
-opinions.
+opinions.</p>
 
-A recurrent pattern in free culture and free software is the lack of
+<p>A recurrent pattern in free culture and free software is the lack of
 means to achieve stated goals, that ends up limiting the scope of
 action. Proponents of scaling up to big entities, as well as
 proponents of small, resistant networks need to overcome their
@@ -69,9 +61,9 @@ can unfold economies of scale, as long as their action is focused and
 directed. But that comes at the price of slowness and a lack of
 resilience. On the contrary, distributed networks must offset the
 costs of their autonomy and their speed in line with a lack of funding
-that can be paralyzing.
+that can be paralyzing.</p>
 
-Large entities are more likely to obtain public grants, as they can
+<p>Large entities are more likely to obtain public grants, as they can
 invest in the time and skills required to write acceptable
 applications. It involves technical and administrative knowledge and
 know-how that is often lacking in existing solidarity networks. But
@@ -79,9 +71,9 @@ such grants generally allocate funds to tightly focused projects,
 serving specialized tasks and positions. Meanwhile small networks are
 often divergent, exploratory, involving multiple skills from a variety
 of disciplines: this work cannot be covered by grants which impose
-accountable production plans.
+accountable production plans.</p>
 
-The question of how to enable complementarity between larger
+<p>The question of how to enable complementarity between larger
 institutions and more informal networks is one of balance between
 power and agency. Public and corporate institutions naturally exercise
 power, given their scale and position within the interdependent
@@ -94,9 +86,11 @@ decentralized informal networks to intensify their social ties beyond
 specialization and a predetermined reading grid. Only then can we end
 infantilization and become adults as a species: by cooperating
 responsibly as members of a global society that embraces life, in all
-its complexity, uncertainty, and affectivity.
+its complexity, uncertainty, and affectivity.</p>
 
-<p class="author bio">
-By <a href="../authors/hellekin">hellekin</a>,
-<a href="../authors/natacha-roussel">Natacha Roussel</a>,
-and <a href="../authors/pauline-gadea">Pauline Gadea</a></p>
+
+> By [hellekin](../authors/hellekin), [Natacha Roussel](../authors/natacha-
+
+roussel), and [Pauline Gadea](../authors/pauline-gadea)
+
+

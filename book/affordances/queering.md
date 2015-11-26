@@ -1,20 +1,11 @@
----
-title: Queering
-categories: book
-author: Natacha Roussel
-authorslug: natacha-roussel
-section: Affordances
-layout: book
-previous: <a href="/book/affordances">AFFORDANCES</a>
-up: <a href="/book">Cost of Freedom</a>
-next: <a href="nomadic-family">Nomadic Family</a>
----
 
-From 23 to 24 May, [femhack][0] organized an international hackathon
+# Queering
+
+<p>From 23 to 24 May, [femhack][0] organized an international hackathon
 in the loving memory of Sabeen Mahmud, getting together amongst a
-large number of feminist hackerspaces locally and around the world.
+large number of feminist hackerspaces locally and around the world.</p>
 
-Sabeen Mahmud was a Pakistani activist fighting for human rights in
+<p>Sabeen Mahmud was a Pakistani activist fighting for human rights in
 Pakistan. She was the co-founder and director of the second floor
 (T2F), a cafe in Karachi. She also had been the president of Karachi's
 branch of deTiE (The Indus Entrepreneurs), a not-for-profit
@@ -22,9 +13,9 @@ organisation dedicated to promoting entrepreneurial spirit. On 24
 April 2014, she was shot down by unidentified gunmen while coming back
 from the seminar she had just hosted at T2F, examining issues and
 triggering awareness about people who had disappeared in Baluchistan,
-a province of northern Pakistan.
+a province of northern Pakistan.</p>
 
-A year after her death, we had the desire to express our solidarity
+<p>A year after her death, we had the desire to express our solidarity
 online and off-line, as a network of feminist spaces for resistance,
 being transnationals and postcolonialists. Furthermore, this event
 allowed us to more clearly define our network of solidarity. We do
@@ -39,9 +30,9 @@ structures: this is not an easy process, as fragility is also a
 definitive asset allowing for sensitivity and understanding.  However,
 while numerous, our structures lack the sufficient visibility that
 would allow better protection, and consequently it keeps being
-difficult to identify everyone.
+difficult to identify everyone.</p>
 
-This day was the occasion of an encounter that has enabled us to
+<p>This day was the occasion of an encounter that has enabled us to
 identify one another better: since then; we continue to exchange
 messages on a dedicated mailing list that helps us to know each other
 better. However, it still is very difficult to completely identify
@@ -55,15 +46,16 @@ the persistent relations that we are creating and the commonality of
 our interests and attitudes, it remains a complex challenge to
 understand and assess the personality of each of us in an
 always-transient state of being, as people are involved in projects
-with different levels of risks.
+with different levels of risks.</p>
 
-All continents were represented during that event, but the most
+<p>All continents were represented during that event, but the most
 numerous were situated in Latin America, maybe because of the beauty
 of a language practice that has invented a written transgender form;
 for example: "somos guapxs" is the transgender form of "we are
-beautiful."
+beautiful."</p>
 
-<p class="author bio">Natacha Roussel is a f-loss artist. She is the co-founder
-of the F-lat collective. Natacha is based in Brussels.</p>
 
-[0]: http://femhack.org/
+> Natacha Roussel is a f-loss artist. She is the co-founder of the F-lat
+collective. Natacha is based in Brussels.
+
+

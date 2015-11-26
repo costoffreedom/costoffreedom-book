@@ -1,38 +1,47 @@
----
-title: Love Letter to Computers
-author: Clément Renaud
-section: Epilogue
-layout: book
-previous: <a href="internal-freedom">Internal Freedom</a>
-up: <a href="./">Epilogue</a>
-next: <a href="arabfuturisms-conversation-a">Arabfuturism(s) (Conversation A)</a>
----
 
-An old WordPress installation turns into a zombie spam machine.
+# Love Letter to Computers
 
-Interesting energy growing a beast of some sort.
+<p>An old WordPress installation turns into a zombie spam machine.</p>
 
-Deleted accounts exist as active memories.
+<p>Interesting energy growing a beast of some sort.</p>
 
-Transformative experience produces deceptive results.
+<p>Deleted accounts exist as active memories.</p>
 
-Installed open-source software, took me three days: it never worked.
+<p>Transformative experience produces deceptive results.</p>
 
-Technologies of intellect: learning to write, learning to write code,
-learning to write code and text.
+<p>Installed open-source software, took me three days: it never worked.</p>
 
-Humans stuck in batches in traffic while information circulates around
-them.
+<p>Technologies of intellect: learning to write, learning to write code,
+learning to write code and text.</p>
 
-Rivers, crabs and free fear on the PA. Inter-dependencies and
-versioning problems.
+<p>Humans stuck in batches in traffic while information circulates around
+them.</p>
 
-Aging commitments to unclear values.
+<p>Rivers, crabs and free fear on the PA. Inter-dependencies and
+versioning problems.</p>
 
-Seeking something to recycle in the social data wasteland.
+<p>Aging commitments to unclear values.</p>
 
-Pain-relievers and arnica for the back of your neck.
+<p>Seeking something to recycle in the social data wasteland.</p>
 
-Vanishing values of approaching deadlines.
+<p>Pain-relievers and arnica for the back of your neck.</p>
 
-<p class="author bio">by <a href="../authors/clement-renaud">{{page.author}}</a></p>
+<p>Vanishing values of approaching deadlines.</p>
+
+
+> Clément Renaud is 32 years old. He is a researcher, developer, creative coder,
+and journalist, based in Lyon.
+
+**Author**
+
+  * Preface: [Voices of Free Culture](/book/)
+  * [Love Letter to Computers](/book/epilogue/love-letter-to-computers)
+
+**Editor**
+
+  * [Introduction](/book/prologue-introduction)
+  * [Liberté](/book/collective-memory/liberte)
+  * [Free Software Economics](/book/free-software-economics)
+  * [Call for Participation](/book/appendices/call-for-participation)
+
+

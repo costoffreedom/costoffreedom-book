@@ -1,39 +1,17 @@
----
-title: AFFORDANCES
-section: AFFORDANCES
-layout: book
-previous: <a href="../architectonics-of-power/beyond-capitalism">Beyond Capitalism</a>
-up: <a href="../">Cost of Freedom</a>
-next: <a href="queering">Queering</a>
----
 
-__Nature, structure, motivations and limitations of some fundamental levers towards a successful practice of liberation.__
+# AFFORDANCES
 
-- [Queering][0], by [Natacha Roussel][1]
-- [Nomadic Family][2], by [Natacha Roussel][1]
-- [Self-Sufficiency][4], by [Pauline Gadea][5]
-- [Collective Validation][6], by [ginger coons][7]
-- [Transdisciplinarity][8], by [Mélanie Dulong de Rosnay][9]
-- [Resilient Networks][10], by [Jean-Noel Montagné][11]
-- [Reconciliation](reconciliation), by [hellekin][13], [Natacha Roussel][1], and [Pauline Gadea][5]
+<p><strong>Nature, structure, motivations and limitations of some fundamental levers towards a successful practice of liberation.</strong></p>
+
+<ul>
+<li><a href="queering">Queering</a>, by <a href="../authors/natacha-roussel">Natacha Roussel</a></li>
+<li><a href="nomadic-family">Nomadic Family</a>, by <a href="../authors/natacha-roussel">Natacha Roussel</a></li>
+<li><a href="self-sufficiency">Self-Sufficiency</a>, by <a href="../authors/pauline-gadea">Pauline Gadea</a></li>
+<li><a href="collective-validation">Collective Validation</a>, by <a href="../authors/ginger-coons">ginger coons</a></li>
+<li><a href="transdisciplinarity">Transdisciplinarity</a>, by <a href="../authors/melanie-dulong-de-rosnay">Mélanie Dulong de Rosnay</a></li>
+<li><a href="resilient-networks">Resilient Networks</a>, by <a href="../authors/jean-noel-montagne">Jean-Noel Montagné</a></li>
+<li><a href="reconciliation">Reconciliation</a>, by <a href="../authors/hellekin">hellekin</a>, <a href="../authors/natacha-roussel">Natacha Roussel</a>, and <a href="../authors/pauline-gadea">Pauline Gadea</a></li>
+</ul>
 
 
-[0]: queering
-[1]: ../authors/natacha-roussel
-
-[2]: nomadic-family
-
-[4]: self-sufficiency
-[5]: ../authors/pauline-gadea
-
-[6]: collective-validation
-[7]: ../authors/ginger-coons
-
-[8]: transdisciplinarity
-[9]: ../authors/melanie-dulong-de-rosnay
-
-[10]: resilient-networks
-[11]: ../authors/jean-noel-montagne
-
-[12]: reconciliation
-[13]: ../authors/hellekin
+> 

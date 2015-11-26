@@ -24,9 +24,8 @@ def convert_and_remove_yaml(text_path):
     with open(text_path, "r") as f :
         raw = f.read()
 
-        # parse metadata
-        html = markdown2.markdown(raw, extras=["metadata"])
-        #print html.metadata
+        # parse md with metadata and without bios
+        html = markdown2.markdown(raw.decode("utf-8").split('<p class="author bio">')[0], extras=["metadata"])
 
         # get bio from authors folder
         try :
