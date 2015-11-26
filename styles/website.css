@@ -1,1 +1,19 @@
 /* CSS for website */
+
+img {
+  height : 60%;
+  width : 60%;
+}
+
+h1, h2, h3, a:active {
+  color: #FF4229;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+h3 {
+  font-style: italic;
+  font-weight: normal;
+}

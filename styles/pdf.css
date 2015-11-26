@@ -19,7 +19,7 @@ body {
   font-weight: normal;
   font-family: serif;
   font-size: 10pt;
-  color: #555555; 
+  color: #555555;
 }
 
 p {
@@ -88,7 +88,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #FF4229;
   font-family: sans;
   text-align: left;
-  text-transform: lowercase; }
+
+}
   h1 em, h1 .Italic, h2 em, h2 .Italic, h3 em, h3 .Italic, h4 em, h4 .Italic, h5 em, h5 .Italic, h6 em, h6 .Italic {
     font-weight: 400;
     font-style: italic;

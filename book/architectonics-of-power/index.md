@@ -1,6 +1,6 @@
-# Architectonics of Power
+{% include "chapter-intro.md" %}
 
-**Barriers to freedom and how we as a society eventually deal with them or fail to do so**
+### Barriers to freedom and how we as a society eventually deal with them or fail to do so
 
 *   [Hacking the Contradictions](hacking-the-contradictions.html), by [Stéphanie Vidal](../authors/stephanie-vidal.html)
 *   [Time to Wake Up](time-to-wake-up.html), by [Mushon Zer-Aviv](../authors/mushon-zer-aviv.html)

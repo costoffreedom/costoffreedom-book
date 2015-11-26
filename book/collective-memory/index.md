@@ -1,6 +1,6 @@
-# Collective Memory
+{% include "chapter-intro.md" %}
 
-**Bassel should be free. _We will not stop campaigning for him until we see him as a free global citizen once again._**
+### Bassel should be free. _We will not stop campaigning for him until we see him as a free global citizen once again._
 
 * [The Uncommon Creativity of Bassel Khartabil](the-uncommon-creativity-of-bassel-khartabil.html), by [Barry Threw](../authors/barry-threw.html)
 * [Bassel, and My Freedom](bassel-and-my-freedom.html), by [Noura Safadi](../authors/noura-safadi.html)

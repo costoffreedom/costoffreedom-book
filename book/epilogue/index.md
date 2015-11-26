@@ -1,4 +1,4 @@
-# Epilogue
+{% include "chapter-intro.md" %}
 
 *   [Internal Freedom](internal-freedom.html), by [hellekin](../authors/hellekin.html)
 *   [Love Letter to Computers](love-letter-to-computers.html), by [Clément Renaud](../authors/clement-renaud.html)

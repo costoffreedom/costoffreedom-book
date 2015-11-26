@@ -1,6 +1,6 @@
-# Affordances
+{% include "chapter-intro.md" %}
 
-**Nature, structure, motivations and limitations of some fundamental levers towards a successful practice of liberation.**.html
+### Nature, structure, motivations and limitations of some fundamental levers towards a successful practice of liberation.
 
 
 * [Queering](queering.html), by [Natacha Roussel](../authors/natacha-roussel.html)
