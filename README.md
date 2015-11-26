@@ -1,6 +1,6 @@
 # Cost of Freedom
 
-All builds are available on [gitbook.com](https://www.gitbook.com/book/costoffreedom/costoffreedom)**
+All builds are available on [gitbook.com](https://www.gitbook.com/book/costoffreedom/costoffreedom)
 
 ### Build manually
 
