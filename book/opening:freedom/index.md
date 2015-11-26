@@ -1,5 +1,4 @@
-
-# "OPENING: FREEDOM"
+# Opening:Freedom 
 
 **Personal, sometimes contradictory reflections and views about the experience of working within free culture**
 

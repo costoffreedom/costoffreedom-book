@@ -1,7 +1,7 @@
-
-# AFFORDANCES
+# Affordances
 
 **Nature, structure, motivations and limitations of some fundamental levers towards a successful practice of liberation.**.html
+
 
 *   [Queering](queering.html), by [Natacha Roussel](../authors/natacha-roussel.html)
 *   [Nomadic Family](nomadic-family.html), by [Natacha Roussel](../authors/natacha-roussel.html)

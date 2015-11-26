@@ -1,4 +1,3 @@
-
 # Epilogue
 
 *   [Internal Freedom](internal-freedom.html), by [hellekin](../authors/hellekin.html)
