@@ -25,8 +25,7 @@ see further than the fog of our news feeds and produce some sense from
 our different experiences.
 
 This book is born in an attempt to free Bassel Khartabil Sadafi, loved
-and celebrated Internet volunteer detained in Syria since 15 March
-2012. His name has been deleted from the Adra Prison's register where
+and celebrated Internet volunteer detained in Syria since 15 March 2012. His name has been deleted from the Adra Prison's register where
 he was detained, on 3 October 2015.  We have not received any
 information about his current status or whereabouts since. The
 introductory part of this book called [Collective Memory][0] gives
