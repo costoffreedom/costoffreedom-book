@@ -2,6 +2,19 @@
 This book is dedicated to the public domain and licensed under the
 terms of the [CC0 license](/book/appendix/cc0-license).
 
+__Book Publishing__: Clément Renaud
+
+__Cover Painting__: Omar Ibrahim, artist born in the south of Syria
+1978, living and working in Paris.
+
+__Book Production and Cover Design__: Julien Taquet
+
+__Book Sprint Facilitation__: Barbara Rühling
+
+__Text Clean-Up__: Raewyn Whyte
+
+__MISSINGBASSEL Illustration__: Neil Stuber
+
 ## Contributors
 
 * {% include "./adam-hyde.md" %}
@@ -48,17 +61,3 @@ terms of the [CC0 license](/book/appendix/cc0-license).
 * {% include "./tim-boykett.md" %}
 * {% include "./tyng-ruey-chuang.md" %}
 * {% include "./yu-li.md" %}
-
-
-__Book Publishing__: Clément Renaud
-
-__Cover Painting__: Omar Ibrahim, artist born in the south of Syria
-1978, living and working in Paris.
-
-__Book Production and Cover Design__: Julien Taquet
-
-__MISSINGBASSEL Illustration__: Neil Stuber
-
-__Text Clean-Up__: Raewyn Whyte
-
-__Book Sprint Facilitation__: Barbara Rühling
