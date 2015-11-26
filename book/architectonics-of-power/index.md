@@ -1,24 +1,17 @@
 
 # ARCHITECTONICS OF POWER
 
-<p><strong>Barriers to freedom and how we as a society eventually deal with them or fail to do so</strong></p>
+**Barriers to freedom and how we as a society eventually deal with them or fail to do so**
 
-<ul>
-<li><a href="hacking-the-contradictions">Hacking the Contradictions</a>, by <a href="../authors/stephanie-vidal">Stéphanie Vidal</a></li>
-<li><a href="time-to-wake-up">Time to Wake Up</a>, by <a href="../authors/mushon-zer-aviv">Mushon Zer-Aviv</a></li>
-<li><a href="the-cost-of-internet-freedom">The Cost of Internet Freedom</a>, by <a href="../authors/geert-lovink">Geert Lovink</a></li>
-<li><a href="why-i-choose-privacy">Why I Choose Privacy</a>, by <a href="../authors/sabrina-banes">Sabrina Banes</a></li>
-<li><a href="why-i-choose-copyright">Why I Choose Copyright</a>, by <a href="../authors/lucas-gonze">Lucas Gonze</a></li>
-<li><a href="why-i-refused-my-proprietary-self">Why I Refused My Proprietary Self</a>, by <a href="../authors/adam-hyde">Adam Hyde</a></li>
-<li><a href="image-identity-attribution-authorship">Image, Identity, Attribution, Authorship</a>, by <a href="../authors/christopher-adams">Christopher Adams</a></li>
-<li><a href="the-burden-of-journalism">The Burden of Journalism</a>, by <a href="../authors/theophile-pillault">Théophile Pillault</a></li>
-<li><a href="architecture=power">Architecture = Power</a>, by <a href="../authors/stephanie-vidal">Stéphanie Vidal</a></li>
-<li><a href="from-outer-space">From Outer Space</a>, by <a href="../authors/niki-korth">Niki Korth</a></li>
-<li><a href="free-software-economics">Free Software Economics</a>, by <a href="../authors/hellekin">hellekin</a>, <a href="../authors/jaromil">jaromil</a>, <a href="../authors/radium">radium</a>, <a href="../authors/christian-grothoff">grothoff</a></li>
-<li><a href="beyond-capitalism">Beyond Capitalism</a>, by <a href="../authors/hellekin">hellekin</a></li>
-</ul>
-
-
-> Collective writing
-
-
+*   [Hacking the Contradictions](hacking-the-contradictions.html), by [Stéphanie Vidal](../authors/stephanie-vidal.html)
+*   [Time to Wake Up](time-to-wake-up.html), by [Mushon Zer-Aviv](../authors/mushon-zer-aviv.html)
+*   [The Cost of Internet Freedom](the-cost-of-internet-freedom.html), by [Geert Lovink](../authors/geert-lovink.html)
+*   [Why I Choose Privacy](why-i-choose-privacy.html), by [Sabrina Banes](../authors/sabrina-banes.html)
+*   [Why I Choose Copyright](why-i-choose-copyright.html), by [Lucas Gonze](../authors/lucas-gonze.html)
+*   [Why I Refused My Proprietary Self](why-i-refused-my-proprietary-self.html), by [Adam Hyde](../authors/adam-hyde.html)
+*   [Image, Identity, Attribution, Authorship](image-identity-attribution-authorship.html), by [Christopher Adams](../authors/christopher-adams.html)
+*   [The Burden of Journalism](the-burden-of-journalism.html), by [Théophile Pillault](../authors/theophile-pillault.html)
+*   [Architecture = Power](architecture=power.html), by [Stéphanie Vidal](../authors/stephanie-vidal.html)
+*   [From Outer Space](from-outer-space.html), by [Niki Korth](../authors/niki-korth.html)
+*   [Free Software Economics](free-software-economics.html), by [hellekin](../authors/hellekin), [jaromil](../authors/jaromil), [radium](../authors/radium), [grothoff](../authors/christian-grothoff.html)
+*   [Beyond Capitalism](beyond-capitalism.html), by [hellekin](../authors/hellekin.html)

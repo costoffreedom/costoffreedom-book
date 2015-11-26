@@ -1,24 +1,17 @@
 
 # Collective Memory
 
-<p><strong>Bassel should be free. <em>We will not stop campaigning for him until we see him as a free global citizen once again.</em></strong></p>
+**Bassel should be free. _We will not stop campaigning for him until we see him as a free global citizen once again._**
 
-<ul>
-<li><a href="the-uncommon-creativity-of-bassel-khartabil">The Uncommon Creativity of Bassel Khartabil</a>, by <a href="../authors/barry-threw">Barry Threw</a></li>
-<li><a href="bassel-and-my-freedom">Bassel, and My Freedom</a>, by <a href="../authors/noura-safadi">Noura Safadi</a></li>
-<li><a href="about-bassel">About Bassel</a>, by <a href="../authors/patrick-w-deegan">Patrick W. Deegan</a></li>
-<li><a href="newpalmyra-and-the-free-bassel-campaign">#NEWPALMYRA and the Free Bassel Campaign</a>, by <a href="../authors/jon-phillips">Jon Phillips</a></li>
-<li><a href="palmyra-3d-premonition-vision-of-bassel">Palmyra 3D, Premonition Vision of Bassel</a>, by <a href="../authors/faraj-rifait">Faraj Rifait</a></li>
-<li><a href="rebuild-asad-al-lat">Rebuild Asad Al-Lat</a>, by <a href="../authors/georges-dahdouh">Georges Dahdouh</a></li>
-<li><a href="supporting-bassel">Supporting Bassel</a>, by <a href="../authors/ethan-zuckerman">Ethan Zuckerman</a></li>
-<li><a href="what-does-freedom-mean-to-you-mr-government">What Does Freedom Mean to You, Mr. Government?</a>, by <a href="../authors/anasuya-sengupta">Anasuya Sengupta</a></li>
-<li><a href="bassel-k">"Bassel K"</a>, by <a href="../authors/marc-weidenbaum">Marc Weidenbaum</a></li>
-<li><a href="my-friend-is-not-free">My Friend is Not Free</a>, by <a href="../authors/tyng-ruey-chuang">Tyng-Ruey Chuang</a></li>
-<li><a href="liberte">Liberté</a>, by <a href="../authors/donatella-della-ratta">Donatella Della Ratta</a></li>
-<li><a href="free-bassel">Free Bassel</a>, by <a href="../authors/maarten-zeinstra">Maarten Zeinstra</a>, and <a href="../authors/muid-latif">Muid Latif</a></li>
-</ul>
-
-
-> Collective writing
-
-
+*   [The Uncommon Creativity of Bassel Khartabil](the-uncommon-creativity-of-bassel-khartabil.html), by [Barry Threw](../authors/barry-threw.html)
+*   [Bassel, and My Freedom](bassel-and-my-freedom.html), by [Noura Safadi](../authors/noura-safadi.html)
+*   [About Bassel](about-bassel.html), by [Patrick W. Deegan](../authors/patrick-w-deegan.html)
+*   [#NEWPALMYRA and the Free Bassel Campaign](newpalmyra-and-the-free-bassel-campaign.html), by [Jon Phillips](../authors/jon-phillips.html)
+*   [Palmyra 3D, Premonition Vision of Bassel](palmyra-3d-premonition-vision-of-bassel.html), by [Faraj Rifait](../authors/faraj-rifait.html)
+*   [Rebuild Asad Al-Lat](rebuild-asad-al-lat.html), by [Georges Dahdouh](../authors/georges-dahdouh.html)
+*   [Supporting Bassel](supporting-bassel.html), by [Ethan Zuckerman](../authors/ethan-zuckerman.html)
+*   [What Does Freedom Mean to You, Mr. Government?](what-does-freedom-mean-to-you-mr-government.html), by [Anasuya Sengupta](../authors/anasuya-sengupta.html)
+*   ["Bassel K"](bassel-k.html), by [Marc Weidenbaum](../authors/marc-weidenbaum.html)
+*   [My Friend is Not Free](my-friend-is-not-free.html), by [Tyng-Ruey Chuang](../authors/tyng-ruey-chuang.html)
+*   [Liberté](liberte.html), by [Donatella Della Ratta](../authors/donatella-della-ratta.html)
+*   [Free Bassel](free-bassel.html), by [Maarten Zeinstra](../authors/maarten-zeinstra), and [Muid Latif](../authors/muid-latif.html)

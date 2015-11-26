@@ -1,24 +1,17 @@
 
 # "OPENING: FREEDOM"
 
-<p><strong>Personal, sometimes contradictory reflections and views about the experience of working within free culture</strong></p>
+**Personal, sometimes contradictory reflections and views about the experience of working within free culture**
 
-<ul>
-<li><a href="keeping-promises">Keeping Promises</a>, by <a href="../authors/lawrence-lessig">Lawrence Lessig</a></li>
-<li><a href="the-shit-of-freedom">The Shit of Freedom</a>, by <a href="../authors/giorgos-cheliotis">Giorgos Cheliotis</a></li>
-<li><a href="freedom-to-vs-freedom-from">"Freedom To" vs. "Freedom From"</a>, by <a href="../authors/martin-paul-eve">Martin Paul Eve</a></li>
-<li><a href="free-culture-in-an-expensive-world">Free Culture in an Expensive World</a>, by <a href="../authors/shauna-gordon-mckeon">Shauna Gordon-McKeon</a></li>
-<li><a href="what-is-open">What is Open?</a>, by <a href="../authors/richard-goodman">Richard Goodman</a></li>
-<li><a href="the-open-world">The Open World</a>, by <a href="../authors/lorna-campbell">Lorna Campbell</a></li>
-<li><a href="costs-of-openness">Costs of Openness</a>, by <a href="../authors/tim-boykett">Tim Boykett</a></li>
-<li><a href="my-brain-on-freedom">My Brain on Freedom</a>, by <a href="../authors/mike-linksvayer">Mike Linksvayer</a></li>
-<li><a href="too-poor-not-to-care">Too Poor Not to Care</a>, by <a href="../authors/ben-dablo">Ben Dablo</a></li>
-<li><a href="inside-or-outside-the-movement">Inside or Outside the Movement</a>, by <a href="../authors/john-wilbanks">John Wilbanks</a></li>
-<li><a href="freedom-as-a-commodity">Freedom as a Commodity</a>, by <a href="../authors/pete-ipell">Pete Ippel</a></li>
-<li><a href="free-as-in-commons">Free as in Commons</a>, by <a href="../authors/hellekin">hellekin</a></li>
-</ul>
-
-
-> Collective writing
-
-
+*   [Keeping Promises](keeping-promises.html), by [Lawrence Lessig](../authors/lawrence-lessig.html)
+*   [The Shit of Freedom](the-shit-of-freedom.html), by [Giorgos Cheliotis](../authors/giorgos-cheliotis.html)
+*   ["Freedom To" vs. "Freedom From"](freedom-to-vs-freedom-from.html), by [Martin Paul Eve](../authors/martin-paul-eve.html)
+*   [Free Culture in an Expensive World](free-culture-in-an-expensive-world.html), by [Shauna Gordon-McKeon](../authors/shauna-gordon-mckeon.html)
+*   [What is Open?](what-is-open.html), by [Richard Goodman](../authors/richard-goodman.html)
+*   [The Open World](the-open-world.html), by [Lorna Campbell](../authors/lorna-campbell.html)
+*   [Costs of Openness](costs-of-openness.html), by [Tim Boykett](../authors/tim-boykett.html)
+*   [My Brain on Freedom](my-brain-on-freedom.html), by [Mike Linksvayer](../authors/mike-linksvayer.html)
+*   [Too Poor Not to Care](too-poor-not-to-care.html), by [Ben Dablo](../authors/ben-dablo.html)
+*   [Inside or Outside the Movement](inside-or-outside-the-movement.html), by [John Wilbanks](../authors/john-wilbanks.html)
+*   [Freedom as a Commodity](freedom-as-a-commodity.html), by [Pete Ippel](../authors/pete-ipell.html)
+*   [Free as in Commons](free-as-in-commons.html), by [hellekin](../authors/hellekin.html)
