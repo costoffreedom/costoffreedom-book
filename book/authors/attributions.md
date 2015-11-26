@@ -1,13 +1,4 @@
----
-title: Attributions
-author: collective
-layout: book
-description: Who participated in this book?
-previous: <a href="/book">Cost of Freedom</a>
-up:
-next: <a href="/book/prologue-voices-of-free-culture">Preface</a>
----
-
+# Attributions
 This book is dedicated to the public domain and licensed under the
 terms of the [CC0 license](/book/appendix/cc0-license).
 
