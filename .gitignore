@@ -125,7 +125,6 @@ test.py
 MANIFEST
 MANIFEST.in
 venv
-*.json
 
 # C extensions
 *.so
