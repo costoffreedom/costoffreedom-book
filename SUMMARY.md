@@ -57,7 +57,7 @@
    * [Andromeda Report -- Gliese 832 C Expedition](book/epilogue/andromeda-report-gliese-832-c-expedition.md)
 
 * [Appendix](book/appendix.md)
-  * [Call for Participation](book/call-for-participations.md)
+  * [Call for Participation](book/appendix/call-for-participations.md)
   * [Attributions](book/authors/attributions.md)
     * [adam-hyde](book/authors/adam-hyde.md)
     * [anasuya-sengupta](book/authors/anasuya-sengupta.md)
@@ -104,3 +104,5 @@
     * [tim-boykett](book/authors/tim-boykett.md)
     * [tyng-ruey-chuang](book/authors/tyng-ruey-chuang.md)
     * [yu-li](book/authors/yu-li.md)
+  * [Online Resources](book/appendix/online-resources.md)
+  * [License](book/appendix/license.md)

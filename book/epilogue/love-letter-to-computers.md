@@ -1,47 +1,30 @@
 
 # Love Letter to Computers
 
-<p>An old WordPress installation turns into a zombie spam machine.</p>
+An old WordPress installation turns into a zombie spam machine.
 
-<p>Interesting energy growing a beast of some sort.</p>
+Interesting energy growing a beast of some sort.
 
-<p>Deleted accounts exist as active memories.</p>
+Deleted accounts exist as active memories.
 
-<p>Transformative experience produces deceptive results.</p>
+Transformative experience produces deceptive results.
 
-<p>Installed open-source software, took me three days: it never worked.</p>
+Installed open-source software, took me three days: it never worked.
 
-<p>Technologies of intellect: learning to write, learning to write code,
-learning to write code and text.</p>
+Technologies of intellect: learning to write, learning to write code, learning to write code and text.
 
-<p>Humans stuck in batches in traffic while information circulates around
-them.</p>
+Humans stuck in batches in traffic while information circulates around them.
 
-<p>Rivers, crabs and free fear on the PA. Inter-dependencies and
-versioning problems.</p>
+Rivers, crabs and free fear on the PA. Inter-dependencies and versioning problems.
 
-<p>Aging commitments to unclear values.</p>
+Aging commitments to unclear values.
 
-<p>Seeking something to recycle in the social data wasteland.</p>
+Seeking something to recycle in the social data wasteland.
 
-<p>Pain-relievers and arnica for the back of your neck.</p>
+Pain-relievers and arnica for the back of your neck.
 
-<p>Vanishing values of approaching deadlines.</p>
+Vanishing values of approaching deadlines.
 
 
 > Clément Renaud is 32 years old. He is a researcher, developer, creative coder,
 and journalist, based in Lyon.
-
-**Author**
-
-  * Preface: [Voices of Free Culture](/book/)
-  * [Love Letter to Computers](/book/epilogue/love-letter-to-computers)
-
-**Editor**
-
-  * [Introduction](/book/prologue-introduction)
-  * [Liberté](/book/collective-memory/liberte)
-  * [Free Software Economics](/book/free-software-economics)
-  * [Call for Participation](/book/appendices/call-for-participation)
-
-
