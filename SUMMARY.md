@@ -58,3 +58,4 @@
    * [andromeda-report-gliese-832-c-expedition](book/epilogue/andromeda-report-gliese-832-c-expedition.md)
 * [Appendix](book/appendix.md)
   * [Call for Participation](book/annoucement.md)
+  * [Attributions](book/attributions.md)
