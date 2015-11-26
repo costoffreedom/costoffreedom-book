@@ -13,52 +13,52 @@ terms of the [CC0 license](/book/appendix/cc0-license).
 
 ## Contributors
 
-* {% authors/adam-hyde.md %}
-* {% authors/anasuya-sengupta.md %}
-* {% authors/authors %}
-* {% authors/barry-threw.md %}
-* {% authors/ben-dablo.md %}
-* {% authors/christopher-adams.md %}
-* {% authors/clement-renaud.md %}
-* {% authors/collective.md %}
-* {% authors/donatella-della-ratta.md %}
-* {% authors/ethan-zuckerman.md %}
-* {% authors/faraj-rifait.md %}
-* {% authors/geert-lovink.md %}
-* {% authors/georges-dahdouh.md %}
-* {% authors/ginger-coons.md %}
-* {% authors/giorgos-cheliotis.md %}
-* {% authors/hellekin.md %}
-* {% authors/hellekin-natacha-roussel-and-pauline-gadea.md %}
-* {% authors/index.md %}
-* {% authors/jane-doe.md %}
-* {% authors/jean-noel-montagne.md %}
-* {% authors/john-wilbanks.md %}
-* {% authors/jon-phillips.md %}
-* {% authors/lawrence-lessig.md %}
-* {% authors/lorna-campbell.md %}
-* {% authors/lucas-gonze.md %}
-* {% authors/maarten-zeinstra-muid-latif.md %}
-* {% authors/mark-weidenbaum.md %}
-* {% authors/martin-paul-eve.md %}
-* {% authors/melanie-dulong-de-rosnay.md %}
-* {% authors/mike-linksvayer.md %}
-* {% authors/mushon-zer-aviv.md %}
-* {% authors/natacha-roussel.md %}
-* {% authors/niki-korth.md %}
-* {% authors/noura-ghazi-safadi.md %}
-* {% authors/patrick-w-deegan.md %}
-* {% authors/pauline-gadea.md %}
-* {% authors/pete-ippel.md %}
-* {% authors/richard-goodman.md %}
-* {% authors/sabrina-banes.md %}
-* {% authors/shauna-gordon-mckeon.md %}
-* {% authors/stephanie-vidal.md %}
-* {% authors/sulaiman-majali.md %}
-* {% authors/theophile-pillault.md %}
-* {% authors/tim-boykett.md %}
-* {% authors/tyng-ruey-chuang.md %}
-* {% authors/yu-li.md %}
+* {% include authors/adam-hyde.md %}
+* {% include authors/anasuya-sengupta.md %}
+* {% include authors/authors %}
+* {% include authors/barry-threw.md %}
+* {% include authors/ben-dablo.md %}
+* {% include authors/christopher-adams.md %}
+* {% include authors/clement-renaud.md %}
+* {% include authors/collective.md %}
+* {% include authors/donatella-della-ratta.md %}
+* {% include authors/ethan-zuckerman.md %}
+* {% include authors/faraj-rifait.md %}
+* {% include authors/geert-lovink.md %}
+* {% include authors/georges-dahdouh.md %}
+* {% include authors/ginger-coons.md %}
+* {% include authors/giorgos-cheliotis.md %}
+* {% include authors/hellekin.md %}
+* {% include authors/hellekin-natacha-roussel-and-pauline-gadea.md %}
+* {% include authors/index.md %}
+* {% include authors/jane-doe.md %}
+* {% include authors/jean-noel-montagne.md %}
+* {% include authors/john-wilbanks.md %}
+* {% include authors/jon-phillips.md %}
+* {% include authors/lawrence-lessig.md %}
+* {% include authors/lorna-campbell.md %}
+* {% include authors/lucas-gonze.md %}
+* {% include authors/maarten-zeinstra-muid-latif.md %}
+* {% include authors/mark-weidenbaum.md %}
+* {% include authors/martin-paul-eve.md %}
+* {% include authors/melanie-dulong-de-rosnay.md %}
+* {% include authors/mike-linksvayer.md %}
+* {% include authors/mushon-zer-aviv.md %}
+* {% include authors/natacha-roussel.md %}
+* {% include authors/niki-korth.md %}
+* {% include authors/noura-ghazi-safadi.md %}
+* {% include authors/patrick-w-deegan.md %}
+* {% include authors/pauline-gadea.md %}
+* {% include authors/pete-ippel.md %}
+* {% include authors/richard-goodman.md %}
+* {% include authors/sabrina-banes.md %}
+* {% include authors/shauna-gordon-mckeon.md %}
+* {% include authors/stephanie-vidal.md %}
+* {% include authors/sulaiman-majali.md %}
+* {% include authors/theophile-pillault.md %}
+* {% include authors/tim-boykett.md %}
+* {% include authors/tyng-ruey-chuang.md %}
+* {% include authors/yu-li.md %}
 
 
 __Cover Painting__: Omar Ibrahim, artist born in the south of Syria
