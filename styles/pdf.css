@@ -236,20 +236,21 @@ img {
   border: none !important; }
 
 ul, ol {
-  margin-top: 10pt; }
+  margin-top: 10pt;
+}
 
 ul {
   list-style-type: none;
-  list-style-position: inside;
   line-height: 1.55;
   margin: 0;
   padding: 0;
   padding-left: 2em;
   text-indent: -1.5em;
-  margin-top: 10pt; }
-  ul li:before {
+  margin-top: 10pt;
+}
+
+ul li:before {
     content: "\f105";
-    float: left;
     padding-top: 2pt;
     color: #FF4229;
     margin-right: 1.5em;
