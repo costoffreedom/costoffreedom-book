@@ -1,9 +1,9 @@
 
 # Free Culture in an Expensive World
 
-<blockquote>
-  <p>“Free as in speech, not free as in beer.”[^1]</p>
-</blockquote>
+
+> “Free as in speech, not free as in beer.”[^1]
+
 
 <p>How many times have you heard this explanation of free software? It’s
 cute, catchy, and a little too glib. After all, nothing’s ever that
@@ -142,11 +142,8 @@ for free culture as though in a vacuum. We must advocate for the
 commons in all of its forms - digital, social, economic, environmental
 - before the cost of freedom becomes too high to bear.</p>
 
+[^1]: I am from the United States. This essay is written from that limited perspective, and may not apply to other countries and cultures.
+
 
 > Shauna Gordon-McKeon is a U.S. writer, independent researcher and developer.
 She focuses on open technologies and communities.
-
-community [^1]: I am from the United States. This essay is written from that
-limited perspective, and may not apply to other countries and cultures.
-
-
