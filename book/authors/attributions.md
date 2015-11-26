@@ -20,7 +20,6 @@ terms of the [CC0 license](/book/appendix/cc0-license).
 * {% include "./giorgos-cheliotis.md" %}
 * {% include "./hellekin.md" %}
 * {% include "./hellekin-natacha-roussel-and-pauline-gadea.md" %}
-* {% include "./index.md" %}
 * {% include "./jane-doe.md" %}
 * {% include "./jean-noel-montagne.md" %}
 * {% include "./john-wilbanks.md" %}
