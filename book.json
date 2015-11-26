@@ -11,8 +11,8 @@
     ],
     "pluginsConfig": {
       "layout": {
-            "headerPath" : "_includes/header.html",
-            "footerPath" : "_includes/footer.html"
+            "headerPath" : "layout/header.html",
+            "footerPath" : "layout/footer.html"
         }
     }
 }
