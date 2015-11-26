@@ -18,6 +18,7 @@
     "pdf": {
         "pageNumbers": true,
         "paperSize": "a5",
+        "fontSize": 11,
         "margin": {
             "right": 62,
             "left": 62,
