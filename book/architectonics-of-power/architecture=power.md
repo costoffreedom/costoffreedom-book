@@ -42,7 +42,7 @@ Rabelais.</p>
 <p>The #NEWPALMYRA project is at the cutting-edge of this international
 movement. Born out of the emergency of the Syrian crisis, the</p>
 
-<h1>NEWPALMYRA project is an online community platform and data</h1>
+<h3>NEWPALMYRA project is an online community platform and data</h3>
 
 <p>repository dedicated to the capture, preservation, sharing, and
 creative reuse of data about the ancient city of Palmyra.</p>
@@ -51,7 +51,7 @@ creative reuse of data about the ancient city of Palmyra.</p>
 their outrage and create hope through action. Aiming to virtually
 reconstruct Palmyra’s cultural heritage, gathering data and knowledge,</p>
 
-<h1>NEWPALMYRA is an expression of a collective consciousness.</h1>
+<h3>NEWPALMYRA is an expression of a collective consciousness.</h3>
 
 <p>People often make an opposition between the digital and the reqal but
 it is a pointless statement: the digital should be considered as an
@@ -152,5 +152,3 @@ to preserve our freedom within it?</p>
 
 > Stéphanie Vidal is 30 years old. She is a cultural journalist specialised in
 new media and digital strategist. Stéphanie lives in Paris.
-
-
