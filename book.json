@@ -14,5 +14,15 @@
             "headerPath" : "layout/header.html",
             "footerPath" : "layout/footer.html"
         }
+    },
+    "pdf": {
+        "pageNumbers": true,
+        "paperSize": "a5",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 62,
+            "bottom": 62
+        }
     }
 }
