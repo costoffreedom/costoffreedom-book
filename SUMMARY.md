@@ -4,7 +4,7 @@
 * [Preface: the Voices of Free culture](book/prologue-voices-of-free-culture.md)
 * [Introduction](book/prologue-introduction.md)
 * [Collective Memory](book/collective-memory/index.md)
-   * [the-uncommon-creativity-of-bassel-khartabil](book/collective-memory/the-uncommon-creativity-of-bassel-khartabil.md)
+   * [The Uncommon Creativity of Bassel Khartabil](book/collective-memory/the-uncommon-creativity-of-bassel-khartabil.md)
    * [bassel-and-my-freedom](book/collective-memory/bassel-and-my-freedom.md)
    * [about-bassel](book/collective-memory/about-bassel.md)
    * [newpalmyra-and-the-free-bassel-campaign](book/collective-memory/newpalmyra-and-the-free-bassel-campaign.md)
