@@ -1,9 +1,3 @@
----
-title: Barry Threw
-section: Authors
-layout: author
-link: collective-memory/the-uncommon-creativity-of-bassel-khartabil
----
 Designer, technologist, and apparently author, [Barry
 Threw](http://www.barrythrew.com/)
 ([@barrythrew](https://twitter.com/barrythrew)) is the Director of Software at
@@ -17,5 +11,3 @@ https://en.wikipedia.org/wiki/Aiki_Framework [3]: https://openclipart.org/
 [4]: https://fontlibrary.org/ [5]: http://freebassel.org/ [6]:
 http://newpalmyra.org/ [7]: http://joi.ito.com/weblog/2015/10/22/mit-media-
 lab-r.html
-
-
