@@ -8,7 +8,7 @@
    * [about-bassel](book/collective-memory/about-bassel.md)
    * [newpalmyra-and-the-free-bassel-campaign](book/collective-memory/newpalmyra-and-the-free-bassel-campaign.md)
    * [palmyra-3d-premonition-vision-of-bassel](book/collective-memory/palmyra-3d-premonition-vision-of-bassel.md)
-   * [asad-al-lat](book/collective-memory/asad-al-lat.md)
+   * [Rebuild Asad-al-lat](book/collective-memory/rebuild-asad-al-lat.md)
    * [supporting-bassel](book/collective-memory/supporting-bassel.md)
    * [what-does-freedom-mean-to-you-mr-government](book/collective-memory/what-does-freedom-mean-to-you-mr-government.md)
    * [bassel-k](book/collective-memory/bassel-k.md)
