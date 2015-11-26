@@ -55,6 +55,7 @@
    * [arabfuturisms-conversation-a](book/epilogue/arabfuturisms-conversation-a.md)
    * [the-cost-of-future-tense](book/epilogue/the-cost-of-future-tense.md)
    * [andromeda-report-gliese-832-c-expedition](book/epilogue/andromeda-report-gliese-832-c-expedition.md)
+
 * [Appendix](book/appendix.md)
-  * [Call for Participation](book/annoucement.md)
+  * [Call for Participation](book/call-for-participations.md)
   * [Attributions](authors/attributions.md)
