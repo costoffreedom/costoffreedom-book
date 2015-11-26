@@ -15,7 +15,6 @@ terms of the [CC0 license](/book/appendix/cc0-license).
 
 * {% include "./adam-hyde.md" %}
 * {% include "./anasuya-sengupta.md" %}
-* {% include "./authors" %}
 * {% include "./barry-threw.md" %}
 * {% include "./ben-dablo.md" %}
 * {% include "./christopher-adams.md" %}
