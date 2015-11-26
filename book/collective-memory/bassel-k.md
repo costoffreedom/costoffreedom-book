@@ -1,5 +1,5 @@
 
-# '"Bassel K"'
+# Bassel K
 
 <p>I read <em>"The Trial"</em> at too young an age. It instilled in me many
 things, some of them even positive, such as an affection for Franz
@@ -58,5 +58,3 @@ work alive.</p>
 > Marc Weidenbaum publishes a webzine, Disquiet, about electronic ambient music
 and has contributed to the scientific journal Nature upon this subject. He was
 editor-in-chief for two of Viz Media's magazines. He lives in San Francisco.
-
-

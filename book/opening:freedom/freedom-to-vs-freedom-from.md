@@ -1,5 +1,5 @@
 
-# '"Freedom To" vs. "Freedom From"'
+# "Freedom To" vs. "Freedom From"
 
 <p>Unlike Bassel Khartabil, the cost to me, personally, of my
 free-knowledge work has been cheap. I have not paid with my
@@ -78,5 +78,3 @@ this cause.</p>
 
 > Dr. Martin Paul Eve is a senior lecturer in literature, technology and
 publishing. He lives in London.
-
-

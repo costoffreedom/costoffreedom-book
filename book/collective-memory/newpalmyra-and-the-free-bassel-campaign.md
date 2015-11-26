@@ -1,5 +1,5 @@
 
-# "#NEWPALMYRA and the Free Bassel Campaign"
+# #NEWPALMYRA and the Free Bassel Campaign
 
 <p><em>Edited by [Patrick Deegan][3].</em></p>
 
@@ -102,5 +102,3 @@ the buildings like bar graphs to the sky, then things can happen.</p>
 [Fabricatorz](https://fabricatorz.com). He lives in Hong Kong. Jon founded the
 [#FREEBASSEL](http://freebassel.org/) campaign in 2012. Transcript by Ekta
 Saran.
-
-

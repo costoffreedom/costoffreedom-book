@@ -1,8 +1,6 @@
 
 # Why I Refused My Proprietary Self
 
-<p><em>Edited by hellekin, 3 Nov 2015, Pourrières, France.</em></p>
-
 <p>I find myself, after all this time immersed in free culture, amazed at
 my holding on to some form of the proprietary way of
 thinking. Sometimes I have found myself consciously going quite a long
@@ -51,7 +49,6 @@ learning about how deeply embedded it is in our daily lives. I keep
 examining it and it keeps surprising me. I keep discarding it. There's
 still a long way to go.</p>
 
+<p><em>Edited by hellekin, 3 Nov 2015, Pourrières, France.</em></p>
 
 > Adam is the founder of [BookSprints](http://booksprints.net).
-
-
