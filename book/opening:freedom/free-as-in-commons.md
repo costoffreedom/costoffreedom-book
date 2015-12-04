@@ -1,4 +1,3 @@
-
 # Free as in Commons
 
 <p>The Free Software Movement is 32 years old. In 1983, Dr. Richard
@@ -125,10 +124,9 @@ you may "have millions of users" but you will not have advanced their
 freedom at all. On the contrary, you would have chosen popularity over
 freedom, and lost technological sovereignty in the process.</p>
 
-<p>Mac OS X is based on a BSD architecture. They generate gigantic
-amounts of sales and the FreeBSD hackers seldom see any of it, and
-can't use what Apple built on top of their code that would benefit all
-their users. This is in essence the difference between copyleft and
+<p>Mac OS X is based on a BSD architecture. But FreeBSD hackers can't
+use what Apple built on top of their code that would benefit all their
+users. This is in essence the difference between copyleft and
 non-copyleft: the former insists the code remains free as it develops,
 including larger programs, while the latter encourages cannibalization
 of the source code by defectors.</p>
@@ -190,5 +188,3 @@ of the commons, resisting others' attempts to pull it out.</p>
 > A global nomad, [hellekin](https://twitter.com/hellekin) is a free software
 activist, member of the [Dyne.org](https://dyne.org) Foundation, and [GNU
 consensus](https://gnu.org/consensus) maintainer.
-
-
