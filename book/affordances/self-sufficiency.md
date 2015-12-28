@@ -16,7 +16,7 @@ less "I want to create something I would be proud of with my bare
 hands in a settled place, which would help to tend to freedom for me
 and a small community I choose. If not, I feel like I m neutral in the
 best case scenario in a path to global freedom, feeding a mass system
-which deprives it in the worst way of looking at it"</p>
+which deprives it in the worst way of looking at it."</p>
 
 <p>This vision, of freedom linked with self-sufficiency in food supplies
 and self-determination in terms of human organisation, is commonly
@@ -56,5 +56,3 @@ furniture for a while.</p>
 
 > Pauline Gadea is 30 years old. She lives in Toulouse. After years in the
 media, Pauline now works in local food craft products.
-
-

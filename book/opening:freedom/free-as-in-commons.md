@@ -40,7 +40,7 @@ latter, embarking onto the enormous project of creating an ethical
 world of software, starting with the GNU operating system, a system
 that would respect users' essential freedoms.</p>
 
-<p>In an age on instant gratification, rarely the mind is put to measure
+<p>In an age of instant gratification, rarely the mind is put to measure
 the consequences of passing time. Hackers love to automate away the
 burden of repetition. To spread a political message, we need to repeat
 it; that's what rms has done for three decades. To establish freedom,
@@ -69,7 +69,7 @@ distribute modified versions of the software so that non-programmers
 can benefit from free software as well.</p>
 
 <p>The four freedoms encourage synergies between users and developers for
-the benefit of all: a group of user can decide what to do; the
+the benefit of all: a group of users can decide what to do; the
 programmers among them can implement it; If something scandalous is
 found in a free program, such as the malicious functionality commonly
 discovered in proprietary software, programmer-users will fix it and
@@ -161,7 +161,7 @@ their users, free software vendors cannot do this; nevertheless they
 can still sell copies of the software, development itself, and
 services related to the it: distribution, support, education, etc.</p>
 
-<p>There is a misled simplification that consists in arguing that if the
+<p>There is a misleading simplification that consists in arguing that if the
 software source code is available, people won't pay to obtain it. But
 not everyone is a developer, and most people will prefer paying a
 company to take responsibility for their software: they do it all the

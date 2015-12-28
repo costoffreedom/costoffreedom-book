@@ -72,7 +72,7 @@ person or movement is one that consistently fails to meet its stated goals, or
 consistently is outperformed by its competition, effectively taking two steps
 back for every one forward, with bonus for failing to realize this is what is
 happening. In this sense dwarfish free knowledge actors are stupid, and will
-remain so til they crack the logic of collective action, mostly through huge
+remain so until they crack the logic of collective action, mostly through huge
 free knowledge institutions, though other improved coordination mechanisms may
 help as well.</p>
 
@@ -125,7 +125,4 @@ attempting to learn about and cross-fertilize multiple free knowledge movements
 might come at an extra high cost to your intelligence.</p>
 
 
-> Mike Linksvayer speaks internationally and writes broadly. He is the first CTO
-and then Vice President of Creative Commons.
-
-
+> Mike Linksvayer is a dilettante of various free knowledge movements and a sub-dilettante critic of the same.

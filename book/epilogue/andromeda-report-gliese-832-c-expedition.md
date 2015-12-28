@@ -20,7 +20,7 @@ that had needed to be protected.</p>
 <blockquote>
   <p>Andromeda species have a core organ, a component used to store a
     high concentration of intelligence and the common knowledge of the
-    species. It's a shared source that every individual can acccess to
+    species. It's a shared source that every individual can access to
     instantly exchange knowledge. Decision-making is also generated
     though this part of the organ while connected with external
     information and other useful resources. Since this part of the organ
@@ -101,7 +101,7 @@ civilisation.</p>
 
 <p>A secret meeting has been organised by several organisations and
 enterprises, such as the Planetary Disaster and Monitoring centre,
-Extraterrestrial Defence Agency, Future-us ( a planetary think tank
+Extraterrestrial Defence Agency, Future-us (a planetary think tank
 that acts as an idea generation machine to provide counsel and advice
 for the different country governors), Planetary Lab (an institution
 that gathers all the scientists and engineers to do research on the
@@ -172,7 +172,7 @@ core dysfunction, threatening the loss of our own civilisation data.</p>
 <p>Since Human is an intelligent creature which is highly developed, this
 effect could transfer through biochemical contacts. That because part
 of my system is not fully functioning, some syndrome including the
-growing emotional capacity, which human called " love".</p>
+growing emotional capacity, which human called "love".</p>
 
 <h3>9. Disclosed hitchhiker</h3>
 
@@ -219,5 +219,3 @@ in order to pass through that Drake Passage and bring them back.</p>
 
 > [Yu Li](../authors/yu-li) is 31 years old. She lives and works between Geneva
 and Shenzhen. Yu is a researcher, interaction and speculative designer.
-
-

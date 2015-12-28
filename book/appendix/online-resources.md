@@ -19,8 +19,8 @@ hashtags are used for sharing related contents.
 
 We'd love to hear from you! You can join a mailing-list:
 [book@costoffreedom.cc](mailto:book-subscribe@costoffreedom.cc). Contributors
-can be joined at
-[people@costoffreedom.cc](mailto:people@costoffreedom.cc). An
+can be reached at
+[people@costoffreedom.cc](mailto:people@costoffreedom.cc). A
 low-traffic announcement list suitable for journalists is also
 available at
 [announce@costoffreedom.cc](mailto:cof-announce-subscribe@lists.costoffreedom.cc).

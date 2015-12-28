@@ -1,6 +1,6 @@
 {% include "chapter-intro.md" %}
 
-### Personal, sometimes contradictory reflections and views about the experience of working within free culture
+### Personal, sometimes contradictory reflections and views about the experience of working within free culture.
 
 *   [Keeping Promises](keeping-promises.html), by [Lawrence Lessig](../authors/lawrence-lessig.html)
 *   [The Shit of Freedom](the-shit-of-freedom.html), by [Giorgos Cheliotis](../authors/giorgos-cheliotis.html)

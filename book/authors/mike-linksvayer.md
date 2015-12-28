@@ -1,2 +1,1 @@
-Mike Linksvayer speaks internationally and writes broadly. He is the first CTO
-and then Vice President of Creative Commons.
+Mike Linksvayer is a dilettante of various free knowledge movements and a sub-dilettante critic of the same.

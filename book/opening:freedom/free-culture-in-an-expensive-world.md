@@ -142,6 +142,8 @@ for free culture as though in a vacuum. We must advocate for the
 commons in all of its forms - digital, social, economic, environmental
 - before the cost of freedom becomes too high to bear.</p>
 
+[0]: https://mako.cc/writing/hill-when_free_software_isnt_better.html
+[1]: http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community
 [^1]: I am from the United States. This essay is written from that limited perspective, and may not apply to other countries and cultures.
 
 

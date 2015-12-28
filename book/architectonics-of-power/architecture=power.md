@@ -40,20 +40,17 @@ with real stone, but with people that are the “living stones” of
 Rabelais.</p>
 
 <p>The #NEWPALMYRA project is at the cutting-edge of this international
-movement. Born out of the emergency of the Syrian crisis, the</p>
-
-<h3>NEWPALMYRA project is an online community platform and data</h3>
-
-<p>repository dedicated to the capture, preservation, sharing, and
+movement. Born out of the emergency of the Syrian crisis, the #NEWPALMYRA
+project is an online community platform and data
+repository dedicated to the capture, preservation, sharing, and
 creative reuse of data about the ancient city of Palmyra.</p>
 
 <p>In this project, the power engaged is the power of people to channel
 their outrage and create hope through action. Aiming to virtually
-reconstruct Palmyra’s cultural heritage, gathering data and knowledge,</p>
+reconstruct Palmyra’s cultural heritage, gathering data and
+knowledge, #NEWPALMYRA is an expression of a collective consciousness.</p>
 
-<h3>NEWPALMYRA is an expression of a collective consciousness.</h3>
-
-<p>People often make an opposition between the digital and the reqal but
+<p>People often make an opposition between the digital and the real but
 it is a pointless statement: the digital should be considered as an
 actualisation of real desire, as a space-and-time singularity where
 everything and everyone (even the dead and the missing) can be a

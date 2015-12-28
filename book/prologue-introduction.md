@@ -2,8 +2,8 @@
 
 Freedom comes with many costs, not least responsibility. Social,
 psychological, financial, bodily, emotional: known and unknown costs,
-often to bystanders, turn any strategy to gain and protect freedom
-into an ambiguous quest. Sometimes it isn't clear what freedom
+often to bystanders, make any strategy to gain and protect freedom
+an ambiguous quest. Sometimes it isn't clear what freedom
 means. Many people use and produce bits of free knowledge, but any
 serious attempt quickly runs into tremendous barriers, in every
 field. Participants receive unequal welcome due to gender, language,
@@ -45,7 +45,7 @@ The third part called [ARCHITECTONICS OF POWER][2] takes a step back
 to look at how we, as a society, deal or fail to deal with the
 different barriers that stand in our ways towards freedom. Different
 authors analyze the contradictions of their choices and daily
-activities with larger objectives and lifestyles associated with the
+activities with larger objectives and lifestyles associated with
 free culture. The variety of professions and situations of the
 contributors offer an illustration stained with multiple tones.
 
@@ -55,7 +55,7 @@ perspectives on the nature, structure, motivations and limitations of
 existing levers towards liberation, not only legal and technological
 but also social and cultural.
 
-Once marginal, the free culture is today on the edge of becoming the
+Once marginal, free culture is today on the edge of becoming part of the
 new normal thanks to the Internet while being threatened in its
 fundamentals by its own success.  The many contributions in this book
 offer a unique snapshot of its dreads and interrogations, and a

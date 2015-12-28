@@ -17,7 +17,7 @@ like to do with the images, the texts, the audio files. We were surprised when
 a huge image from our work was used to announce the application for Linz to
 become the European Capital of Culture, without asking us. It is nice to be so
 appreciated that we are a beacon of Linz culture, but we ask you to talk to us.
-A licence is possible a way to avoid talking to one another, openness is
+A licence is possibly a way to avoid talking to one another, openness is
 perhaps about encouraging us to talk, to think, to share and communicate, not
 just announce.</p>
 
@@ -82,7 +82,7 @@ it too. It is open and open.</p>
 interesting. One of the downsides of open publishing is that spotting the
 interesting becomes harder, because there are no gatekeepers who polish, edit,
 review and perhaps reject the ugly dross. We have to use coding as a
-gatekeeper. Spotting references to Einstein, especially how he is wrong, let's
+gatekeeper. Spotting references to Einstein, especially how he is wrong, lets
 us know that a physics paper is probably pseudoscience. The formatting of LaTeX
 as an indicator of seriousness, Microsoft Word as a sign of an enthusiastic but
 probably misguided amateur. But these codes are false, and occasionally as
@@ -146,5 +146,3 @@ good stuff, is the core of good work. If only I would learn that myself.</p>
 
 > Tim Boykett is involved in researches in the field of nearrings, relations
 between theoretical computer science and abstract algebra.
-
-

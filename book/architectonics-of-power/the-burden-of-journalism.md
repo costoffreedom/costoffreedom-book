@@ -8,8 +8,8 @@ more than 15 years of reports and interviews, we are still not able to
 call it a job, because its cost has been so high in comparison with
 the rewards. High for our lives, precarious and submitted to media
 that don't even deserve our attention. High for the profession itself,
-which we happen to sometimes soil with doubtful deontological hygiene
-, or even worse, mimeticism.</p>
+which we happen to sometimes soil with doubtful deontological hygiene,
+or even worse, mimeticism.</p>
 
 <p>Dealing with a less and less united journalism practice and even
 definition, reporters and information collectors are getting more and
@@ -84,5 +84,3 @@ societies willing to free themselves.</p>
 
 > Théophile Pillault is 33 years old. He lives in Marseille. Théophile is a
 freelance journalist, working for Vice, Les Inrockuptibles or Trax Magazine.
-
-

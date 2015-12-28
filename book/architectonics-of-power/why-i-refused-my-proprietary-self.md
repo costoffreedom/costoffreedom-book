@@ -4,7 +4,7 @@
 <p>I find myself, after all this time immersed in free culture, amazed at
 my holding on to some form of the proprietary way of
 thinking. Sometimes I have found myself consciously going quite a long
-way down that path before I stop myself and almost forceably ask
+way down that path before I stop myself and almost forcibly ask
 myself "hey! What are you doing?"</p>
 
 <p>Some time ago I started a methodology called the Book Sprint. It's a

@@ -1,6 +1,6 @@
 # The Uncommon Creativity of Bassel Khartabil
 
-> The people who are in real danger never leave their countries. They are in danger for a reason and for that they don't leave #Syria”
+> The people who are in real danger never leave their countries. They are in danger for a reason and for that they don't leave #Syria
 >
 > [@basselsafadi](https://twitter.com/basselsafadi/status/164355948582932480) on Twitter, 1/31/2012 14:34:46, one month before detention.
 
