@@ -1,6 +1,6 @@
 # Online Resources
 
-This book only scratched the surface of what's being done in the free
+This book only scratched the surface of what’s being done in the free
 culture movements around the world. It is a call to action. The
 authors invite interested readers to explore these topics on the Web,
 and participate in like-minded projects in their area. A collection of
@@ -17,7 +17,7 @@ Twitter. The [#freebassel](https://twitter.com/hashtag/freebassel))
 and [#costoffreedom](https://twitter.com/hashtag/costoffreedom)
 hashtags are used for sharing related contents.
 
-We'd love to hear from you! You can join a mailing-list:
+We’d love to hear from you! You can join a mailing-list:
 [book@costoffreedom.cc](mailto:book-subscribe@costoffreedom.cc). Contributors
 can be reached at
 [people@costoffreedom.cc](mailto:people@costoffreedom.cc). A

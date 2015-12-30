@@ -168,7 +168,7 @@ effort being made in the name of a cause I strongly believe in, and
 then you make a mockery of that effort, I feel stupid for even
 trying. And then I’m angry. So angry that I may say nothing, out of
 respect for those around us who are truly trying to make something of
-the moment, not only for themselves but also for others - like Bassel,
+the moment, not only for themselves but also for others – like Bassel,
 who has sacrificed so much for something he believed in, with nothing
 in it for himself. Instead, I’ll pour my anger and disappointment
 here. And my love. Because without love, I wouldn’t have cared to

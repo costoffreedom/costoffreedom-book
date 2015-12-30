@@ -82,7 +82,7 @@ have to keep secrets as a matter of survival, you are not free.</p>
 in a fishbowl, and fishbowls are not free places either.  When your
 whole church discusses whether your parents are being profligate with
 their money by taking their thirteen-year-old daughter whose
-classmates call her "Bugs Bunny" to an orthodontist, that's not
+classmates call her “Bugs Bunny” to an orthodontist, that’s not
 freedom.</p>
 
 <p>11. As an army brat, I was raised to believe that the US government is
@@ -113,7 +113,7 @@ like TPP, TTIP, and TiSA. The aforementioned spying bill, CISA, lays
 some of the groundwork in the US for those treaties, helps foster an
 environment that would allow the American government — and, with the
 treaties, corporations and governments around the world — to encroach
-on everyone's liberties even more.</p>
+on everyone’s liberties even more.</p>
 
 <p>16. As someone who has survived tyranny, the most important thing to
 me is never living under it again. As someone who is free with my
@@ -138,10 +138,10 @@ survival.</p>
 <p>We need these tools to survive situations like the one above,
 situations which are all too common. People who want to make strong
 cryptography illegal, like FBI Director James Comey, are saying they
-don't want us to have the tools we need to in order to escape
-life-threatening situations. That's not just misguided; it's
+don’t want us to have the tools we need to in order to escape
+life-threatening situations. That’s not just misguided; it’s
 tyrannical and frightening. Comey is behaving like an abusive partner,
-trying to make some rule that you aren't allowed to stop him from
+trying to make some rule that you aren’t allowed to stop him from
 reading all your emails and text messages. He and people like him are
 trying to make it illegal for people like me to survive this world.</p>
 

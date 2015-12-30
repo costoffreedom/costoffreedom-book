@@ -6,14 +6,14 @@
 
 <p>Watching the news in Syria, bloodshed and destruction everywhere, we
 have mixed feelings, fear for our parents and friends in the country
-facing all these atrocities, and there's nothing that we can do. The
+facing all these atrocities, and there’s nothing that we can do. The
 scene of an ISIS member destroying Asad Al-Lat statue with a hammer
 triggered it all, the statue of a lion protecting a deer, with an
 ancient script on its left leg, saying that bloodshed is prohibited.</p>
 
 <p>We can fight this particular crime, a crime against humanity, because
 what they destroyed in Palmyra besides many other areas, is the
-world's heritage. They want these statues, this heritage, to disappear
+world’s heritage. They want these statues, this heritage, to disappear
 forever, but we will make the memory of these statues reach every
 corner in the world: this is how this project aims to resist
 destruction and ignorance.</p>

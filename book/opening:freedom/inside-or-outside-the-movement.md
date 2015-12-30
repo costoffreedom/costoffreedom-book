@@ -11,14 +11,14 @@ a result, working in free knowledge is often a fundamentally
 transgressive act, politically and economically. And transgression
 against dominant social concepts comes with so many different costs.</p>
 
-<p>There's a cost to explain free knowledge, because it has to start with
+<p>There’s a cost to explain free knowledge, because it has to start with
 what’s wrong with closed knowledge. That comes at a cost of having
 friends or family understand the job, with questions like “why do you
 keep working on this when you could make so much more money somewhere
 else?” There’s a cost to always being the outlier in a “normal” room
 of professionals, working against the gravity that defines normal for
-everyone else. There's a cost in constantly looking for funding when
-the dominant capital systems don’t reward or pay for freedom. There's
+everyone else. There’s a cost in constantly looking for funding when
+the dominant capital systems don’t reward or pay for freedom. There’s
 a cost in always feeling weird, always feeling like the power systems
 want you to lose.</p>
 
@@ -47,9 +47,9 @@ backers of the public domain to those who embrace non-commercial
 licenses, from a total open commons to a network of managed commons,
 have way too much in common to subscribe to a purge mentality within
 free knowledge. I’m a lot less strict about applying definitions of
-freedom to people - those definitions are for knowledge objects! And
-I'm a lot more inclusive of different opinions within the free
-knowledge movement than I used to be. It means that at least I'm no
+freedom to people – those definitions are for knowledge objects! And
+I’m a lot more inclusive of different opinions within the free
+knowledge movement than I used to be. It means that at least I’m no
 longer paying the cost within the movement, and I’m reserving all the
 resources for the costs outside the movement.</p>
 

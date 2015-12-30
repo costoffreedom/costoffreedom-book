@@ -18,7 +18,7 @@
 * [Opening:Freedom](book/opening:freedom/index.md)
    * [Keeping Promises](book/opening:freedom/keeping-promises.md)
    * [The Shit of Freedom](book/opening:freedom/the-shit-of-freedom.md)
-   * ["Freedom To" vs. "Freedom From"](book/opening:freedom/freedom-to-vs-freedom-from.md)
+   * [“Freedom To” vs. ”Freedom From”](book/opening:freedom/freedom-to-vs-freedom-from.md)
    * [Free Culture in an Expensive World](book/opening:freedom/free-culture-in-an-expensive-world.md)
    * [What is Open?](book/opening:freedom/what-is-open.md)
    * [The Open World](book/opening:freedom/the-open-world.md)
@@ -54,7 +54,7 @@
    * [Love Letter To Computers](book/epilogue/love-letter-to-computers.md)
    * [Towards a possible manifesto; proposing Arabfuturism(s)](book/epilogue/arabfuturisms-conversation-a.md)
    * [The Cost of Future Tense](book/epilogue/the-cost-of-future-tense.md)
-   * [Andromeda Report -- Gliese 832 C Expedition](book/epilogue/andromeda-report-gliese-832-c-expedition.md)
+   * [Andromeda Report – Gliese 832 C Expedition](book/epilogue/andromeda-report-gliese-832-c-expedition.md)
 
 * [Appendix](book/appendix.md)
   * [Call for Participation](book/appendix/call-for-participations.md)

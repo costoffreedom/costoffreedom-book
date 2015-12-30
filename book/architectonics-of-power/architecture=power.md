@@ -10,7 +10,7 @@
 <p>The Code of Hammurabi, a basalt stone covered with cuneiform script,
 preserved at Le Louvre in Paris, is recognized as an important
 artifact for both art and history. Erected by the King of Babylon,
-Hammurabi, "protector of the weak and oppressed" circa 1792–1750 BC,
+Hammurabi, “protector of the weak and oppressed” circa 1792–1750 BC,
 the Code is the most complete legal compendium of Antiquity, written
 even before the Biblical laws. Emblematic of the Mesopotamian
 civilization, the stone embodied the Law into a single, indivisible
@@ -110,7 +110,7 @@ trialed for moving freely within it?</p>
 harming its cultural heritage, and persecuting its “living stones.”
 What is happening there shows the international community that people
 are being tracked for expressing their will for freedom, be it with
-something as simple as a "like" on a Facebook Page, or more arduous,
+something as simple as a “like” on a Facebook Page, or more arduous,
 such as founding an entire hackerspace.</p>
 
 <p>This cruel reality has to sensitize us to the power of information

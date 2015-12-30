@@ -22,7 +22,7 @@ similar ideals.</p>
 luck of living in such a privileged environment with freedom of
 expression. My only social cost has been exclusion by conservative
 people from whom I needed neither approval nor friendship, and this
-doesn't even happen so much anymore since openness is becoming more
+doesn’t even happen so much anymore since openness is becoming more
 politically correct and even hyped in Western culture.</p>
 
 <p>To newcomers wondering if the cost in terms of time and efforts is

@@ -1,7 +1,7 @@
 
 # The Cost of Future Tense
 
-<p>The freest person I've met perceived hosts on foreign networks in
+<p>The freest person I’ve met perceived hosts on foreign networks in
 cryptic idioms like the forest of his childhood: each stone, each
 bird, each shadow had no secret for her.</p>
 
@@ -11,9 +11,9 @@ beyond which machines decay, out in the crushing silence of the solar
 wind; the skin, plastic and porous, the drum of desire dancing at the
 pulse of a broken heart.</p>
 
-<p>The freest person I know doesn't look back to some flowing fiction of
+<p>The freest person I know doesn’t look back to some flowing fiction of
 a continuous history, and ignores the prospect of a future past. She
-doesn't live to expectations: she stepped away from paved avenues to
+doesn’t live to expectations: she stepped away from paved avenues to
 trace a tricky path, uncertain and bold. Lecturing an attentive group
 of customs officers on the futility of borders and the fate of money,
 the freest person passes through life in candid wonder.</p>
@@ -25,7 +25,7 @@ the cost of future tense condemns our descent to oblivion with a
 cheering me-time. A blooming hell thrives as the gods laugh at our
 prophetic thin lines: technology would save us all, amen.</p>
 
-<p>The freest person you've met always has time for you. Running here,
+<p>The freest person you’ve met always has time for you. Running here,
 standing there, bursting into laughter, frowning, crying along,
 sharing a quiet moment in the crank of an urban desert, his hello is
 always a relief. You could meet in the eyes of another solitude,

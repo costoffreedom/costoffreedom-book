@@ -105,19 +105,19 @@ Et par le pouvoir d’un mot
 <br>Je suis né pour te connaître
 <br>Pour te nommer
 
-**Liberté.** - Paul Éluard, “Liberté” from “Poésies et vérités”, 1942 [^1]
+**Liberté.** – Paul Éluard, “Liberté” from “Poésies et vérités”, 1942 [^1]
 
-Paul Eluard wrote this poem called “Liberté” in the darkest moment of the world's history, during World War II. At the time, France was occupied by Nazis. Violence, destruction, death were everywhere. The world was hopeless and with a very dark future ahead.  
+Paul Eluard wrote this poem called “Liberté” in the darkest moment of the world’s history, during World War II. At the time, France was occupied by Nazis. Violence, destruction, death were everywhere. The world was hopeless and with a very dark future ahead.  
 
 Yet words of hope were still alive, and poets such as Eluard were able to give shapes and sounds to these words. Freedom, Liberté.  
 
-Libertà, Hurriyya. I've never heard such a beautiful word being spoken by a human voice as much as when I heard this word resonating in the country I love the most, Syria.  
+Libertà, Hurriyya. I’ve never heard such a beautiful word being spoken by a human voice as much as when I heard this word resonating in the country I love the most, Syria.  
 
 It was the chant of life. It was about people telling the world, telling themselves: we are a-l-i-v-e!  
 You, my dear friend, have taken this word well above the cage of silence where it was exiled.  
-You, the Syrian youth, many of our friends who were rushing to write “freedom” on the city's walls, everywhere, are now paying the price.  
+You, the Syrian youth, many of our friends who were rushing to write “freedom” on the city’s walls, everywhere, are now paying the price.  
 
-It's dark time, just like when Paul wrote his ode to liberté. It's dark time, my friend, and that's why we need you and your words more than ever.  
+It’s dark time, just like when Paul wrote his ode to liberté. It’s dark time, my friend, and that’s why we need you and your words more than ever.  
 
 That sweet sound, the sound of spring coming, the sound of youth..will come back..with you, my friend.  
 Hurriyya.
@@ -125,7 +125,7 @@ Hurriyya.
 
 > Donatella Della Ratta has been managing the Creative Commons Arab world community for five years. She maintains a blog on Arab media at [http://mediaoriente.com](http://mediaoriente.com) and tweets avidly [@donatelladr](https://twitter.com/donatelladr).
 
-[^1]: Editor's note: we could not provide the English translation of the poem of Paul Eluard because it's copyrighted and the translator didn't want to participate. Therefore we provide the original French version which is in the Public Domain.
+[^1]: Editor’s note: we could not provide the English translation of the poem of Paul Eluard because it’s copyrighted and the translator didn’t want to participate. Therefore we provide the original French version which is in the Public Domain.
 
 > Donatella Della Ratta has been managing the Creative Commons Arab world
 community for five years. She maintains a blog on Arab media at

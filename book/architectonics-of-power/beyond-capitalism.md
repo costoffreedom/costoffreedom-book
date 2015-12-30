@@ -7,13 +7,13 @@ way out of diminishing returns with brute force, the picture of a
 bright future turned out to be as naive and grotesque as the vision of
 the year 2000 as seen from 1902.
 
-Modernity is totalitarian. Following Descartes' proclamation of the
+Modernity is totalitarian. Following Descartes’ proclamation of the
 prevalence of the mind over matter, modern science engaged in a
 process of stripping away uncertainty and contradiction. The world of
 the mechanical clock was thoroughly explained, controlled, and made to
 serve mankind, in accordance with the Biblical injunction of breeding
 and multiplying, and using the God-given resources of the Earth. But
-the world is not complicated: it's complex, and contradiction is
+the world is not complicated: it’s complex, and contradiction is
 built-in.
 
 Capitalism was a fantastic booster that propelled us from candle light

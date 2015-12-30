@@ -20,7 +20,7 @@ In the domain of knowledge representation, the Open World Assumption ‘codifies
 > no art can touch it; the mind can only try to become attuned to it to become quiet, and space itself out, to become open and still, unworlded[^11]
 
 [^1]: Hyde, A., (2015), Open is not a license, [http://www.adamhyde.net/open-is-not-a-license/](http://www.adamhyde.net/open-is-not-a-license/)
-[^2]: Thomas, A., Campbell, L.M., Barker, P., and Hawksey, M., (2012), Into the Wild - Technology for open educational resources, [http://publications.cetis.org.uk/2012/601](http://publications.cetis.org.uk/2012/601)
+[^2]: Thomas, A., Campbell, L.M., Barker, P., and Hawksey, M., (2012), Into the Wild – Technology for open educational resources, [http://publications.cetis.org.uk/2012/601](http://publications.cetis.org.uk/2012/601)
 [^3]: Open World, [https://lornamcampbell.wordpress.com/](https://lornamcampbell.wordpress.com/)
 [^4]: UKOER, [https://www.jisc.ac.uk/rd/projects/open-education](https://www.jisc.ac.uk/rd/projects/open-education)
 [^5]: Campbell, L.M., (2009), OER Programme Myths, [http://blogs.cetis.org.uk/lmc/2009/05/20/oer-programme-myths/](http://blogs.cetis.org.uk/lmc/2009/05/20/oer-programme-myths/)

@@ -7,11 +7,11 @@
 
 <p>How many times have you heard this explanation of free software? It’s
 cute, catchy, and a little too glib. After all, nothing’s ever that
-simple. But this phrase is more than an oversimplification - it’s a
+simple. But this phrase is more than an oversimplification – it’s a
 misleading metaphor, and it represents a fundamental oversight of the
 free culture movement.</p>
 
-<p>“Speech” and “beer” - the choice of metaphors is telling. When we
+<p>“Speech” and “beer” – the choice of metaphors is telling. When we
 compare free software to free speech, we cast it as a natural right
 based on liberty, rather than a legal right based on property.  This
 is quite agreeable to US Americans1 , especially the
@@ -73,7 +73,7 @@ kinds of property). Open Source advocates, on the other hand, try to
 reconcile the property implications of free software with the
 capitalist culture in which most of it is produced. Open source, they
 argue, will increases the value of your property. As Mako Hill notes
-in his essay “[When Free Software Isn't Better][0]”, the Open Source
+in his essay “[When Free Software Isn’t Better][0]”, the Open Source
 Initiative’s mission statement focuses on the higher quality and lower
 cost of open source software. But, he continues, free/open source
 software is sometimes of lower quality and lower value to individuals
@@ -82,7 +82,7 @@ culture, always fragile, falls apart.</p>
 
 <p>But the open source approach is not the only way to come at “free as
 in beer”. The private capital of businesses using open source isn’t
-the only kind of property. There is - and always has been - the
+the only kind of property. There is – and always has been - the
 commons.</p>
 
 <p>It is easy to reframe the arguments for free culture around the
@@ -117,10 +117,10 @@ only the privileged to participate.</p>
 <p>It’s tempting to wave away this last issue by arguing that less
 privileged people have greater access to free culture than to
 proprietary cultural products. After all, we’re giving it away! But
-accessibility is seldom a priority in free culture - in free software,
+accessibility is seldom a priority in free culture – in free software,
 many projects are made for other developers and we celebrate
 “scratching your own itch”. Not that a focus on less privileged people
-is always better - in fact, it can be deeply condescending and
+is always better – in fact, it can be deeply condescending and
 unhelpful. No, these arguments miss the point entirely. The groups
 under-represented in free culture are not hamstrung primarily by lack
 of access to the digital commons, but by threats to the natural and
@@ -139,7 +139,7 @@ these digital gifts are made, too often, by people trapped in abusive
 conditions, using processes that blight our primal Commons, the global
 environment. We cannot abstract away these facts; we cannot advocate
 for free culture as though in a vacuum. We must advocate for the
-commons in all of its forms - digital, social, economic, environmental
+commons in all of its forms – digital, social, economic, environmental
 - before the cost of freedom becomes too high to bear.</p>
 
 [0]: https://mako.cc/writing/hill-when_free_software_isnt_better.html

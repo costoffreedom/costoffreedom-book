@@ -1,7 +1,7 @@
 
 # Hacking the Contradictions
 
-<p>Contrary to most people's belief, contradictions are an interesting
+<p>Contrary to most people’s belief, contradictions are an interesting
 and powerful tool for the thinking process. They are something we
 often encounter in our minds. For some people, contradictions are the
 ultimate roadblock, whereas for others they are a just a stage of

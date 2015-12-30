@@ -4,7 +4,7 @@
 
 *   [Keeping Promises](keeping-promises.html), by [Lawrence Lessig](../authors/lawrence-lessig.html)
 *   [The Shit of Freedom](the-shit-of-freedom.html), by [Giorgos Cheliotis](../authors/giorgos-cheliotis.html)
-*   ["Freedom To" vs. "Freedom From"](freedom-to-vs-freedom-from.html), by [Martin Paul Eve](../authors/martin-paul-eve.html)
+*   [“Freedom To” vs. “Freedom From”](freedom-to-vs-freedom-from.html), by [Martin Paul Eve](../authors/martin-paul-eve.html)
 *   [Free Culture in an Expensive World](free-culture-in-an-expensive-world.html), by [Shauna Gordon-McKeon](../authors/shauna-gordon-mckeon.html)
 *   [What is Open?](what-is-open.html), by [Richard Goodman](../authors/richard-goodman.html)
 *   [The Open World](the-open-world.html), by [Lorna Campbell](../authors/lorna-campbell.html)

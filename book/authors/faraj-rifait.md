@@ -1,1 +1,1 @@
-Faraj Rifait is Bassel's uncle.
+Faraj Rifait is Bassel’s uncle.

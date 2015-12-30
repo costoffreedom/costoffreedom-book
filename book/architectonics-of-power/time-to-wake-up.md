@@ -10,7 +10,7 @@ by the data-hoarding Internet giants that enjoy the reputation of
 information liberators. Google, for example, is considered a great
 patron for free culture, whereas in practice it cannibalizes the free
 culture that it monetizes, offsetting the costs of culture from those
-consuming it, and profiting from those creating it, and that's us.</p>
+consuming it, and profiting from those creating it, and that’s us.</p>
 
 <p>The technological principle that powers digital freedom of
 information, and that we celebrate through free culture and the

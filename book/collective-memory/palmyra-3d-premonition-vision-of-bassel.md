@@ -13,7 +13,7 @@ Greek mythology.</p>
 speaking to me in English with a very rich vocabulary. He was only 10
 years old. I asked him if he had learned English at his school in the
 Palestinian camp in Damascus. He smiled slyly and replied that it was
-through his father's computer, using a CD that he had learned English.</p>
+through his father’s computer, using a CD that he had learned English.</p>
 
 <p>At 11, he had his own computer, donated by his mother for his
 birthday. I was expecting that he would play computer games, but I was
@@ -45,6 +45,6 @@ reinforce and contribute to embellish this multidimensional work in
 these troubled days until his release from jail...</p>
 
 
-> Faraj Rifait is Bassel's uncle.
+> Faraj Rifait is Bassel’s uncle.
 
 

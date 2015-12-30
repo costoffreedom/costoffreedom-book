@@ -4,9 +4,9 @@
 <p>Most of the time it came down to emotion. It was anger, frustration,
 exhaustion, feeling alone, confusion, and wanting to escape it
 all. You wished there would be hope. But it was hopeless. It was
-endless. It didn't get through. You were talking the same thing over
+endless. It didn’t get through. You were talking the same thing over
 again. You were back to face the same wall. You talked to many people:
-new people, different people, the same people. They didn't understand!
+new people, different people, the same people. They didn’t understand!
 You were looping in angst. There was no way to stop.</p>
 
 <p>You were there. You have been there. You are standing here but you are

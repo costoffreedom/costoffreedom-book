@@ -1,5 +1,5 @@
 
-# Andromeda Report -- Gliese 832 C Expedition
+# Andromeda Report – Gliese 832 C Expedition
 
 <h3>1. The return of the Convoy and the forgotten core</h3>
 
@@ -20,16 +20,16 @@ that had needed to be protected.</p>
 <blockquote>
   <p>Andromeda species have a core organ, a component used to store a
     high concentration of intelligence and the common knowledge of the
-    species. It's a shared source that every individual can access to
+    species. It’s a shared source that every individual can access to
     instantly exchange knowledge. Decision-making is also generated
     though this part of the organ while connected with external
     information and other useful resources. Since this part of the organ
     is able to absorb human emotion and information, during the period
-    on Earth, these two parts are fused together, and can't be
+    on Earth, these two parts are fused together, and can’t be
     separated.  And during the transition through Drake Passage
     wormhole, data transferring could not be accomplished, and the core
     was broken, meaning that some part of our Andromeda galaxy
-    civilisation's knowledge has been also left behind in that ship.</p>
+    civilisation’s knowledge has been also left behind in that ship.</p>
 </blockquote>
 
 <h3>3. Inspection of Planet Earth</h3>
@@ -42,7 +42,7 @@ the Milky Way Galaxy. This planet is 780 kiloparsecs away from our
 Andromeda Galaxy.</p>
 
 <p>After several eras of industrialisation and over-exploitation of the
-planetary resource, the species on this planet, "humans," are facing a
+planetary resource, the species on this planet, “humans,” are facing a
 crucial moment in which they need to change the social system in order
 to survive and continue the expansion of the species.</p>
 
@@ -61,7 +61,7 @@ people are struggling to maintain their territory and their importance
 in the social scene, and this causes some regional crises and turmoil.</p>
 
 <p>The society is facing a crossroads and a major decision to be made at
-individual, national and planetary level.  It's an era in which the
+individual, national and planetary level.  It’s an era in which the
 world is morphing from fog and innocence to an era of enlightenment
 through science and knowledge which will make it possible for the
 whole human civilisation to expand creatively and efficiently to a
@@ -136,14 +136,14 @@ how the populated society organises itself and collaborates to develop
 their society, and to bring this knowledge back to Planet Earth to
 help it find ways to sustain human society there.</p>
 
-<p>I'm the civilisation intelligence convoy. I'm to accompany them for
+<p>I’m the civilisation intelligence convoy. I’m to accompany them for
 this mission, in order to ensure there are no dangerous
 happenings. This is my last mission, and I will return from their
 planet to solve the key problems that keep human civilisation stuck in
 this era.</p>
 
 <p>My last mission includes encoding and backing up all the science and
-technology developed and involved in that civilisation's history, and
+technology developed and involved in that civilisation’s history, and
 transferring it to the next shell I will adapt in the future. I will
 pass through a tunnel and do the quantum leap to another civilisation,
 I will follow the Galactica map which is already embedded inside my
@@ -158,13 +158,13 @@ me to take hm with me to the Andromeda Galaxy. I agreed.</p>
 direction of Andromeda.</p>
 
 <p>During our journey passing the border of Milky Way Galaxy, something
-happened on the ship. I'm disrupted by certain inexplicable events.</p>
+happened on the ship. I’m disrupted by certain inexplicable events.</p>
 
 <h3>8. The virus</h3>
 
 <p>A discussion with my personal doctor tells me of shocking events:
 during the era in which I stayed on Earth with the shell of human, I
-was infected by several unknown human "viruses" which could cause the
+was infected by several unknown human “viruses” which could cause the
 core dysfunction, threatening the loss of our own civilisation data.</p>
 
 <p>Diagnostic results:</p>
@@ -172,11 +172,11 @@ core dysfunction, threatening the loss of our own civilisation data.</p>
 <p>Since Human is an intelligent creature which is highly developed, this
 effect could transfer through biochemical contacts. That because part
 of my system is not fully functioning, some syndrome including the
-growing emotional capacity, which human called "love".</p>
+growing emotional capacity, which human called “love”.</p>
 
 <h3>9. Disclosed hitchhiker</h3>
 
-<p>A few days later, during the transition in the wormhole while I'm
+<p>A few days later, during the transition in the wormhole while I’m
 uploading all the data, I discover that the co-captain has a
 suspicious background, suggesting that he is a representative of an
 ancient religious group that has been sent to destroy this ship and
@@ -194,12 +194,12 @@ make a decision.</p>
 
 <p>But time is too late, I have to leave, the quantum leap consumes a lot
 of energy.  The only way is to destroy the infected co-captains, but
-without these captains, the ship won't able to go its final
+without these captains, the ship won’t able to go its final
 destination. The only solution is to freeze the whole ship and all the
 crew, and then go back to the ship one day and bring them back. I
 decide to sacrifice my heart and part of the organ which has been
 infected by the virus.  I kill the Co-Captain and keep the hundreds of
-crew on board… frozen, and don't know when there will be a chance to
+crew on board… frozen, and don’t know when there will be a chance to
 awaken them again.</p>
 
 <p>I am ready to do the quantum leap, and the ship is frozen in the
@@ -207,9 +207,9 @@ wormhole…</p>
 
 <h3>11. The speech</h3>
 
-<p>Here I am, I successfully leapt to Andromeda! I'm alive.  Now, I have
+<p>Here I am, I successfully leapt to Andromeda! I’m alive.  Now, I have
 to report the event and I will apply to go back to that wormhole to
-release my ship's crew and continue this journey.</p>
+release my ship’s crew and continue this journey.</p>
 
 <p>I want your full support and the right to command a 1000 ship convoy
 in order to pass through that Drake Passage and bring them back.</p>

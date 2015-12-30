@@ -12,16 +12,16 @@ possible, maybe creating my own means of subsistence in the end. It
 represented a step which would make it possible for me to build a life
 outside both the mainstream work system and the food system. I see
 both of those systems as freedom down-takers. My statement was more or
-less "I want to create something I would be proud of with my bare
+less “I want to create something I would be proud of with my bare
 hands in a settled place, which would help to tend to freedom for me
 and a small community I choose. If not, I feel like I m neutral in the
 best case scenario in a path to global freedom, feeding a mass system
-which deprives it in the worst way of looking at it."</p>
+which deprives it in the worst way of looking at it.”</p>
 
 <p>This vision, of freedom linked with self-sufficiency in food supplies
 and self-determination in terms of human organisation, is commonly
 shared, at least as an ideal goal, but is also seen as quite extreme
-in terms of the changes it requires for most people's ways of
+in terms of the changes it requires for most people’s ways of
 living. Making a step towards it was a way to challenge my own
 motivation, my own limits in relation to this fantasized ideal of
 real, deep, freedom and its connection with a rural life.</p>
@@ -44,9 +44,9 @@ this change of life, but it still gives the comfort and confidence I
 might need for any future achievement.</p>
 
 <p>In the end, setting a precise, high goal of freedom as a core
-preoccupation in my life as a starting point hasn't led me to more
+preoccupation in my life as a starting point hasn’t led me to more
 actual freedom (yet), but it obliges me to ask myself very often what
-is that I'm doing and why am I doing it.  Answering those questions
+is that I’m doing and why am I doing it.  Answering those questions
 makes the commitment deeper and slowly creates the connections I need
 to live a life closer to my ideals, like a vow I made that forces me
 to be brave when I feel insecure about what I am doing, and making it

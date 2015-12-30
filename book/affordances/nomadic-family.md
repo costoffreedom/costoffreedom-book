@@ -2,13 +2,13 @@
 # Nomadic Family
 
 <blockquote>
-  <p>The problem of the costs within the schizoid logic of our times concerns mostly <em>potestas</em>, the quantitative, not <em>potentia</em>, or incorporeal intensities." 
+  <p>The problem of the costs within the schizoid logic of our times concerns mostly <em>potestas</em>, the quantitative, not <em>potentia</em>, or incorporeal intensities.
       --Rosi Braidotti, Nomadic Theory</p>
 </blockquote>
 
 <p>The question of costs often translates into issues of scale and
-scalability that are dominant in technological societies. The "scale
-solutionism" starts from the desire to solve cost problems and ends in
+scalability that are dominant in technological societies. The “scale
+solutionism” starts from the desire to solve cost problems and ends in
 hyper-control, restriction, dissociation and finally disaster
 conducted by non-aware necropolitics, where the politics of death
 systematically takes over the politics of life (Mbembe 2003),

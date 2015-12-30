@@ -10,7 +10,7 @@
 * [Rebuild Asad Al-Lat](rebuild-asad-al-lat.html), by [Georges Dahdouh](../authors/georges-dahdouh.html)
 * [Supporting Bassel](supporting-bassel.html), by [Ethan Zuckerman](../authors/ethan-zuckerman.html)
 * [What Does Freedom Mean to You, Mr. Government?](what-does-freedom-mean-to-you-mr-government.html), by [Anasuya Sengupta](../authors/anasuya-sengupta.html)
-* ["Bassel K"](bassel-k.html), by [Marc Weidenbaum](../authors/marc-weidenbaum.html)
+* [“Bassel K”](bassel-k.html), by [Marc Weidenbaum](../authors/marc-weidenbaum.html)
 * [My Friend is Not Free](my-friend-is-not-free.html), by [Tyng-Ruey Chuang](../authors/tyng-ruey-chuang.html)
 * [Liberté](liberte.html), by [Donatella Della Ratta](../authors/donatella-della-ratta.html)
 * [Free Bassel](free-bassel.html), by [Maarten Zeinstra](../authors/maarten-zeinstra), and [Muid Latif](../authors/muid-latif.html)

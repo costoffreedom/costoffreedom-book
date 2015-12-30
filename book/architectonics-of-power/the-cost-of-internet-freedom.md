@@ -5,10 +5,10 @@
 
 <blockquote>
   <p>Every act of rebellion expresses a nostalgia for innocence and an
-    appeal to the essence of being.” -- Albert Camus</p>
+    appeal to the essence of being.” – Albert Camus</p>
 </blockquote>
 
-<p>Let’s translate Isaiah Berlin’s "Two Concepts of Liberty" from 1958 to
+<p>Let’s translate Isaiah Berlin’s “Two Concepts of Liberty” from 1958 to
 our age. Berlin distinguishes between negative and positive freedom:
 there is the negative goal of warding off interference, and the
 positive sense of the individual being his or her own master. In both
@@ -44,7 +44,7 @@ and thus democratized. The critique of the technocratic society that
 we can trace in the memories of Albert Speer, published in 1969, were
 soon to be forgotten and taken over by a fascination for the
 do-it-yourself spirit of the garage hackers. Instead of looking at IBM
-mainframe computers as a tool of 1984's Big Brother, the personal
+mainframe computers as a tool of 1984’s Big Brother, the personal
 computer was introduced as a portable counter-cultural alternative,
 intended to undermine power as such and break it up into a 1001
 fragments of decentralized, distributed expressions of human

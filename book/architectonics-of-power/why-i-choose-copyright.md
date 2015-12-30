@@ -3,7 +3,7 @@
 
 <p>I used to have a peculiar habit: I went to great lengths to not
 infringe copyright. This was often misunderstood to be a statement in
-support of stronger copyright, taking Metallica's side against
+support of stronger copyright, taking Metallica’s side against
 Napster.</p>
 
 <p>My intention was different.</p>
@@ -20,23 +20,23 @@ people want it. If you sample it, you make other people want it.</p>
 
 <p>This is regardless of whether infringement is involved. If you are
 never going to buy something, there is no loss of revenue when you
-don't pay. If no revenue is lost, then the holders of the copyright
+don’t pay. If no revenue is lost, then the holders of the copyright
 have benefited.</p>
 
 <hr />
 
 <p>Why would I have to infringe to access the work? There might be a
 literal price (e.g. $20 for a CD) that was too high. Or the work might
-only be available on terms that I can't accept. For example, there
+only be available on terms that I can’t accept. For example, there
 might be DRM, or I might need a cable TV account. Those terms are a
 form of cost.</p>
 
-<p>If I couldn't accept the price, and then infringement led me to help
-increase its value, I wouldn't be helping myself. If I refuse to
+<p>If I couldn’t accept the price, and then infringement led me to help
+increase its value, I wouldn’t be helping myself. If I refuse to
 engage at all,then I maximize the pressure I can exert on the vendor.</p>
 
-<p>The vendor's ideal outcome is for me to pay the asking price. But the
-second best outcome, if I can't do that, is for me to help convince
+<p>The vendor’s ideal outcome is for me to pay the asking price. But the
+second best outcome, if I can’t do that, is for me to help convince
 others to pay the asking price. The worst outcome is if I ignore the
 product.</p>
 
@@ -45,7 +45,7 @@ acceptable terms.</p>
 
 <hr />
 
-<p>Purism was necessary. No doing what the copyright owner didn't want,
+<p>Purism was necessary. No doing what the copyright owner didn’t want,
 even if I disagreed. No knowing infringement, no matter how absurd the
 implications.</p>
 
@@ -57,7 +57,7 @@ changing.</p>
 
 <hr />
 
-<p>Evangelism didn't interest me, though. No preaching, no seeking
+<p>Evangelism didn’t interest me, though. No preaching, no seeking
 converts. I just lived my life according to a dogma with only one
 adherent.</p>
 
@@ -80,7 +80,7 @@ they do prefer reasonable terms to ugly ones.</p>
 <p>At the same time, my standards fell. The rise of mobile caused the
 computing experience to became so unfair, so centralized, so tightly
 controlled that my expectations with regard to media seem comically
-unrealistic. There's no chance of jail-broken phones becoming the
+unrealistic. There’s no chance of jail-broken phones becoming the
 stock experience.</p>
 
 <p>When computing users have so much less power, holding out for more
@@ -89,7 +89,7 @@ makes no sense.</p>
 <p>Eventually, I softened my position to a more common one -
 pragmatism. I now avoid infringement, but will sometimes do it if the
 alternative is ridiculous. I now avoid ridiculous problems rather than
-seeking them out. It's a big change. It means that when the cost of
+seeking them out. It’s a big change. It means that when the cost of
 media is too high, I will do my best to pay up anyway.</p>
 
 

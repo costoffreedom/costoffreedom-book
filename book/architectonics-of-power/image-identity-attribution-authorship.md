@@ -14,7 +14,7 @@ persons, and persons have their own rights which must be considered.</p>
 <p>We are not so ignorant as to say that a photograph will steal our
 soul, and yet we are dimly aware of a danger in pictures of our faces
 or bodies, as if something can be taken from us, and get away, to who
-knows what end. We know there could be a "cost" to each photograph
+knows what end. We know there could be a “cost” to each photograph
 that is taken.</p>
 
 <p>Photography did not always enjoy the protections of copyright. The
@@ -33,7 +33,7 @@ creations. The minimal requirement to re-use a freely licensed
 photograph is the simple gesture of giving credit or attribution to
 the photographer, in the manner she specifies.</p>
 
-<p>Free licenses apply to a photographer's rights as an author, and your
+<p>Free licenses apply to a photographer’s rights as an author, and your
 rights as a user. However, they are silent on the legal and moral
 rights of the subjects of our photographs, which we might understand
 as the right of publicity.</p>
@@ -41,10 +41,10 @@ as the right of publicity.</p>
 <p>In order to secure this additional right, the photographer must ask
 something of her subject.</p>
 
-<p>The subject must consent not only to the photographer's use of his
-image, and to others' re-use and modifications of his image; he must
+<p>The subject must consent not only to the photographer’s use of his
+image, and to others’ re-use and modifications of his image; he must
 also permit his name and identity to be associated with his
-image. That is the "cost" of the "freedom" of his picture. He lets a
+image. That is the “cost” of the “freedom” of his picture. He lets a
 fragment of his soul escape out into the world, forever.</p>
 
 

@@ -2,9 +2,9 @@
 # What is Open?
 
 <blockquote>
-  <p>After looking at "Open is not a License", I decided to take a look
-    at some of the definitions of the noun "open" in the dictionary, and
-    was inspired to write a short poem around what "open" might mean to
+  <p>After looking at “Open is not a License”, I decided to take a look
+    at some of the definitions of the noun “open” in the dictionary, and
+    was inspired to write a short poem around what “open” might mean to
     people.
   This poem is dedicated to my own poetry inspiration, my father Don
     Goodman, who passed away in March 2015 at the age of 75.</p>

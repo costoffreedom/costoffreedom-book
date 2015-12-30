@@ -6,14 +6,14 @@ backward.</p>
 
 <p>What happened to me is that my husband has been pushing me forward in
 the best path possible. He makes me go upwards, fly, swim over the
-clouds, even though the time we've spent in love has been spent
+clouds, even though the time we’ve spent in love has been spent
 apart. He is present in all my details... and helped create who I
 am. I am his pen and colors, and he has always been my life and my
-Freedom. I've lived all my life dreaming of Freedom, and Bassel taught
+Freedom. I’ve lived all my life dreaming of Freedom, and Bassel taught
 me to embrace it.</p>
 
 <p>I feel overwhelmed when I mention his name. Bassel taught me to master
-English, even while he's been in prison. I've learned to read, write,
+English, even while he’s been in prison. I’ve learned to read, write,
 and speak English well. He has always shared his knowledge with
 everyone who asked, and has also taught many prisoners to read, write,
 and speak English.</p>
@@ -25,18 +25,18 @@ their hands.</p>
 
 <p>I never felt our relationship stopped me from being myself: on the
 contrary he taught me to break the fear and shame of social
-restrictions. I've been a writer for the last 10 years, but only
+restrictions. I’ve been a writer for the last 10 years, but only
 Bassel made me decide to write my first book. I wrote it during his
-lengthy detention, and we called it "In the Waiting."</p>
+lengthy detention, and we called it “In the Waiting.”</p>
 
 <p>With Bassel, I make my dreams come true, I learn to express my
 thoughts and feelings, and face my fears... I shout, I resist, I
 trance... I laugh and I cry...</p>
 
-<p>Bassel made me Free, while he is absent. He is in the regime's jail,
+<p>Bassel made me Free, while he is absent. He is in the regime’s jail,
 and I am in the jail of waiting for him.</p>
 
 
-> Noura Ghazi Safadi is a Syrian writer. She's married to Bassel.
+> Noura Ghazi Safadi is a Syrian writer. She’s married to Bassel.
 
 

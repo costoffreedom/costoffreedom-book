@@ -1,5 +1,5 @@
 
-# "Freedom To" vs. "Freedom From"
+# “Freedom To” vs. “Freedom From”
 
 <p>Unlike Bassel Khartabil, the cost to me, personally, of my
 free-knowledge work has been cheap. I have not paid with my
@@ -40,11 +40,11 @@ this knowledge will remain imprisoned.</p>
 <p>Even worse, this coercion (as I see it) to publish in known brand and
 usually-proprietary venues as a proxy for hiring in the university is
 defended as academic freedom (the freedom to choose to publish where
-one wants, rather than being told to publish openly). Certainly, it's
+one wants, rather than being told to publish openly). Certainly, it’s
 done by “soft power” and a reputational/symbolic economy, but I did
 not feel free when I had to publish my first book with a commercial
-press. I'm still grateful to them because I needed the book for my
-job. They did good work on it and I can't fault the people who helped
+press. I’m still grateful to them because I needed the book for my
+job. They did good work on it and I can’t fault the people who helped
 me there. But few people can actually read that book now because it is
 so expensive. I signed away the copyright as the price for a job. In
 an ideal world, I would have published this openly.</p>
@@ -53,18 +53,18 @@ an ideal world, I would have published this openly.</p>
 freedom that was taken away because they developed open-source
 software and facilitated freedom of expression, people around me
 continue to claim that it should be their right to lock knowledge away
-and that this is a freedom for them (see Cary Nelson's article in
+and that this is a freedom for them (see Cary Nelson’s article in
 Inside Higher Ed. for an example). I do not think it should
 be. Academic freedom in its real and proper definitional sense is
 important (the right to speak truth to power) but we should not demean
-it by saying that it is about one's right to lock knowledge away from
+it by saying that it is about one’s right to lock knowledge away from
 those who cannot pay.</p>
 
 <p>When I say things like this, I am told I am anarchistic, that I want
 to destroy tradition, and that I am somehow an enemy of quality in
 academia. I have also been told that this coercive soft-power
-structure of proprietary publishing doesn't even exist (usually by
-people who haven't tried to get an academic job in the last
+structure of proprietary publishing doesn’t even exist (usually by
+people who haven’t tried to get an academic job in the last
 decade). It does exist, and I am not trying to destroy academic
 publishing. I am trying to make academia and academic publishing the
 altruistic spaces of knowledge-sharing that they should be. As

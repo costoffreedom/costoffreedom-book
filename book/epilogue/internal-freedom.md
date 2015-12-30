@@ -3,27 +3,27 @@
 
 <p>I am alive. I am grateful to be alive. I smile. I want to share this
 happiness. With anyone. I may lean on the left side of politics, and
-you may lean on the right side. It doesn't show on your face when I
+you may lean on the right side. It doesn’t show on your face when I
 meet you in the street. We smile to each other. We exchange a
 salute. We start talking. During the course of the conversation, you
 hint to me of your political leaning. I frown. You hold your
-words. I'm sorry: the radical in me took over the human for a
-moment. I'd like to continue the conversation, why not? But I can't
-find my words. A second of silence and we're already out of sync. I
+words. I’m sorry: the radical in me took over the human for a
+moment. I’d like to continue the conversation, why not? But I can’t
+find my words. A second of silence and we’re already out of sync. I
 have a doubt. Something in my past prevents me from connecting to
 you. Something in your past prevents you from connecting with me. We
 depart from each other. Both of us suffer a pinch of sadness.</p>
 
 <p>I am alive. I am grateful to be alive. I smile. I want to share this
 happiness. With anyone. I may lean on the left side of the political
-spectrum, and you may lean on the right side. It doesn't show on your
+spectrum, and you may lean on the right side. It doesn’t show on your
 face when I meet you in the street. We smile to each other. We
 exchange a salute. We start talking. During the course of the
 conversation, you hint to me of your political leaning. I frown. You
-hold your words.  "Oh," I shrug, "our paths may diverge on this topic,
-but I'm grateful we can share this moment together and learn from a
-different perspective."  A second of silence, and you smile.  "Let's
-walk together," you propose.</p>
+hold your words.  “Oh,” I shrug, “our paths may diverge on this topic,
+but I’m grateful we can share this moment together and learn from a
+different perspective.”  A second of silence, and you smile.  “Let’s
+walk together,” you propose.</p>
 
 <p>I smile back at you. Something in my past was triggered, I felt it in
 my heart. Something in your past let you leave the difference
