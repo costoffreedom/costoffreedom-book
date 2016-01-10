@@ -1,10 +1,10 @@
 
 # What Does Freedom Mean to You, Mr. Government?
 
-<p>Bassel Safadi, Tural Abbasli, Fariba Pajouh.<br>
+Bassel Safadi, Tural Abbasli, Fariba Pajouh.<br>
 Teesta Setalvad, Eskinder Nega, Raif Badawi.<br>
 Anna Politkovskaya, Irom Sharmila, Aaron Swartz.<br>
-Liu Xiaobo, Edward Snowden, Fereshteh Ghazi.[^1]</p>
+Liu Xiaobo, Edward Snowden, Fereshteh Ghazi.[^1]
 
 <p>So many names, so many faces, so many breaths.<br>
 Choking, or gasping, or... gone.<br>

@@ -2,7 +2,7 @@
 # Free Culture in an Expensive World
 
 
-> “Free as in speech, not free as in beer.”[^1]
+> “Free as in speech, not free as in beer.”
 
 
 <p>How many times have you heard this explanation of free software? It’s
@@ -11,15 +11,15 @@ simple. But this phrase is more than an oversimplification – it’s a
 misleading metaphor, and it represents a fundamental oversight of the
 free culture movement.</p>
 
-<p>“Speech” and “beer” – the choice of metaphors is telling. When we
+“Speech” and “beer” – the choice of metaphors is telling. When we
 compare free software to free speech, we cast it as a natural right
 based on liberty, rather than a legal right based on property.  This
-is quite agreeable to US Americans1 , especially the
+is quite agreeable to US Americans,[^1] especially the
 techno-libertarian set. We adore free speech, the most popular part of
 our first and favorite amendment. Free beer, on the other hand, is a
 harder metaphor to swallow. But the focus on speech, on liberty-based
 rights, does not dispel the implications for property rights, only
-obscures them. Let’s take a closer look.</p>
+obscures them. Let’s take a closer look.
 
 <p>While the first and second freedoms in the Free Software Definition
 are arguably matters of liberty, the third and fourth require the
@@ -64,7 +64,7 @@ understand that it is not an explanation but an equivocation. Free
 culture absolutely has implications for property, and we need to face
 them.</p>
 
-<p>The schism between Free Software and Open Source Software can be
+The schism between Free Software and Open Source Software can be
 interpreted through the response to this problem. Free Software
 advocates tend to embrace liberty rights, preferring not to think
 about property, and often eschewing the idea of intellectual property
@@ -73,12 +73,12 @@ kinds of property). Open Source advocates, on the other hand, try to
 reconcile the property implications of free software with the
 capitalist culture in which most of it is produced. Open source, they
 argue, will increases the value of your property. As Mako Hill notes
-in his essay “[When Free Software Isn’t Better][0]”, the Open Source
+in his essay *When Free Software Isn’t Better*,[^2] the Open Source
 Initiative’s mission statement focuses on the higher quality and lower
 cost of open source software. But, he continues, free/open source
 software is sometimes of lower quality and lower value to individuals
 and businesses.  The reconciliation of free software and capitalist
-culture, always fragile, falls apart.</p>
+culture, always fragile, falls apart.
 
 <p>But the open source approach is not the only way to come at “free as
 in beer”. The private capital of businesses using open source isn’t
@@ -101,7 +101,7 @@ social commons. They advocate for free culture but not for public
 education, universal health care, guaranteed housing, and basic
 income, or their equivalents</p>
 
-<p>This is not just a matter of morality. The lack of a fiercely
+This is not just a matter of morality. The lack of a fiercely
 protected natural and social commons endangers the digital one. In a
 scarcity society, our labor must be hoarded jealously. People don’t
 have time to learn about their computers, submit patches to projects,
@@ -109,10 +109,9 @@ seek out free music instead of stolen music. They don’t have the
 security to publish in open access journals, to protest surveillance,
 to give away their art or their software in hope of future
 reward. Many who would love to participate in free culture cannot, as
-Ashe Dryden lays out eloquently in her piece “[The Ethics of Unpaid
-Labor and the OSS Community][1].”  Like unpaid political and literary
+Ashe Dryden lays out eloquently in her piece *The Ethics of Unpaid Labor and the OSS Community*.[^3]  Like unpaid political and literary
 internships, free software contributions act as a filter, allowing
-only the privileged to participate.</p>
+only the privileged to participate.
 
 <p>It’s tempting to wave away this last issue by arguing that less
 privileged people have greater access to free culture than to
@@ -142,10 +141,9 @@ for free culture as though in a vacuum. We must advocate for the
 commons in all of its forms – digital, social, economic, environmental
 - before the cost of freedom becomes too high to bear.</p>
 
-[0]: https://mako.cc/writing/hill-when_free_software_isnt_better.html
-[1]: http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community
 [^1]: I am from the United States. This essay is written from that limited perspective, and may not apply to other countries and cultures.
-
+[^2]: https://mako.cc/writing/hill-when_free_software_isnt_better.html
+[^3]: http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community
 
 > Shauna Gordon-McKeon is a U.S. writer, independent researcher and developer.
 She focuses on open technologies and communities.
