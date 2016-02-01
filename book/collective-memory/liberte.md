@@ -105,7 +105,7 @@ Et par le pouvoir d’un mot
 <br>Je suis né pour te connaître
 <br>Pour te nommer
 
-**Liberté.** – Paul Éluard, “Liberté” from “Poésies et vérités”, 1942 [^1]
+**Liberté.** – Paul Éluard, “Liberté” from “Poésies et vérités”, 1942[^1]
 
 Paul Eluard wrote this poem called “Liberté” in the darkest moment of the world’s history, during World War II. At the time, France was occupied by Nazis. Violence, destruction, death were everywhere. The world was hopeless and with a very dark future ahead.  
 
