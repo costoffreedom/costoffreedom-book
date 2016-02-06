@@ -1,5 +1,6 @@
 # Summary
 
+* [README](README.md)
 * [Preface: the Voices of Free culture](book/prologue-voices-of-free-culture.md)
 * [Introduction](book/prologue-introduction.md)
 * [Collective Memory](book/collective-memory/index.md)
