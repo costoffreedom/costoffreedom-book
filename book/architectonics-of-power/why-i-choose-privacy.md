@@ -1,8 +1,7 @@
 
 # Why I Choose Privacy
 
-<p><em>This essay is adapted from one [originally published](http://www.missbananabiker.com/2015/10/28/the-option-of-privacy/) on my personal
-website, [missbananabiker.com][missbananabiker.com].</em></p>
+*This essay is adapted from one [originally published](http://www.missbananabiker.com/2015/10/28/the-option-of-privacy/) on my personal website, [missbananabiker.com](missbananabiker.com).*
 
 <p>I publish my work under my full name. I write about my life without
 holding back, except where innocent people might be harmed as a result
