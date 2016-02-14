@@ -6,12 +6,6 @@
         "layout",
         "collapsible-menu"
     ],
-    "pluginsConfig": {
-      "layout": {
-            "headerPath" : "layout/header.html",
-            "footerPath" : "layout/footer.html"
-        }
-    },
     "pdf": {
         "pageNumbers": true,
         "paperSize": "a5",
