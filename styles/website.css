@@ -17,3 +17,9 @@ h3 {
   font-style: italic;
   font-weight: normal;
 }
+
+blockquote, blockquote p { /* authors bio */
+  padding-left: 0 !important;
+  border-left: none !important;
+  line-height: 1.4em;
+}
