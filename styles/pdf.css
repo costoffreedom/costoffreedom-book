@@ -2,20 +2,6 @@
 
 /* CSS for pdf */
 
-html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup,
-var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody,
-tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer,
-header, hgroup, menu, nav, section, summary, time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  vertical-align: baseline; }
-
-
-/*needed Vars
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
 /* General CSS for contents */
 body {
   font-weight: normal;
@@ -29,20 +15,13 @@ p {
   line-height: 1.55;
   text-align: justify;
   margin-top: 10pt;
-  word-break: break-word; }
-
-quote {
-  margin-left: 40mm;
-  text-indent: 3mm;
-  line-height: 1.55; }
+  word-break: break-word;
+}
 
 em, .italic {
-  ;
   font-style: italic;
-  font-weight: 400; }
-
-pre {
-  max-width: 11.6875cm; }
+  font-weight: 400;
+}
 
 a, a:visited, a:hover {
   word-wrap: break-word;
@@ -52,37 +31,15 @@ a, a:visited, a:hover {
 
 strong em {
   font-weight: bold;
-  font-style: italic; }
-
-var {
-  font-weight: normal; }
-  var em, var .Italic {
-    font-weight: normal;
-    font-style: normal; }
-
-blockquote {
   font-style: italic;
-  page-break-inside: avoid;
-  ;
-  line-height: 1.55;
-  display: block;
-  margin-bottom: 3em;
-  margin-top: 3em;
-  text-align: left;
-  width: 80%;
-  margin-left: auto;
-  color: #FF4229; }
+}
 
-sup {
-  font-size: 5pt;
-  font-weight: inherit;
-  position: relative;
-  top: -3px;
-  vertical-align: baseline; }
-
-.references p {
-  line-height: 16px;
-  font-size: 13px; }
+/* authors bio */
+quote, blockquote, blockquote p {
+  padding-left: 0 !important;
+  border-left: none !important;
+  line-height: 1.4em;
+}
 
 /* The ways all the titles appears */
 h1, h2, h3, h4, h5, h6 {
@@ -90,65 +47,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #FF4229;
   font-family: sans;
   text-align: left;
-
 }
-  h1 em, h1 .Italic, h2 em, h2 .Italic, h3 em, h3 .Italic, h4 em, h4 .Italic, h5 em, h5 .Italic, h6 em, h6 .Italic {
-    font-weight: 400;
-    font-style: italic;
-
-  }
-  h1 strong, h1 .bold, h1 .Bold, h2 strong, h2 .bold, h2 .Bold, h3 strong, h3 .bold, h3 .Bold, h4 strong, h4 .bold, h4 .Bold, h5 strong, h5 .bold, h5 .Bold, h6 strong, h6 .bold, h6 .Bold {
-    font-style: normal; }
-
-h1 {
-  font-style: normal;
-  font-size: 23pt;
-  line-height: 1.1;
-  margin: 0 0 5pt 0; }
-  h1 + p {
-    text-indent: 0; }
-  h1 + p:first-of-type {
-    text-indent: 0; }
-
-h2 {
-  font-size: 14pt;
-  text-transform: uppercase;
-  color: #FF4229;
-  margin: 30pt 0 10pt 0;
-  /*padding-right: 60mm;*/ }
-  h2 + p {
-    margin-top: 0;
-    page-break-before: avoid; }
-  h2 em {
-    font-weight: bold;
-    font-style: italic; }
-  h2 .bold, h2 .Bold {
-    font-weight: bold;
-    font-style: normal; }
-
-h3 {
-  font-size: 11pt;
-  margin: 15pt 0 5pt 0;
-  font-weight: 400;
-  line-height: 1.2;
-  color: #FF4229; }
-  h3 em, h3 strong, h3 .bold, h3 .Bold {
-    font-weight: 400; }
-  h3 + p, h3 ol, h3 ul {
-    margin-top: 0;
-    page-break-before: avoid; }
-
-h4 {
-  font-size: 10pt;
-  margin: 10pt 0 5pt 0;
-  line-height: 1.2;
-  color: #FF4229; }
-  h4 + p, h4 ol, h4 ul {
-    margin-top: 0;
-    page-break-before: avoid; }
-  h4 em {
-    font-weight: bold;
-    font-style: italic; }
 
 h1, .chaptertitle {
   font-weight: 600;
@@ -161,370 +60,12 @@ h1, .chaptertitle {
   display: block;
   padding-bottom: 3mm;
   margin-right: 5mm;
-  margin-top: 0; }
+  margin-top: 0;
+}
 
-.sectiontitle {
-  font-size: 30pt;
-  font-weight: normal;
+h2 {
+  font-size: 14pt;
   text-transform: uppercase;
-  margin-top: 236pt;
-  padding-top: 4pt;
-  text-align: left;
-  padding-bottom: 2pt;
-  padding-left: 7pt;
-  text-indent: 0;
-  color: white;
-  letter-spacing: 1.5px;
-  border-bottom: 2px solid white;
-  border-left: 2px solid white; }
-
-/* Custom CSS for elements that do not come directly out of body.html */
-#booktitle {
-  margin-top: 1.7in;
-  font-size: 26px;
-  font-weight: 900;
-  text-align: center; }
-
-#booksubtitle {
-  font-size: 18px;
-  margin-top: .2in;
-  font-weight: 700;
-  text-align: center; }
-
-#bookeditors {
-  padding-top: 2in;
-  font-weight: 700;
-  text-align: center;
-  font-size: 12px; }
-
-p img {
-  height: auto !important;
-  float: none !important; }
-
-img {
-  margin-top: 1.5mm; }
-
-.has-image {
-  margin: 0;
-  text-indent: 0;
-  padding: 0;
-  page-break-inside: avoid;
-  width: 100%;
-  text-align: justify;
-  margin-top: 2mm;
-  margin-bottom: 6mm; }
-
-img {
-  height: auto !important;
-  max-width: 100%; }
-
-.formula {
-  width: auto !important;
-  height: auto !important;
-  margin-left: 0; }
-
-.Small, .small {
-  width: 25% !important; }
-
-.Medium, .medium {
-  width: 70% !important; }
-
-.Large, .large {
-  width: 100% !important; }
-
-.icon {
-  width: 3% !important;
-  border: none !important;
-  display: inline-block;
-  vertical-align: -10%; }
-
-.advance {
-  border: none !important; }
-
-ul, ol {
-  margin-top: 10pt;
+  color: #FF4229;
+  margin: 30pt 0 10pt 0;
 }
-
-ul {
-  list-style-type: none;
-  line-height: 1.55;
-  margin: 0;
-  padding: 0;
-  padding-left: 2em;
-  text-indent: -1.5em;
-  margin-top: 10pt;
-}
-
-ul li:before {
-    content: "\f105";
-    padding-top: 2pt;
-    color: #FF4229;
-    margin-right: 1.5em;
-}
-
-ol {
-  list-style-type: none;
-  list-style-position: inside;
-  line-height: 1.55;
-  margin: 0;
-  padding: 0;
-  padding-left: 2em;
-  text-indent: -1.5em;
-  counter-reset: ol1counter;
-}
-
-
-table {
-  width: 100% !important;
-  background-size: 10pt;
-  page-break-inside: avoid;
-  margin-top: 10pt;
-  margin-bottom: 20pt;
-  width: 100% !important;
-  padding: 0 0mm 0 1mm;
-  border-collapse: collapse;
-  border: 1px solid #FF4229;
-  text-align: left;
-  font-size: 10pt; }
-  table thead tr th  {
-    border: 1px solid #FF4229;
-    padding: 1em;
-    color: #FF4229;
-    text-align: center !important;
-    background-color: #FF4229; }
-  table td {
-    border: 1px solid #FF4229;
-    padding: 1em; }
-  table p, table ul, table li, table ol {
-    font-size: 10pt;
-    margin: 0;
-    ;
-    text-align: left; }
-  table ol, table ul {
-    list-style-position: inside; }
-
-tr {
-  width: 100%; }
-
-table thead tr th  {
-  border: 1px solid #39A329;
-  padding: 1em;
-  color: #39A329;
-  text-align: center !important;
-  background-color: #39A329; }
-
-table > thead > tr > th {
-  padding: 1em;
-  color: #39A329;
-  border: 1px solid #39A329; }
-
-.pagination-page {
-  ;
-  font-size: 7pt; }
-  .pagination-page .pagination-pagenumber {
-    position: absolute;
-    display: inline-block;
-    width: 7mm;
-    height: 5mm;
-    ;
-    font-size: 8pt;
-    color: #FF4229; }
-  .pagination-page:nth-child(even) .pagination-pagenumber {
-    left: 3.1875cm;
-    top: 21.2097222222cm;
-    text-align: left; }
-  .pagination-page:nth-child(even) .pagination-header-chapter {
-    display: none; }
-  .pagination-page:nth-child(odd) .pagination-pagenumber {
-    left: 13.1125cm;
-    top: 21.2097222222cm;
-    text-align: right; }
-  .pagination-page:nth-child(odd) .pagination-header-section {
-    display: none; }
-
-.pagination-empty .pagination-header-chapter, .pagination-empty .pagination-header-section {
-  display: none; }
-.pagination-empty .pagination-pagenumber {
-  display: none; }
-
-.pagination-header {
-  text-align: center !important; }
-
-.pagination-header-chapter {
-  }
-  .pagination-header-chapter em, .pagination-header-chapter .italic, .pagination-header-chapter .Italic {
-    }
-
-.pagination-header-section {
-  color: #f51d00;
-  }
-
-.pagination-chapter .pagination-page:first-of-type .pagination-header-chapter {
-  display: none; }
-
-.pagination-header-chapter,
-.pagination-header-section {
-  top: 2mm; }
-
-.pagination-header {
-  top: 10mm; }
-
-p, li, h1, h2, h3, h4, h5, h6 {
-  orphans: 2; }
-
-.pagination-pagebreak, chaptertitle, img, h1, h2, h3 {
-  page-break-inside: avoid; }
-
-.no-page-break {
-  page-break-inside: avoid; }
-
-#no-page-break {
-  page-break-inside: avoid; }
-
-h1 + h2,
-h1 + h3,
-h1 + h4,
-h1 + h5,
-h1 + h6,
-h2 + h2,
-h2 + h3,
-h2 + h4,
-h2 + h5,
-h2 + h6,
-h3 + h2,
-h3 + h3,
-h3 + h4,
-h3 + h5,
-h3 + h6,
-h4 + h2,
-h4 + h3,
-h4 + h4,
-h4 + h5,
-h4 + h6,
-h5 + h2,
-h5 + h3,
-h5 + h4,
-h5 + h5,
-h5 + h6,
-h6 + h2,
-h6 + h3,
-h6 + h4,
-h6 + h5,
-h6 + h6,
-h1 + p,
-h2 + p,
-h3 + p,
-h4 + p,
-h5 + p,
-h6 + p,
-h1 + ol,
-h2 + ol,
-h3 + ol,
-h4 + ol,
-h5 + ol,
-h6 + ol,
-h1 + ul,
-h2 + ul,
-h3 + ul,
-h4 + ul,
-h5 + ul,
-h6 + ul,
-h1 + ol li:first-of-type,
-h2 + ol li:first-of-type,
-h3 + ol li:first-of-type,
-h4 + ol li:first-of-type,
-h5 + ol li:first-of-type,
-h6 + ol li:first-of-type,
-h1 + ul > li:first-of-type,
-h2 + ul > li:first-of-type,
-h3 + ul > li:first-of-type,
-h4 + ul > li:first-of-type,
-h5 + ul > li:first-of-type,
-h6 + ul > li:first-of-type,
-li ul,
-li ol {
-  page-break-before: avoid;
-  margin-top: 0; }
-
-.note ul li {
-  list-style-position: outside;
-  margin-left: 0;
-  line-height: 14pt; }
-.note p {
-  margin-left: 0; }
-
-div[style*="background:#7E8C86"] {
-  background: none !important;
-  padding: 0 !important;
-  padding-top: 3pt !important;
-  line-height: 1.55;
-  font-size: 9.5pt; }
-  div[style*="background:#7E8C86"] a[href*="footnote"] {
-    font-size: 11pt;
-    vertical-align: base;
-    vertical-align: bottom; }
-  div[style*="background:#7E8C86"] a::before {
-    content: ' '; }
-  div[style*="background:#7E8C86"] a::first-of-type {
-    content: ''; }
-
-div[style*="background:#7E8C86"]:first-of-type {
-  border-top: 1px solid #FF4229; }
-
-div[style*="background:#eee"] {
-  background: none !important;
-  text-align: right !important;
-  border: 0 !important;
-  color: inherit;
-  border-top: 1px dashed grey;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  float: right;
-  margin-left: auto;
-  display: inline-block;
-  font-style: italic;
-  font-size: 9.6pt;
-  padding-right: 0.3em;
-  border-right: 1px solid #FF4229 !important;
-  padding-top: 0;
-  padding-bottom: 0;
-  background: none !important;
-  background-color: transparent !important;
-  display: block;
-  float: none; }
-  div[style*="background:#eee"] span {
-    background: none !important; }
-
-[style*='#FF6C6F'], [style*='#FF6C6F'] span {
-  background: none !important;
-  margin-top: 4em !important;
-  color: #FF4229 !important;
-  font-size: 28pt;
-  font-style: italic; }
-
-@media screen {
-  /* When showing the page on the screen, put a border around the page and add a little margin beween the pages. */
-  .pagination-page {
-    border: solid 2px #000;
-    /* SET AUTOMATICALLY */ } }
-.sdfootnotesym {
-  font-weight: 400;
-  font-style: italic;
-  color: #FF4229; }
-
-pre {
-  white-space: inherit; }
-
-a:after {
-  dislay: inline;
-  font-size: 9pt;
-  color: black;
-  font-style: italic;
-  white-space: pre-wrap;
-  word-wrap: break-word; }
-
-.pagination-header-chapter small {
-  display: none; }
-
-.chaptertitle small {
-  display: none; }
