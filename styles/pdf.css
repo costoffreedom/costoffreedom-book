@@ -516,7 +516,6 @@ pre {
   white-space: inherit; }
 
 a:after {
-  content: " (" attr(href) ")";
   dislay: inline;
   font-size: 9pt;
   color: black;
