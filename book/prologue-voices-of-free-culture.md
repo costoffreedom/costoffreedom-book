@@ -17,14 +17,14 @@ has taken him away from us. I have never met him, but I am calling him
 a friend because I know from all who have known him that I will have a
 good time meeting, talking, and working with him.
 
-In the small group of “free culture,” we tend to regard each other as
+In the small group of “free culture” we tend to regard each other as
 friends. We all feel committed to a common mission. For this book, we
-made an open call to those who have “been in the trenches of free
-culture”. That sounds like an overstatement for most of us who are not
+made an open call to those who have “been fighting in the trenches” of free
+culture. That sounds like an overstatement for most of us who are not
 in jail but are instead mostly writing, coding and taking part in
 interesting projects, enjoying our freedom.
 
-Thus, when we call for a reflection on “the Cost of Freedom,” we
+Thus, when we call for a reflection on “the Cost of Freedom”, we
 suddenly appeal not to our group and our mission, but to each
 individual that has been part of it. Instead of preaching the values
 of a whole system supposedly based on commons and sharing, we target

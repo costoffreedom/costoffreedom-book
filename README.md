@@ -8,7 +8,7 @@ The was published at the end of the book sprint, but the topic remains vital and
 
 Source and issues are available at [GitHub](https://github.com/costoffreedom/costoffreedom-book).
 
-Current build is available on [gitbook.com](https://www.gitbook.com/book/costoffreedom/costoffreedom-book/details) with the HTML version publised to [book.costoffreedom.cc](http://book.costoffreedom.cc/).
+Current build is available on [gitbook.com](https://www.gitbook.com/book/costoffreedom/costoffreedom-book/details) with the HTML version published to [book.costoffreedom.cc](http://book.costoffreedom.cc/).
 
 ### Build manually
 
