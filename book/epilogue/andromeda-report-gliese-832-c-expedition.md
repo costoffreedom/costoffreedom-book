@@ -42,7 +42,7 @@ the Milky Way Galaxy. This planet is 780 kiloparsecs away from our
 Andromeda Galaxy.</p>
 
 <p>After several eras of industrialisation and over-exploitation of the
-planetary resource, the species on this planet, “humans,” are facing a
+planetary resource, the species on this planet, “humans”, are facing a
 crucial moment in which they need to change the social system in order
 to survive and continue the expansion of the species.</p>
 
