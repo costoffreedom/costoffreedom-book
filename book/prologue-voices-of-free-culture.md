@@ -38,7 +38,7 @@ scream, the sum of our questions and desires. It is the raw expression
 of our lives. It talks about what is ultimately made through the dream
 of free culture: us.
 
-This book is dedicated to Bassel Khartabil Sadafi and to all those
+This book is dedicated to Bassel Khartabil and to all those
 that will recognize themselves in the stories told in these pages.
 
 [Clément Renaud](http://clementrenaud.com) is a 32-years old researcher, developer,
