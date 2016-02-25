@@ -22,6 +22,30 @@ To build PDF and Epub locally, you need ```ebook-convert``` (packaged in [ Calib
 
     gitbook pdf . ./costoffreedom.pdf
 
+As of writing there are bugs in the gitbook toolchain that prevent it from generating EPUB files that will pass all validation checks. In order to overcome these problems, you can use a forked version of gitbook.
+
+Clone the forked version:
+
+    git clone -b custom git@github.com:christopheradams/gitbook.git ~/gitbook-custom
+    cd ~/gitbook-custom
+    npm install
+
+Link the gitbook command to the custom version:
+
+    gitbook versions:link ~/gitbook-custom
+
+Now every time you run the `gitbook` command, it will use the custom version.
+
+    gitbook epub . ./costoffreedom.epub
+
+You can see what version you are using with the command:
+
+    gitbook versions
+
+To stop using the custom version:
+
+    gitbook versions:uninstall latest
+
 ### Author Bios
 
 Update bios in the authors folders, then run:
