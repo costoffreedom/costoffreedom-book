@@ -1,6 +1,6 @@
 # Attributions
 This book is dedicated to the public domain and licensed under the
-terms of the [CC0 license](/book/appendix/cc0-license).
+terms of the [CC0 license](../appendix/license.html).
 
 __Book Publishing__: Clément Renaud
 
@@ -40,7 +40,7 @@ __MISSINGBASSEL Illustration__: Neil Stuber
 * {% include "./lucas-gonze.md" %}
 * {% include "./maarten-zeinstra.md" %}
 * {% include "./muid-latif.md" %}
-* {% include "./mark-weidenbaum.md" %}
+* {% include "./marc-weidenbaum.md" %}
 * {% include "./martin-paul-eve.md" %}
 * {% include "./melanie-dulong-de-rosnay.md" %}
 * {% include "./mike-linksvayer.md" %}

@@ -12,5 +12,5 @@
 *   [My Brain on Freedom](my-brain-on-freedom.html), by [Mike Linksvayer](../authors/mike-linksvayer.html)
 *   [Too Poor Not to Care](too-poor-not-to-care.html), by [Ben Dablo](../authors/ben-dablo.html)
 *   [Inside or Outside the Movement](inside-or-outside-the-movement.html), by [John Wilbanks](../authors/john-wilbanks.html)
-*   [Freedom as a Commodity](freedom-as-a-commodity.html), by [Pete Ippel](../authors/pete-ipell.html)
+*   [Freedom as a Commodity](freedom-as-a-commodity.html), by [Pete Ippel](../authors/pete-ippel.html)
 *   [Free as in Commons](free-as-in-commons.html), by [hellekin](../authors/hellekin.html)

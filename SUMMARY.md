@@ -82,7 +82,7 @@
     * [Lucas Gonze](book/authors/lucas-gonze.md)
     * [Maarten Zeinstra](book/authors/maarten-zeinstra.md)
     * [Muid Latif](book/authors/muid-latif.md)
-    * [Mark Weidenbaum](book/authors/mark-weidenbaum.md)
+    * [Mark Weidenbaum](book/authors/marc-weidenbaum.md)
     * [Martin Paul Eve](book/authors/martin-paul-eve.md)
     * [Mélanie Dulong de Rosnay](book/authors/melanie-dulong-de-rosnay.md)
     * [Mike Linksvayer](book/authors/mike-linksvayer.md)

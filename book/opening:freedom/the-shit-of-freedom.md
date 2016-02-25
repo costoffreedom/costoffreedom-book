@@ -177,7 +177,7 @@ moment, I wouldn’t have bothered. Because you’re awesome. And you’re
 so full of shit.</p>
 
 
-> [Giorgos Cheliotis](../author/giorgos-cheliotis) lives and works in Athens. He
+> Giorgos Cheliotis lives and works in Athens. He
 is a close observer of networks, internet cultures, sociotechnical and policy
 issues in new media.
 

@@ -12,5 +12,5 @@
 *   [The Burden of Journalism](the-burden-of-journalism.html), by [Théophile Pillault](../authors/theophile-pillault.html)
 *   [Architecture = Power](architecture=power.html), by [Stéphanie Vidal](../authors/stephanie-vidal.html)
 *   [From Outer Space](from-outer-space.html), by [Niki Korth](../authors/niki-korth.html)
-*   [Free Software Economics](free-software-economics.html), by [hellekin](../authors/hellekin), [jaromil](../authors/jaromil), [radium](../authors/radium), [grothoff](../authors/christian-grothoff.html)
+*   [Free Software Economics](free-software-economics.html), by [hellekin](../authors/hellekin.html), jaromil, radium, grothoff
 *   [Beyond Capitalism](beyond-capitalism.html), by [hellekin](../authors/hellekin.html)

@@ -217,5 +217,5 @@ in order to pass through that Drake Passage and bring them back.</p>
 <p>...</p>
 
 
-> [Yu Li](../authors/yu-li) is 31 years old. She lives and works between Geneva
+> Yu Li is 31 years old. She lives and works between Geneva
 and Shenzhen. Yu is a researcher, interaction and speculative designer.
