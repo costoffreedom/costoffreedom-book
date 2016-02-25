@@ -1,7 +1,7 @@
 
-# Andromeda Report – Gliese 832 C Expedition
+# Andromeda Report – Gliese 832 C Expedition {#andromeda-report}
 
-<h3>1. The return of the Convoy and the forgotten core</h3>
+<h3 id="h-1">1. The return of the Convoy and the forgotten core</h3>
 
 <p>Dear Sir and Madam,</p>
 
@@ -15,7 +15,7 @@ unaccomplishable and I had to return, with dysfunctional parts of the
 body components infected, and having lost of part of the precious data
 that had needed to be protected.</p>
 
-<h3>2. The evolved species</h3>
+<h3 id="h-2">2. The evolved species</h3>
 
 <blockquote>
   <p>Andromeda species have a core organ, a component used to store a
@@ -32,7 +32,7 @@ that had needed to be protected.</p>
     civilisation’s knowledge has been also left behind in that ship.</p>
 </blockquote>
 
-<h3>3. Inspection of Planet Earth</h3>
+<h3 id="h-3">3. Inspection of Planet Earth</h3>
 
 <p>To start the story, let me provide a small description of the
 situation of Planet Earth.</p>
@@ -74,7 +74,7 @@ they are trying to find the way to achieve the ultimate freedom where
 sustainable civilisation development and planetary expansion can
 happen.</p>
 
-<h3>4. The contact of Gliese 832 C</h3>
+<h3 id="h-4">4. The contact of Gliese 832 C</h3>
 
 <p>At this crucial moment, however, a great scientific discovery shocked
 the whole world when a new planet was discovered, Gliese 832 C, home
@@ -87,7 +87,7 @@ system is 99.8% similar to the original Planet Earth. After this
 shocking news, all the industrial and federations are competing in a
 space race in order to have first contact with that planet.</p>
 
-<h3>5. Awaken spirit</h3>
+<h3 id="h-5">5. Awaken spirit</h3>
 
 <p>Here I quote the Galactica survival law No. F42S , which was advised
 by Mr. Wolfgang Freeman Dyson in 3025.</p>
@@ -112,7 +112,7 @@ equipment has been largely modified and updated). In the middle of
 Himalaya mountains, after a long discussion with all the participants,
 they made the decision to pursue a secret mission.</p>
 
-<h3>6. Gliese 832 C Expedition</h3>
+<h3 id="h-6">6. Gliese 832 C Expedition</h3>
 
 <p>A secret intergalactic expeditionary mission comprised by a group of
 scientists, visionaries and engineers has been sent to Gliese 832 C,
@@ -149,7 +149,7 @@ pass through a tunnel and do the quantum leap to another civilisation,
 I will follow the Galactica map which is already embedded inside my
 system.</p>
 
-<h3>7. The Mysterious Romantic journey</h3>
+<h3 id="h-7">7. The Mysterious Romantic journey</h3>
 
 <p>During the mission, I fell in love with the Co-Captain. He convinced
 me to take hm with me to the Andromeda Galaxy. I agreed.</p>
@@ -160,7 +160,7 @@ direction of Andromeda.</p>
 <p>During our journey passing the border of Milky Way Galaxy, something
 happened on the ship. I’m disrupted by certain inexplicable events.</p>
 
-<h3>8. The virus</h3>
+<h3 id="h-8">8. The virus</h3>
 
 <p>A discussion with my personal doctor tells me of shocking events:
 during the era in which I stayed on Earth with the shell of human, I
@@ -174,7 +174,7 @@ effect could transfer through biochemical contacts. That because part
 of my system is not fully functioning, some syndrome including the
 growing emotional capacity, which human called “love”.</p>
 
-<h3>9. Disclosed hitchhiker</h3>
+<h3 id="h-9">9. Disclosed hitchhiker</h3>
 
 <p>A few days later, during the transition in the wormhole while I’m
 uploading all the data, I discover that the co-captain has a
@@ -190,7 +190,7 @@ make a decision.</p>
  other seven pilots have also been infected by him, most of them are
  in a critical state. I need to make a decision…</p>
 
-<h3>10. Decision making</h3>
+<h3 id="h-10">10. Decision making</h3>
 
 <p>But time is too late, I have to leave, the quantum leap consumes a lot
 of energy.  The only way is to destroy the infected co-captains, but
@@ -205,7 +205,7 @@ awaken them again.</p>
 <p>I am ready to do the quantum leap, and the ship is frozen in the
 wormhole…</p>
 
-<h3>11. The speech</h3>
+<h3 id="h-11">11. The speech</h3>
 
 <p>Here I am, I successfully leapt to Andromeda! I’m alive.  Now, I have
 to report the event and I will apply to go back to that wormhole to
