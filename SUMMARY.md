@@ -59,6 +59,6 @@
 
 * [Appendix](book/appendix.md)
   * [Call for Participation](book/appendix/call-for-participations.md)
-  * [Attributions](book/authors/attributions.md)
+  * [Attributions](book/appendix/attributions.md)
   * [Online Resources](book/appendix/online-resources.md)
   * [License](book/appendix/license.md)

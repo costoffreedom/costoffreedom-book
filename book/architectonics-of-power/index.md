@@ -2,15 +2,15 @@
 
 ### Barriers to freedom and how we as a society eventually deal with them or fail to do so
 
-*   [Hacking the Contradictions](hacking-the-contradictions.html), by [Stéphanie Vidal](../authors/stephanie-vidal.html)
-*   [Time to Wake Up](time-to-wake-up.html), by [Mushon Zer-Aviv](../authors/mushon-zer-aviv.html)
-*   [The Cost of Internet Freedom](the-cost-of-internet-freedom.html), by [Geert Lovink](../authors/geert-lovink.html)
-*   [Why I Choose Privacy](why-i-choose-privacy.html), by [Sabrina Banes](../authors/sabrina-banes.html)
-*   [Why I Choose Copyright](why-i-choose-copyright.html), by [Lucas Gonze](../authors/lucas-gonze.html)
-*   [Why I Refused My Proprietary Self](why-i-refused-my-proprietary-self.html), by [Adam Hyde](../authors/adam-hyde.html)
-*   [Image, Identity, Attribution, Authorship](image-identity-attribution-authorship.html), by [Christopher Adams](../authors/christopher-adams.html)
-*   [The Burden of Journalism](the-burden-of-journalism.html), by [Théophile Pillault](../authors/theophile-pillault.html)
-*   [Architecture = Power](architecture=power.html), by [Stéphanie Vidal](../authors/stephanie-vidal.html)
-*   [From Outer Space](from-outer-space.html), by [Niki Korth](../authors/niki-korth.html)
-*   [Free Software Economics](free-software-economics.html), by [hellekin](../authors/hellekin.html), jaromil, radium, grothoff
-*   [Beyond Capitalism](beyond-capitalism.html), by [hellekin](../authors/hellekin.html)
+*   [Hacking the Contradictions](hacking-the-contradictions.html), by [Stéphanie Vidal](../appendix/attributions.html#stephanie-vidal)
+*   [Time to Wake Up](time-to-wake-up.html), by [Mushon Zer-Aviv](../appendix/attributions.html#mushon-zer-aviv)
+*   [The Cost of Internet Freedom](the-cost-of-internet-freedom.html), by [Geert Lovink](../appendix/attributions.html#geert-lovink)
+*   [Why I Choose Privacy](why-i-choose-privacy.html), by [Sabrina Banes](../appendix/attributions.html#sabrina-banes)
+*   [Why I Choose Copyright](why-i-choose-copyright.html), by [Lucas Gonze](../appendix/attributions.html#lucas-gonze)
+*   [Why I Refused My Proprietary Self](why-i-refused-my-proprietary-self.html), by [Adam Hyde](../appendix/attributions.html#adam-hyde)
+*   [Image, Identity, Attribution, Authorship](image-identity-attribution-authorship.html), by [Christopher Adams](../appendix/attributions.html#christopher-adams)
+*   [The Burden of Journalism](the-burden-of-journalism.html), by [Théophile Pillault](../appendix/attributions.html#theophile-pillault)
+*   [Architecture = Power](architecture=power.html), by [Stéphanie Vidal](../appendix/attributions.html#stephanie-vidal)
+*   [From Outer Space](from-outer-space.html), by [Niki Korth](../appendix/attributions.html#niki-korth)
+*   [Free Software Economics](free-software-economics.html), by [hellekin](../appendix/attributions.html#hellekin), jaromil, radium, grothoff
+*   [Beyond Capitalism](beyond-capitalism.html), by [hellekin](../appendix/attributions.html#hellekin)
