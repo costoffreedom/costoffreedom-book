@@ -1,5 +1,8 @@
 # Voices of Free Culture
 
+> [Clément Renaud](../appendix/attributions.html#clement-renaud)
+
+
 _This book was written in Pourrières, France, in five days, from 2nd to 6th November 2015._
 
 
@@ -40,6 +43,3 @@ of free culture: us.
 
 This book is dedicated to Bassel Khartabil and to all those
 that will recognize themselves in the stories told in these pages.
-
-[Clément Renaud](http://clementrenaud.com) is a 32-years old researcher, developer,
-creative coder, and journalist based in Lyon.
