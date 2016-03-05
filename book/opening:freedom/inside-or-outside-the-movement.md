@@ -1,5 +1,6 @@
-
 # Inside or Outside the Movement
+
+> [John Wilbanks](../appendix/attributions.html#john-wilbanks)
 
 <p>Working in the free knowledge movement may mean working in a space
 that is better fitted to contemporary technology, but it also means
@@ -52,10 +53,3 @@ I’m a lot more inclusive of different opinions within the free
 knowledge movement than I used to be. It means that at least I’m no
 longer paying the cost within the movement, and I’m reserving all the
 resources for the costs outside the movement.</p>
-
-
-> John Wilbanks is the Chief Commons Officer at Sage Bionetworks and a Senior
-Fellow at the Ewing Marion Kauffman Foundation and at FasterCures. He ran the
-Science Commons project at Creative Commons.
-
-

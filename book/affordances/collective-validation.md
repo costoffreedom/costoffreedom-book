@@ -1,5 +1,6 @@
-
 # Collective Validation
+
+> [ginger coons](../appendix/attributions.html#ginger-coons)
 
 <p>A friend of mine—a multimedia artist and a community organizer—once
 referred to taking a job at a commercial software company as “becoming
@@ -131,7 +132,3 @@ just that others produce work we can judge, but that the people
 producing those works are humans, as fallible and delicate as we are,
 and that they deserve not just our feedback, but our praise and
 encouragement.</p>
-
-
-> ginger coons is a digital researcher, a f-loss design advocate, and editor of
-[@libgraphicsmag](https://twitter.com/libgraphicsmag).

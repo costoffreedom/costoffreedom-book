@@ -1,5 +1,6 @@
-
 # Nomadic Family
+
+> [Natacha Roussel](../appendix/attributions.html#natacha-roussel)
 
 <blockquote>
   <p>The problem of the costs within the schizoid logic of our times concerns mostly <em>potestas</em>, the quantitative, not <em>potentia</em>, or incorporeal intensities.
@@ -132,9 +133,3 @@ acknowledgment of the possibility of instantaneous
 transformation. Variations of codes, genres and modalities of
 expression of the idea see transposition as a possible solution for
 genetic transmutation and exchange.</p>
-
-
-> Natacha Roussel is a f-loss artist. She is the co-founder of the F-lat
-collective. Natacha is based in Brussels.
-
-

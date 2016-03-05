@@ -1,5 +1,6 @@
-
 # About Bassel
+
+> [Patrick W. Deegan](../appendix/attributions.html#patrick-w-deegan)
 
 <p>Bassel Khartabil (Arabic: باسل خرطبيل‎) also known as Bassel Safadi
 (Arabic: باسل صفدي‎) is a software developer and community builder, an
@@ -32,10 +33,3 @@ for themselves and for the world. And for this, like so many of his
 fellow countrymen and women, he was imprisoned. But Bassel knows that
 a community is a powerful thing — it retains and rebuilds, it
 preserves and presses forward, and above all it never forgets its own.</p>
-
-
-> Patrick W. Deegan is a researcher, focus on new
-media art practice, sociology, and ethics. He is also a freelance curator and
-developer at [Fabricatorz](https://fabricatorz.com/).
-
-

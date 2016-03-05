@@ -1,5 +1,6 @@
-
 # My Brain on Freedom
+
+> [Mike Linksvayer](../appendix/attributions.html#mike-linksvayer)
 
 <p>A cost of participation in free knowledge movements is “stupidity” – an assault
 on intelligence, wisdom, reason, knowledge. The net effect of free knowledge on
@@ -123,6 +124,3 @@ different mix of participants, even if they are also almost all biased in some
 of the same ways. While good for the whole, a warning to individuals:
 attempting to learn about and cross-fertilize multiple free knowledge movements
 might come at an extra high cost to your intelligence.</p>
-
-
-> Mike Linksvayer is a dilettante of various free knowledge movements and a sub-dilettante critic of the same.

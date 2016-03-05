@@ -1,5 +1,6 @@
-
 # “Freedom To” vs. “Freedom From”
+
+> [Martin Paul Eve](../appendix/attributions.html#martin-paul-eve)
 
 <p>Unlike Bassel Khartabil, the cost to me, personally, of my
 free-knowledge work has been cheap. I have not paid with my
@@ -74,7 +75,3 @@ closed venues. I have not always been able to negotiate this cost
 successfully so far, but I will not defend my self-interest as a
 “freedom” when there are people who have really lost their freedom for
 this cause.</p>
-
-
-> Dr. Martin Paul Eve is a senior lecturer in literature, technology and
-publishing. He lives in London.

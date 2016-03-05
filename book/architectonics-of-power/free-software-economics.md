@@ -1,5 +1,6 @@
-
 # Free Software Economics
+
+> [hellekin](../appendix/attributions.html#hellekin), [Jaromil](../appendix/attributions.html#jaromil), [radium](../appendix/attributions.html#radium), and [Christian Grothoff](../appendix/attributions.html#christian-grothoff)
 
 Fifteen years ago, in his seminal article [Code Is Law][0], Lawrence Lessig identified a problematic: _“The most important contexts of regulation in the future will affect Internet commerce: where the architecture does not enable secure transactions.”_ Today, European free software researchers are implementing innovative solutions to address this and other issues that will shape digital economics in the near future.
 
@@ -54,7 +55,3 @@ GNU Taler is free software released under the terms of the GNU General Public Li
 [0]: http://harvardmagazine.com/2000/01/code-is-law-html
 [1]: http://freecoin.ch/
 [2]: https://taler.net/
-
-> A global nomad, [hellekin](https://twitter.com/hellekin) is a free software
-activist, member of the [Dyne.org](https://dyne.org) Foundation, and [GNU
-consensus](https://gnu.org/consensus) maintainer.

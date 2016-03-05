@@ -1,5 +1,6 @@
-
 # Bassel, and My Freedom
+
+> [Noura Safadi](../appendix/attributions.html#noura-ghazi-safadi)
 
 <p>To get married: that means your man will push you forward or take you
 backward.</p>
@@ -35,8 +36,3 @@ trance... I laugh and I cry...</p>
 
 <p>Bassel made me Free, while he is absent. He is in the regime’s jail,
 and I am in the jail of waiting for him.</p>
-
-
-> Noura Ghazi Safadi is a Syrian writer. She’s married to Bassel.
-
-

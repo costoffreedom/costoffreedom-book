@@ -1,5 +1,7 @@
 # Beyond Capitalism
 
+> [hellekin](../appendix/attributions.html#hellekin)
+
 The future was to be excellent. Thanks to the endless progress of
 human knowledge, technology would deliver the right solution at the
 right time. As industrial powers scaled up, though, and hacked their
@@ -58,8 +60,3 @@ Thought, here, has reached its limits: only action remains
 possible. Mindful, ethical, and compassionate action. Loving, caring,
 and sensible action may unlock the true potential of a successful
 humanity, and freedom, yet undefined, remains a golden key.
-
-
-> A global nomad, [hellekin](https://twitter.com/hellekin) is a free software
-activist, member of the [Dyne.org](https://dyne.org) Foundation, and [GNU
-consensus](https://gnu.org/consensus) maintainer.

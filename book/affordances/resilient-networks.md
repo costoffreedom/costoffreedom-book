@@ -1,5 +1,6 @@
-
 # Resilient Networks
+
+> [Jean-Noel Montagné](../appendix/attributions.html#jean-noel-montagne)
 
 ## Makers
 
@@ -68,6 +69,3 @@ Instead of losing energy to promote this vision into standard political systems,
 **Let’s do it. DIY, DIT, DIWO, DIN**[^1]
 
 [^1]: Do-It-Yourself, Do-It-Together, Do-It-With-Others, Do-It-Now
-
-> Jean Noël Montagné, founder of a hackerspace in Nice, France, called Nicelab,
-“Open Laboratory of Nice”.

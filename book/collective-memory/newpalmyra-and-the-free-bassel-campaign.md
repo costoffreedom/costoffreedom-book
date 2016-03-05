@@ -1,5 +1,7 @@
 # #NEWPALMYRA and the Free Bassel Campaign
 
+> [Jon Phillips](../appendix/attributions.html#jon-phillips)
+
 _Edited by [Patrick Deegan](../authors/patrick-w-deegan.html)._
 
 Bassel has been imprisoned for nearly four years, I believe it is about 1400 days now, but I have lost count; and since then we have been running the [Free Bassel campaign](http://freebassel.org/). The most depressing thing is that he has been missing for over a month now. He was taken from the prison, and his name was removed from the list of prisoners. We really really don’t know where he is. He may even have been kidnapped though it’s more likely that the Assad regime has him in a military prison. So that led to an acceleration in our efforts.
@@ -17,5 +19,3 @@ Part of this current idea for Cost of Freedom also comes from doing an earlier e
 getting a lot of attention and a lot of coverage. The reason was simple: because it’s such an outrage to destroy our shared heritage. So now that we’ve done ProtoCultural Paris we plan on doing ProtoCultural Dubai. Then we’re going to do ProtoCultural Beirut in a couple of weeks. And then ProtoCultural London. There are also several other cities we have yet to announce. But we’ve had a lot of success scaling events, and we’re going to scale this to at least a hundred different cities around the world. If you live in a city or even a town or any interesting location, then let’s do it. Let’s do a ProtoCultural event. You share with us; we share together.
 
 Our next step of many leads us to Dubai. Dubai is a really amazing city. For some reason, I have never really been present in Dubai. But I know a little about the city, and it’s interesting to see Gulf futurism—an expression I borrow from our friend Sophia Al Maria. This is an apt expression because maybe #NEWPALMYRA will be like this, maybe we can build it up, right out of the desert. We can raise it up. We can build it in space. Or we can build it just online. Everyone’s welcome in PALMYRA. There’s no people without land. There’s no problem there. We’ll just create more land if we need it. So I think Dubai is an inspiration for us because if you can lift the buildings like bar graphs to the sky, then things can happen.
-
-> Jon Phillips is the co-founder of design and technology company [Fabricatorz](https://fabricatorz.com). He lives in Hong Kong. Jon founded the [#FREEBASSEL](http://freebassel.org/) campaign in 2012\. Transcript by Ekta Saran.

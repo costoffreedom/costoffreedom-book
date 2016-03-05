@@ -1,5 +1,6 @@
-
 # Queering
+
+> [Natacha Roussel](../appendix/attributions.html#natacha-roussel)
 
 From 23 to 24 May, [femhack][0] organized an international hackathon in the loving memory of Sabeen Mahmud, getting together amongst a large number of feminist hackerspaces locally and around the world.
 
@@ -12,6 +13,3 @@ This day was the occasion of an encounter that has enabled us to identify one an
 All continents were represented during that event, but the most numerous were situated in Latin America, maybe because of the beauty of a language practice that has invented a written transgender form; for example: “somos guapxs“ is the transgender form of “we are beautiful.”
 
 [0]: http://femhack.org/
-
-> Natacha Roussel is a f-loss artist. She is the co-founder of the F-lat
-collective. Natacha is based in Brussels.

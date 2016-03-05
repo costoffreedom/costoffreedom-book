@@ -1,5 +1,6 @@
-
 # The Shit of Freedom
+
+> [Giorgos Cheliotis](../appendix/attributions.html#giorgos-cheliotis)
 
 <p>Somebody once told me that freedom is one of these words you can’t
 define without it becoming self-referential. A person will usually
@@ -175,10 +176,3 @@ here. And my love. Because without love, I wouldn’t have cared to
 write this. Without hope that you will read this and have a “FUCK ME!”
 moment, I wouldn’t have bothered. Because you’re awesome. And you’re
 so full of shit.</p>
-
-
-> Giorgos Cheliotis lives and works in Athens. He
-is a close observer of networks, internet cultures, sociotechnical and policy
-issues in new media.
-
-

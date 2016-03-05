@@ -1,5 +1,6 @@
-
 # Freedom as a Commodity
+
+> [Pete Ippel](../appendix/attributions.html#pete-ippel)
 
 <p>Let’s say freedom is a commodity not a dichotomy.</p>
 
@@ -18,10 +19,3 @@ his views on freedom of expression and has been forced to exchange his
 freedom of mobility in addition to many other human rights. I stand
 with the #FREEBASSEL campaign in demanding Bassel Khartabil’s location
 information and immediate release.</p>
-
-
-> Pete Ippel’s art is conceptual in nature and spans a variety of media from the
-traditional to the cutting edge. Pete’s personal account is
-[@hypermodern](https://twitter.com/hypermodern).
-
-

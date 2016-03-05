@@ -1,5 +1,6 @@
-
 # The Open World
+
+> [Lorna Campbell](../appendix/attributions.html#lorna-campbell)
 
 In _Open is not a License_[^1] Adam Hyde has described openness as ‘a set of values by which you live…a way of life, or perhaps a way of growing, an often painful path where we challenge our own value system against itself.’
 
@@ -30,6 +31,3 @@ In the domain of knowledge representation, the Open World Assumption ‘codifies
 [^9]: International Institute of Geopoetics, [http://institut-geopoetique.org/en](http://institut-geopoetique.org/en)
 [^10]: White, K., (2004), Geopoetics: place, culture, world, Alba.
 [^11]: White, K., (2004), ‘A High Blue Day on Scalpay’ in Open World. The Collected Poems, 1960 – 2000, Polygon.
-
-> Lorna Campbell work for the University of Edinburgh. She is specialized in
-open education technology, policy, and practice.

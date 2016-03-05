@@ -1,5 +1,6 @@
-
 # Towards a possible manifesto; proposing Arabfuturism(s) (Conversation A)
+
+> [Sulaiman Majali](../appendix/attributions.html#sulaiman-majali)
 
 <div class="offset-by-one columns"><p>"In hypernational ecstasy-"</p></div>
 
@@ -78,10 +79,3 @@
 <div class="offset-by-one columns"><p>"-an emergent cultural aesthetic; accelerating the transformation of representation;-"</p></div>
 
 <p>"-beyond the logic of the state."</p>
-
-
-> Sulaïman Majali is an artist based in Glasgow,
-Scotland. His works question the relationships between the sculptural object
-and the photographic image in the mythologies of our imagined communities.
-
-

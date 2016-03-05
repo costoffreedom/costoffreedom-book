@@ -1,5 +1,6 @@
-
 # Love Letter to Computers
+
+> [Clément Renaud](../appendix/attributions.html#clement-renaud)
 
 An old WordPress installation turns into a zombie spam machine.
 
@@ -24,7 +25,3 @@ Seeking something to recycle in the social data wasteland.
 Pain-relievers and arnica for the back of your neck.
 
 Vanishing values of approaching deadlines.
-
-
-> Clément Renaud is 32 years old. He is a researcher, developer, creative coder,
-and journalist, based in Lyon.

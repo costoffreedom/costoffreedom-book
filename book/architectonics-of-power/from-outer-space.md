@@ -1,5 +1,6 @@
-
 # From Outer Space
+
+> [The Big Conversation Space](../appendix/attributions.html#the-big-conversation-space)
 
 _An Imaginary Conversation between the Author and Alex Kurtzman Regarding the Need to Base a Character in the new Star Trek Television Series (premiering on CBS Television in January 2017) on Bassel Khartabil_
 
@@ -58,7 +59,3 @@ Well before Bassel was arrested, he was working on documenting the site via phot
 Well, I think it’s been more than 5 minutes. I have enjoyed this conversation and I will see what I can do. At the very least, I think we can name a shuttle or an exoplanet after New Palmyra.
 
 **TBCS**: So long as there is a Bassel riding in that shuttle.
-
-> By The Big Conversation Space (Niki Korth &amp; Clemence de Montgolfier) is an
-art and research collaborative dedicated to conversations of all shapes,
-sizes, and (file) formats.

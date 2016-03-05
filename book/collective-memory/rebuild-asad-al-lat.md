@@ -1,5 +1,6 @@
-
 # Rebuild Asad Al-Lat
+
+> [Georges Dahdouh](../appendix/attributions.html#georges-dahdouh)
 
 <p>Allat Lion, Palmyra, pitcure by Mappo
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lion_in_the_garden_of_Palmyra_Archeological_Museum%2C_2010-04-21.jpg/800px-Lion_in_the_garden_of_Palmyra_Archeological_Museum%2C_2010-04-21.jpg" alt="Allat Lion, Palmyra, pitcure by Mappo" /></p>
@@ -25,9 +26,3 @@ and eventually make an online museum to exhibit these 3D
 replicas. This project cannot compensate for the loss of those
 priceless masterpieces, but at least we can still keep them in the
 memories of successive generations.</p>
-
-
-> Georges Dahdouh is a 37 years old Syrian designer and 3D artist. He is located
-in Dubai.
-
-

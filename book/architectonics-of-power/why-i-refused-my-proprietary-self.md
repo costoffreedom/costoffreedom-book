@@ -1,5 +1,6 @@
-
 # Why I Refused My Proprietary Self
+
+> [Adam Hyde](../appendix/attributions.html#adam-hyde)
 
 <p>I find myself, after all this time immersed in free culture, amazed at
 my holding on to some form of the proprietary way of
@@ -50,5 +51,3 @@ examining it and it keeps surprising me. I keep discarding it. There’s
 still a long way to go.</p>
 
 <p><em>Edited by hellekin, 3 Nov 2015, Pourrières, France.</em></p>
-
-> Adam is the founder of [BookSprints](http://booksprints.net).

@@ -1,5 +1,7 @@
 # Free as in Commons
 
+> [hellekin](../appendix/attributions.html#hellekin)
+
 <p>The Free Software Movement is 32 years old. In 1983, Dr. Richard
 Matthew Stallman, also known as rms, his computer user name, invited
 the world to write a sufficient body of free software to restore
@@ -183,8 +185,3 @@ copyleft free software license such as the GPL makes a stronger
 political claim: it tells the world you’re willing to give away your
 work for others to build upon, as long as it irrevocably remains part
 of the commons, resisting others’ attempts to pull it out.</p>
-
-
-> A global nomad, [hellekin](https://twitter.com/hellekin) is a free software
-activist, member of the [Dyne.org](https://dyne.org) Foundation, and [GNU
-consensus](https://gnu.org/consensus) maintainer.

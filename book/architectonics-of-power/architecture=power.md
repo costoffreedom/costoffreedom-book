@@ -1,5 +1,6 @@
-
 # Architecture = Power
+
+> [Stéphanie Vidal](../appendix/attributions.html#stephanie-vidal)
 
 <blockquote>
   <p><em>Je ne bâtis que pierres vives ce sont des hommes.</em>
@@ -145,7 +146,3 @@ move anymore, in the streets or on the network, so we all have to ask
 ourselves: What is the price we have to pay to inhabit this new
 architecture we are collectively building, and what do we have to do
 to preserve our freedom within it?</p>
-
-
-> Stéphanie Vidal is 30 years old. She is a cultural journalist specialised in
-new media and digital strategist. Stéphanie lives in Paris.

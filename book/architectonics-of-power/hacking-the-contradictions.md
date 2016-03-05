@@ -1,5 +1,6 @@
-
 # Hacking the Contradictions
+
+> [Stéphanie Vidal](../appendix/attributions.html#stephanie-vidal)
 
 <p>Contrary to most people’s belief, contradictions are an interesting
 and powerful tool for the thinking process. They are something we
@@ -31,9 +32,3 @@ to make a sidestep
 their dreams despite the reality of the system
 <br>Maybe freedom is the way we ethically manage internal and external
 contradictions to go beyond.</p>
-
-
-> Stéphanie Vidal is 30 years old. She is a cultural journalist specialised in
-new media and digital strategist. Stéphanie lives in Paris.
-
-

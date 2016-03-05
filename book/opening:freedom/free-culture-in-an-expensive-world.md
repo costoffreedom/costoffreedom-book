@@ -1,6 +1,6 @@
-
 # Free Culture in an Expensive World
 
+> [Shauna Gordon-McKeon](../appendix/attributions.html#shauna-gordon-mckeon)
 
 > “Free as in speech, not free as in beer.”
 
@@ -144,6 +144,3 @@ commons in all of its forms – digital, social, economic, environmental
 [^1]: I am from the United States. This essay is written from that limited perspective, and may not apply to other countries and cultures.
 [^2]: https://mako.cc/writing/hill-when_free_software_isnt_better.html
 [^3]: http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community
-
-> Shauna Gordon-McKeon is a U.S. writer, independent researcher and developer.
-She focuses on open technologies and communities.

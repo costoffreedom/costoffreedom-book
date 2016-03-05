@@ -1,5 +1,6 @@
-
 # Why I Choose Privacy
+
+> [Sabrina Banes](../appendix/attributions.html#sabrina-banes)
 
 *This essay is adapted from one [originally published](http://www.missbananabiker.com/2015/10/28/the-option-of-privacy/) on my personal website, [missbananabiker.com](http://missbananabiker.com).*
 
@@ -164,8 +165,3 @@ look like amateur hour.</p>
 that freedom, and anyone who has suffered oppression should viscerally
 understand why, and anyone who is human should do whatever they can to
 protect that freedom.</p>
-
-
-> Sabrina Banes ([@missbananabiker](https://twitter.com/missbananabiker)) writes
-about information security, web freedoms, strong cryptography, anarcho-
-communism.

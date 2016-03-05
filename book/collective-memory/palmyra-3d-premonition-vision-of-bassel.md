@@ -1,5 +1,6 @@
-
 # Palmyra 3D, Premonition Vision of Bassel
+
+> [Faraj Rifait](../appendix/attributions.html#faraj-rifait)
 
 <p>Born from a Palestinian father, writer, and Syrian mother, Professor
 of Piano, Bassel lived in an environment open to the world and remote
@@ -43,8 +44,3 @@ initiated this beautiful and ambitious project to safeguard the memory
 of this outstanding universal site. Bassel wishes that everyone could
 reinforce and contribute to embellish this multidimensional work in
 these troubled days until his release from jail...</p>
-
-
-> Faraj Rifait is Bassel’s uncle.
-
-

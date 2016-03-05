@@ -1,5 +1,6 @@
-
 # What is Open?
+
+> [Richard Goodman](../appendix/attributions.html#richard-goodman)
 
 <blockquote>
   <p>After looking at “Open is not a License”, I decided to take a look
@@ -39,9 +40,3 @@
 <br>That anyone can enter
 <br>A growing global movement
 <br>With sharing at its centre</p>
-
-
-> Richard Goodman is the E-Learning Systems Team Manager in IT Services at
-Loughborough University.
-
-

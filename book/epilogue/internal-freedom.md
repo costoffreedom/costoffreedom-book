@@ -1,5 +1,6 @@
-
 # Internal Freedom
+
+> [hellekin](../appendix/attributions.html#hellekin)
 
 <p>I am alive. I am grateful to be alive. I smile. I want to share this
 happiness. With anyone. I may lean on the left side of politics, and
@@ -33,10 +34,3 @@ behind. As we let go, we enjoy our internal freedom.</p>
 society, we allow each other to not discriminate based on
 prejudice. Where is the matter that makes this possible?  I want to
 call this matter: freedom.</p>
-
-
-> A global nomad, [hellekin](https://twitter.com/hellekin) is a free software
-activist, member of the [Dyne.org](https://dyne.org) Foundation, and [GNU
-consensus](https://gnu.org/consensus) maintainer.
-
-

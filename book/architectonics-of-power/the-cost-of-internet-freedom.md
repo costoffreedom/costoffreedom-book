@@ -1,5 +1,6 @@
-
 # The Cost of Internet Freedom
+
+> [Geert Lovink](../appendix/attributions.html#geert-lovink)
 
 <p><em>Dedicated to Bassel Khartabil, written for the Cost of Freedom Book Sprint.</em></p>
 
@@ -85,9 +86,3 @@ the road to serfdom. We need to revolt against the soulless,
 mechanical ideas of the Silicon Valley engineering class and their
 solutionist marketing slogans. In order to prepare ourselves, we need
 an understanding of the Two Concepts of Internet Liberty.</p>
-
-
-> Geert Lovink is a Dutch-Australian media theorist and critic. He is the
-founding director of the Institute of Network Cultures, Amsterdam.
-
-

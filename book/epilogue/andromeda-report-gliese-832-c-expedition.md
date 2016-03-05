@@ -1,5 +1,6 @@
-
 # Andromeda Report – Gliese 832 C Expedition {#andromeda-report}
+
+> [Yu Li](../appendix/attributions.html#yu-li)
 
 <h3 id="h-1">1. The return of the Convoy and the forgotten core</h3>
 
@@ -215,7 +216,3 @@ release my ship’s crew and continue this journey.</p>
 in order to pass through that Drake Passage and bring them back.</p>
 
 <p>...</p>
-
-
-> Yu Li is 31 years old. She lives and works between Geneva
-and Shenzhen. Yu is a researcher, interaction and speculative designer.

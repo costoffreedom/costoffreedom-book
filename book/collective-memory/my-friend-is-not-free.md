@@ -1,5 +1,6 @@
-
 # My Friend is Not Free
+
+> [Tyng-Ruey Chuang](../appendix/attributions.html#tyng-ruey-chuang)
 
 <p>Most of the time it came down to emotion. It was anger, frustration,
 exhaustion, feeling alone, confusion, and wanting to escape it
@@ -25,10 +26,3 @@ FRIEND IS NOT FREE.</p>
 
 <p>要得自由並非不需代價。我的朋友自由並非不需代價。我的朋友不得自由，付出
 了代價。</p>
-
-
-> Tyng-Ruey Chuang led Creative Commons Taiwan. His research areas include
-functional programming, programming languages and systems, XML and Web
-technologies, and social implications of information technologies.
-
-

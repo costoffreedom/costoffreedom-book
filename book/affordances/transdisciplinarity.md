@@ -1,5 +1,6 @@
-
 # Transdisciplinarity
+
+> [Mélanie Dulong de Rosnay](../appendix/attributions.html#melanie-dulong-de-rosnay)
 
 <p>I fell under the spell of sharism in 2003 when I started the Creative
 Commons France chapter with the full support of my then Ph.D. advisor
@@ -40,10 +41,3 @@ unlimited commodification, unsustainable growth and a vision of
 development based on globalized extractivism that prevents personal
 and collective development and the right to a good life for 99% of the
 population.</p>
-
-
-> Mélanie Dulong de Rosnay is a researcher at french institution CNRS Institute
-for Communication Sciences where she is in charge of the Information and
-Commons Governance research group.
-
-

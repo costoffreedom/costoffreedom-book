@@ -1,5 +1,6 @@
-
 # What Does Freedom Mean to You, Mr. Government?
+
+> [Anasuya Sengupta](../appendix/attributions.html#anasuya-sengupta)
 
 Bassel Safadi, Tural Abbasli, Fariba Pajouh.<br>
 Teesta Setalvad, Eskinder Nega, Raif Badawi.<br>
@@ -32,9 +33,3 @@ So long as freedom is a place, Mr. Government,<br>
 Its echoes will be heard.</p>
 
 [^1]: These are names of journalists/writers/Internet activists from different parts of the world who have been harassed, imprisoned, or disappeared by their governments in the past few years. This list of names is obviously not meant to be either comprehensive, or representative; it invokes poetic license to remind us of what – and who – is at stake.
-
-> Anasuya Sengupta is an advocate, strategist, and storyteller, currently on the
-Board of Directors of the Nonprofit Quarterly, an online and print publication
-that promotes an active and engaged democracy. She previously headed the
-Grantmaking department at the Wikimedia Foundation, and the Asia Pacific
-portfolio at the Global Fund for Women.

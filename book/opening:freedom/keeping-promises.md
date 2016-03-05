@@ -1,5 +1,6 @@
-
 # Keeping Promises
+
+> [Lawrence Lessig](../appendix/attributions.html#lawrence-lessig)
 
 <p><em>Presentation by Lawrence Lessig, CC Global Summit 2015, 15 Oct 2015,
 Seoul, Korea</em> <br> <em>Edited by Christopher Adams, 3 Nov 2015, Pourrières, France.</em></p>
@@ -66,9 +67,3 @@ a profound way that he had to take his own life.</p>
 like looking back at things that I had something to do with starting,
 and seeing them flourish, and to see the spread of ideas which the
 Creative Commons community has carried forward.</p>
-
-
-> Lawrence Lessig is an American academic, and
-political activist. He is the founder of [Creative
-Commons](http://creativecommons.org/) and
-[Rootstrikers](http://www.rootstrikers.org/).

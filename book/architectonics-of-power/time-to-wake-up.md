@@ -1,5 +1,6 @@
-
 # Time to Wake Up
+
+> [Mushon Zer-Aviv](../appendix/attributions.html#mushon-zer-aviv)
 
 <p>Freedom of information, much like freedom of markets, doesn’t
 “naturally” lead to the kind of freedom we hope for in society. In
@@ -22,9 +23,3 @@ the end of privacy. This techno-determinism is a double-edged sword;
 it’s time to wake up and realize that the new possibilities and
 challenges posed by digital networks should inform the way we decide
 to live our lives, not dictate it.</p>
-
-
-> Mushon Zer-Aviv is a designer, an educator and a media activist. He is based
-in Tel Aviv.
-
-

@@ -1,5 +1,6 @@
-
 # The Burden of Journalism
+
+> [Théophile Pillault](../appendix/attributions.html#theophile-pillault)
 
 <h2>An Infinite and Unsolvable Debt</h2>
 
@@ -80,7 +81,3 @@ resolve.</p>
 <p>Let’s honor this debt, until our specificities eventually start to
 resonate, from newsrooms to media schools and beyond that, in all
 societies willing to free themselves.</p>
-
-
-> Théophile Pillault is 33 years old. He lives in Marseille. Théophile is a
-freelance journalist, working for Vice, Les Inrockuptibles or Trax Magazine.

@@ -1,5 +1,7 @@
 # Liberté
 
+> [Donatella Della Ratta](../appendix/attributions.html#donatella-della-ratta)
+
 Sur mes cahiers d’écolier
 <br>Sur mon pupitre et les arbres
 <br>Sur le sable sur la neige
@@ -122,12 +124,4 @@ It’s dark time, just like when Paul wrote his ode to liberté. It’s dark tim
 That sweet sound, the sound of spring coming, the sound of youth..will come back..with you, my friend.  
 Hurriyya.
 
-
-> Donatella Della Ratta has been managing the Creative Commons Arab world community for five years. She maintains a blog on Arab media at [http://mediaoriente.com](http://mediaoriente.com) and tweets avidly [@donatelladr](https://twitter.com/donatelladr).
-
 [^1]: Editor’s note: we could not provide the English translation of the poem of Paul Eluard because it’s copyrighted and the translator didn’t want to participate. Therefore we provide the original French version which is in the Public Domain.
-
-> Donatella Della Ratta has been managing the Creative Commons Arab world
-community for five years. She maintains a blog on Arab media at
-<http://mediaoriente.com> and tweets avidly
-[@donatelladr](https://twitter.com/donatelladr).

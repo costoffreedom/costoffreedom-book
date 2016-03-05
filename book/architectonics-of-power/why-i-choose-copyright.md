@@ -1,5 +1,6 @@
-
 # Why I Choose Copyright
+
+> [Lucas Gonze](../appendix/attributions.html#lucas-gonze)
 
 <p>I used to have a peculiar habit: I went to great lengths to not
 infringe copyright. This was often misunderstood to be a statement in
@@ -91,8 +92,3 @@ pragmatism. I now avoid infringement, but will sometimes do it if the
 alternative is ridiculous. I now avoid ridiculous problems rather than
 seeking them out. It’s a big change. It means that when the cost of
 media is too high, I will do my best to pay up anyway.</p>
-
-
-> Lucas Gonze is a product innovator, hacker, creative technologist.
-
-

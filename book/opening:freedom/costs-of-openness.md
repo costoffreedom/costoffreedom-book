@@ -1,5 +1,6 @@
-
 # Costs of Openness
+
+> [Tim Boykett](../appendix/attributions.html#tim-boykett)
 
 <p>This is a collection of notes about some thoughts on openness as a way of
 working, living and acting. The summary might be that openness is about
@@ -142,7 +143,3 @@ PDFs, hundreds of blog posts, hours of video lectures: too much! It is said
 that mathematicians are cheap. They require paper, pens and a large wastepaper
 basket. This process of disposal, of winnowing out the dross and keeping the
 good stuff, is the core of good work. If only I would learn that myself.</p>
-
-
-> Tim Boykett is involved in researches in the field of nearrings, relations
-between theoretical computer science and abstract algebra.

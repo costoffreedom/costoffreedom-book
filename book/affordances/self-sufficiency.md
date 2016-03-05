@@ -1,5 +1,6 @@
-
 # Self-Sufficiency
+
+> [Pauline Gadea](../appendix/attributions.html#pauline-gadea)
 
 <p>I decided 2 years ago to leave jobs in the media to go learning how to
 make cheese. I saw this as a step towards essential freedom.</p>
@@ -52,7 +53,3 @@ to live a life closer to my ideals, like a vow I made that forces me
 to be brave when I feel insecure about what I am doing, and making it
 silly to worry about where I am going to keep those three pieces of
 furniture for a while.</p>
-
-
-> Pauline Gadea is 30 years old. She lives in Toulouse. After years in the
-media, Pauline now works in local food craft products.

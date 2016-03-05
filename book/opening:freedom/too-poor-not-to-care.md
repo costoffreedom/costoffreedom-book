@@ -1,5 +1,6 @@
-
 # Too Poor Not to Care
+
+> [Ben Dablo](../appendix/attributions.html#ben-dablo)
 
 <p>I am writing about free culture from the perspective of someone who
 uses free software and consumes free culture because it’s the only
@@ -62,8 +63,3 @@ yet another unnecessary source of carbon emissions.</p>
 materially wealthy. However, sacrificing our ideals when so much
 external to ourselves depends on them is a cost we can no longer
 afford.</p>
-
-
-> Ben Dablo is a 31 year old citizen wanderer living in Portland, Oregon.
-
-

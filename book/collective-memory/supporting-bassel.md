@@ -1,5 +1,6 @@
-
 # Supporting Bassel
+
+> [Ethan Zuckerman](../appendix/attributions.html#ethan-zuckerman)
 
 <p>Bassel Khartabil has been imprisoned in Syria since 2012 for the vague
 “crime” of “harming state security”. Near as anyone can tell, his
@@ -22,7 +23,3 @@ been destroyed by ISIS fighters in the past few months. At this tragic
 moment in history, Syria is losing its physical history to religious
 fanatics while persecuting the people who could be building their
 digital future.</p>
-
-
-> Ethan Zuckerman, Director, Center for Civic Media, MIT Media Lab, where Bassel
-was [offered a researcher position](http://joi.ito.com/weblog/2015/10/22/mit-media-lab-r.html) on October 22, 2015.

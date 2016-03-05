@@ -1,5 +1,7 @@
 # The Uncommon Creativity of Bassel Khartabil
 
+> [Barry Threw](../appendix/attributions.html#barry-threw)
+
 > The people who are in real danger never leave their countries. They are in danger for a reason and for that they don’t leave #Syria
 >
 > [@basselsafadi](https://twitter.com/basselsafadi/status/164355948582932480) on Twitter, 1/31/2012 14:34:46, one month before detention.
@@ -29,5 +31,3 @@ The #NEWPALMYRA project starts from Bassel’s original vision, but goes further
 Eventually, Bassel came walking through the dark to that checkpoint, and with more whispers to lackluster guards I was on my way to Damascus. Christopher met our group the next day, and together we all embraced Bassel’s world, one of standing up for freedom, and constantly giving to his friends and community, that to this day inspires us to push further. This Uncommon Creativity, an ability to innovate and invent in the future while building on the past, is what makes him a vital visionary for the Syrian community. But, I find myself once again waiting for Bassel, this time to regain his Freedom for which he has paid so dearly.
 
 I hope, my friend, to see you soon.
-
-> Designer, technologist, and apparently author, [Barry Threw](http://www.barrythrew.com/) ([@barrythrew](https://twitter.com/barrythrew)) is the Director of Software at [Obscura Digital](http://www.obscuradigital.com/), curator with [Gray Area](http://www.grayarea.org/) Foundation for the Arts, and the Interim Director of the [#NEWPALMYRA]() project. He lives in San Francisco, CA.

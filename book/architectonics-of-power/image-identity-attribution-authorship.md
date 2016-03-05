@@ -1,5 +1,6 @@
-
 # Image, Identity, Attribution, Authorship
+
+> [Christopher Adams](../appendix/attributions.html#christopher-adams)
 
 <p>We can say that a photographer owns her images, in the same way that
 an author owns her words. (The shorthand for this ownership is
@@ -46,11 +47,3 @@ image, and to others’ re-use and modifications of his image; he must
 also permit his name and identity to be associated with his
 image. That is the “cost” of the “freedom” of his picture. He lets a
 fragment of his soul escape out into the world, forever.</p>
-
-
-> Christopher Adams is 35 years old. He is a photographer, and published
-[FREESOULS](http://freesouls.cc) by JOI ITO. Christopher is a member of
-[Fabricatorz](https://fabricatorz.com) and helps run the
-[#FREEBASSEL](http://freebassel.org) campaign. He lives in Taipei.
-
-

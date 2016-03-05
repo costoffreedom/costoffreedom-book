@@ -1,5 +1,6 @@
-
 # The Cost of Future Tense
+
+> [hellekin](../appendix/attributions.html#hellekin)
 
 <p>The freest person I’ve met perceived hosts on foreign networks in
 cryptic idioms like the forest of his childhood: each stone, each
@@ -36,10 +37,3 @@ handshake would bring evidence of the Cosmos.</p>
 moon to keep obscurity at bay, the freest person travels across
 space-time conserving memory of ancient temples in the confinement of
 her cell. Is the cost of freedom the burden of consciousness?</p>
-
-
-> A global nomad, [hellekin](https://twitter.com/hellekin) is a free software
-activist, member of the [Dyne.org](https://dyne.org) Foundation, and [GNU
-consensus](https://gnu.org/consensus) maintainer.
-
-
