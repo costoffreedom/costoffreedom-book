@@ -28,8 +28,6 @@ available at
 You may find us idling on the
 [Freenode](http://freenode.net/using_the_network.shtml) IRC network,
 on the channel
-[#costoffreedom](ircs://irc.freenode.net:6697/#costoffreedom).
+[#costoffreedom](http://web.freenode.net/#costoffreedom).
 
-Thank you for your attention. [#FREEBASSEL][1]
-
-[1]: http://freebassel.org/
+Thank you for your attention. [#FREEBASSEL](http://freebassel.org/)
