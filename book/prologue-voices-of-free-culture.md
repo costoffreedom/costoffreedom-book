@@ -1,6 +1,6 @@
 # Voices of Free Culture
 
-> [Clément Renaud](../appendix/attributions.html#clement-renaud)
+> [Clément Renaud](appendix/attributions.html#clement-renaud)
 
 
 _This book was written in Pourrières, France, in five days, from 2nd to 6th November 2015._
