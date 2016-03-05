@@ -46,12 +46,6 @@ To stop using the custom version:
 
     gitbook versions:uninstall latest
 
-### Author Bios
-
-Update bios in the authors folders, then run:
-
-    python bin/update_bios.py
-
 ### License
 
 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/)
