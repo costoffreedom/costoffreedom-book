@@ -29,6 +29,9 @@ about information security, web freedoms, strong cryptography, anarcho-
 communism.
 
 
+<span id='the-big-conversation-space'></span>By The Big Conversation Space (Niki Korth & Clémence de Montgolfier) is an art and research collaborative dedicated to conversations of all shapes, sizes, and (file) formats.
+
+
 <span id='tim-boykett'></span>Tim Boykett is involved in researches in the field of nearrings, relations
 between theoretical computer science and abstract algebra.
 
@@ -82,6 +85,9 @@ Loughborough University.
 She focuses on open technologies and communities.
 
 
+<span id='christian-grothoff'></span>Christian Grothoff is maintainer of [GNU Taler](https://taler.net).
+
+
 <span id='hellekin'></span>A global nomad, [hellekin](https://twitter.com/hellekin) is a free
 software activist, member of the [Dyne.org](https://dyne.org)
 Foundation, and [GNU consensus](https://gnu.org/consensus) maintainer.
@@ -95,9 +101,7 @@ traditional to the cutting edge. Pete’s personal account is
 [@hypermodern](https://twitter.com/hypermodern).
 
 
-<span id='niki-korth'></span>By The Big Conversation Space (Niki Korth & Clemence de Montgolfier) is an art
-and research collaborative dedicated to conversations of all shapes, sizes,
-and (file) formats.
+<span id='jaromil'></span>Jaromil is a member of the [Dyne.org](http://www.dyne.org) Foundation and the [D-CENT](http://dcentproject.du) project.
 
 
 <span id='muid-latif'></span>Muid Latif is a Malaysian-based web designer, graphic designer and digital artist.
@@ -137,6 +141,9 @@ Saran.
 
 <span id='theophile-pillault'></span>Théophile Pillault is 33 years old. He lives in Marseille. Théophile is a
 freelance journalist, working for Vice, Les Inrockuptibles or Trax Magazine.
+
+
+<span id='radium'></span>radium is a member of the [Dyne.org](http://www.dyne.org) Foundation and the [D-CENT](http://dcentproject.du) project.
 
 
 <span id='donatella-della-ratta'></span>Donatella Della Ratta has been managing the Creative Commons Arab world
@@ -202,5 +209,3 @@ in Tel Aviv.
 <span id='ethan-zuckerman'></span>Ethan Zuckerman, Director, Center for Civic Media, MIT Media Lab, where Bassel
 was [offered a researcher position](http://joi.ito.com/weblog/2015/10/22/mit-media-lab-r.html)
 on October 22, 2015.
-
-

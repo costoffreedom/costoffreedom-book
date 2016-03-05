@@ -11,6 +11,6 @@
 *   [Image, Identity, Attribution, Authorship](image-identity-attribution-authorship.html), by [Christopher Adams](../appendix/attributions.html#christopher-adams)
 *   [The Burden of Journalism](the-burden-of-journalism.html), by [Théophile Pillault](../appendix/attributions.html#theophile-pillault)
 *   [Architecture = Power](architecture=power.html), by [Stéphanie Vidal](../appendix/attributions.html#stephanie-vidal)
-*   [From Outer Space](from-outer-space.html), by [Niki Korth](../appendix/attributions.html#niki-korth)
-*   [Free Software Economics](free-software-economics.html), by [hellekin](../appendix/attributions.html#hellekin), jaromil, radium, grothoff
+*   [From Outer Space](from-outer-space.html), by [The Big Conversation Space](../appendix/attributions.html#the-big-conversation-space)
+*   [Free Software Economics](free-software-economics.html), by [hellekin](../appendix/attributions.html#hellekin), [Jaromil](../appendix/attributions.html#jaromil), [radium](../appendix/attributions.html#radium), and [Christian Grothoff](../appendix/attributions.html#christian-grothoff)
 *   [Beyond Capitalism](beyond-capitalism.html), by [hellekin](../appendix/attributions.html#hellekin)

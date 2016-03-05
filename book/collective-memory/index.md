@@ -13,4 +13,4 @@
 * [“Bassel K”](bassel-k.html), by [Marc Weidenbaum](../appendix/attributions.html#marc-weidenbaum)
 * [My Friend is Not Free](my-friend-is-not-free.html), by [Tyng-Ruey Chuang](../appendix/attributions.html#tyng-ruey-chuang)
 * [Liberté](liberte.html), by [Donatella Della Ratta](../appendix/attributions.html#donatella-della-ratta)
-* [Free Bassel](free-bassel.html), by [Maarten Zeinstra](../appendix/attributions.html#maarten-zeinstra), and [Muid Latif](../appendix/attributions.html#muid-latif)
+* [Free Bassel](free-bassel.html), by [Maarten Zeinstra](../appendix/attributions.html#maarten-zeinstra) and [Muid Latif](../appendix/attributions.html#muid-latif)
