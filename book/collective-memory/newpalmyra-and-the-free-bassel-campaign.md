@@ -2,7 +2,7 @@
 
 > [Jon Phillips](../appendix/attributions.html#jon-phillips)
 
-_Edited by [Patrick Deegan](../authors/patrick-w-deegan.html)._
+_Edited by [Patrick Deegan](../appendix/attributions.html#patrick-w-deegan)._
 
 Bassel has been imprisoned for nearly four years, I believe it is about 1400 days now, but I have lost count; and since then we have been running the [Free Bassel campaign](http://freebassel.org/). The most depressing thing is that he has been missing for over a month now. He was taken from the prison, and his name was removed from the list of prisoners. We really really don’t know where he is. He may even have been kidnapped though it’s more likely that the Assad regime has him in a military prison. So that led to an acceleration in our efforts.
 
