@@ -1,4 +1,4 @@
-# Why I Choose Copyright
+## Why I Choose Copyright
 
 > [Lucas Gonze](../appendix/attributions.html#lucas-gonze)
 

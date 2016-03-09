@@ -1,4 +1,4 @@
-# Why I Choose Privacy
+## Why I Choose Privacy
 
 > [Sabrina Banes](../appendix/attributions.html#sabrina-banes)
 

@@ -1,4 +1,4 @@
-# Queering
+## Queering
 
 > [Natacha Roussel](../appendix/attributions.html#natacha-roussel)
 

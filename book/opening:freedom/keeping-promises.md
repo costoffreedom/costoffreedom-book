@@ -1,4 +1,4 @@
-# Keeping Promises
+## Keeping Promises
 
 > [Lawrence Lessig](../appendix/attributions.html#lawrence-lessig)
 

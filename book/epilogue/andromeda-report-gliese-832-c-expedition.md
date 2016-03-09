@@ -1,4 +1,4 @@
-# Andromeda Report – Gliese 832 C Expedition {#andromeda-report}
+## Andromeda Report – Gliese 832 C Expedition {#andromeda-report}
 
 > [Yu Li](../appendix/attributions.html#yu-li)
 

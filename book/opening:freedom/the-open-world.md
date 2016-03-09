@@ -1,4 +1,4 @@
-# The Open World
+## The Open World
 
 > [Lorna Campbell](../appendix/attributions.html#lorna-campbell)
 

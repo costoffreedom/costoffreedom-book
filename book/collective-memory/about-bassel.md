@@ -1,4 +1,4 @@
-# About Bassel
+## About Bassel
 
 > [Patrick W. Deegan](../appendix/attributions.html#patrick-w-deegan)
 

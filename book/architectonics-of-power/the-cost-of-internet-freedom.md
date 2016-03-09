@@ -1,4 +1,4 @@
-# The Cost of Internet Freedom
+## The Cost of Internet Freedom
 
 > [Geert Lovink](../appendix/attributions.html#geert-lovink)
 

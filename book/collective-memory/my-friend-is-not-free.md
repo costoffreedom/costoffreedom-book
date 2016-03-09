@@ -1,4 +1,4 @@
-# My Friend is Not Free
+## My Friend is Not Free
 
 > [Tyng-Ruey Chuang](../appendix/attributions.html#tyng-ruey-chuang)
 

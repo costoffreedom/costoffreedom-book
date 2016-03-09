@@ -57,7 +57,7 @@
    * [The Cost of Future Tense](book/epilogue/the-cost-of-future-tense.md)
    * [Andromeda Report – Gliese 832 C Expedition](book/epilogue/andromeda-report-gliese-832-c-expedition.md)
 
-* [Appendix](book/appendix.md)
+* [Appendix](book/appendix/index.md)
   * [Call for Participation](book/appendix/call-for-participations.md)
   * [Attributions](book/appendix/attributions.md)
   * [Online Resources](book/appendix/online-resources.md)

@@ -1,4 +1,4 @@
-# Bassel K
+## Bassel K
 
 > [Marc Weidenbaum](../appendix/attributions.html#marc-weidenbaum)
 

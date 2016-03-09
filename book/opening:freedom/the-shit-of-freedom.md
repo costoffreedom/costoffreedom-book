@@ -1,4 +1,4 @@
-# The Shit of Freedom
+## The Shit of Freedom
 
 > [Giorgos Cheliotis](../appendix/attributions.html#giorgos-cheliotis)
 

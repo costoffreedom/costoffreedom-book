@@ -1,4 +1,4 @@
-# Towards a possible manifesto; proposing Arabfuturism(s) (Conversation A)
+## Towards a possible manifesto; proposing Arabfuturism(s) (Conversation A)
 
 > [Sulaiman Majali](../appendix/attributions.html#sulaiman-majali)
 

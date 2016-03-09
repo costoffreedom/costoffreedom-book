@@ -1,4 +1,4 @@
-# Self-Sufficiency
+## Self-Sufficiency
 
 > [Pauline Gadea](../appendix/attributions.html#pauline-gadea)
 

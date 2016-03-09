@@ -1,4 +1,4 @@
-# Beyond Capitalism
+## Beyond Capitalism
 
 > [hellekin](../appendix/attributions.html#hellekin)
 

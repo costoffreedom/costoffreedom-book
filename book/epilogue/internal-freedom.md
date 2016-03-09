@@ -1,4 +1,4 @@
-# Internal Freedom
+## Internal Freedom
 
 > [hellekin](../appendix/attributions.html#hellekin)
 

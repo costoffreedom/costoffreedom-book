@@ -1,4 +1,4 @@
-# Free Software Economics
+## Free Software Economics
 
 > [hellekin](../appendix/attributions.html#hellekin), [Jaromil](../appendix/attributions.html#jaromil), [radium](../appendix/attributions.html#radium), and [Christian Grothoff](../appendix/attributions.html#christian-grothoff)
 

@@ -1,14 +1,14 @@
-# Resilient Networks
+## Resilient Networks
 
 > [Jean-Noel Montagné](../appendix/attributions.html#jean-noel-montagne)
 
-## Makers
+**Makers**
 
 In France, most of the Makers are hobbyists, technolovers, geeks that create for fun, for local glory and some, for business. But few of them are makers for social or political goals. Most of the objects created in fablabs and makerspaces in the last years are useless regarding the urgent problems of the planet. Because the planet is on fire. Climate crisis. Energy crisis. Demography crisis. Water crisis. Metals crisis. Financial crisis. Education crisis, even crisis of mental health because of the abuse of digital communication.
 
 But stop ! it’s enough ! Come back to transformaking, No-one wants to hear about this crude reality !
 
-## Resilient Society
+**Resilient Society**
 
 And that’s the problem: historians studying the extinction of old civilisations in the last millennia have discovered that leaders and populations knew about the perfectly serious problems of their time, but they ignored the scientific advice and all indicators turning to red, until the end. We are doing exactly the same and we don’t have a lot of time to act. We must transform all sectors of the society before the conjunction of some important crisis, and transformakers will help us to do it.
 
@@ -18,7 +18,7 @@ We have all noticed that we can’t really count on our political systems to fin
 
 Transformakers have a key role in this transition from globalisation to resilience.
 
-## Global Crisis
+**Global Crisis**
 
 The COP21 UN conference about climate change offers to limit the rise of the global temperature to two degrees more. Accepting 2 degrees more, on average, for the planet, however, is accepting violent transformations of the climate that will create a giant loss of biodiversity, massive extinction of species in earth and ocean during those years. Two degrees more will also create huge environmental and social disorders, instability everywhere, wars, starvation. Hundreds of millions of refugees will have to move, dismantling completely the actual geopolitic equilibrium.
 
@@ -26,7 +26,7 @@ Pure water is also missing everywhere because of very bad management, but the mo
 
 A new era of chaos brings an opportunity for radically changing the system in good directions.
 
-## Transformaking
+**Transformaking**
 
 How can transformakers help in the context of global crisis ?
 
@@ -36,7 +36,7 @@ We discover today that good social, environmental and financial practices have a
 
 In social organisation, all over the world, small communities use solidarity structures, monetary arrangements, like barter systems that can be considered as local money, in a pure peer-to-peer exchange. The organisation of traditional communities offers big lessons for us and this model just needs digital tools to be adapted to small communities in the modern world.
 
-## Sharing knowledge = open sourcing
+**Sharing knowledge = open sourcing**
 
 Transformaking officially arrived in our society 30 years ago, when hackers started to change the world with the first open source software licences, one of the most powerful political acts of the XXth century. Artists followed the movement 20 years ago with open source documents and artwork licences, and some makers have taken another important step, ten years ago, with Open Source Hardware licences. This is transformaking: changing the society by offering alternatives containing the values of solidarity and knowledge.
 
@@ -58,7 +58,7 @@ We can promote transformaking
 *   by installing education programmes about hacking, about transformaking
 *   by choosing slow and resilient communication technologies for establishing strong communication and education networks.
 
-## Post capitalist era
+**Post capitalist era**
 
 Transition from globalisation to new resilient small-scale networked societies is necessary and must start now. Transformakers are the first explorers of the post-capitalist era. But they don’t move alone. Many new citizen organisations, new-style political movements are following the movement, but most of them ignore what transformakers are doing.
 

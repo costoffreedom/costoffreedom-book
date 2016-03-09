@@ -1,4 +1,4 @@
-# The Uncommon Creativity of Bassel Khartabil
+## The Uncommon Creativity of Bassel Khartabil
 
 > [Barry Threw](../appendix/attributions.html#barry-threw)
 

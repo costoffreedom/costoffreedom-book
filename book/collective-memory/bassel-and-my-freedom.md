@@ -1,4 +1,4 @@
-# Bassel, and My Freedom
+## Bassel, and My Freedom
 
 > [Noura Safadi](../appendix/attributions.html#noura-ghazi-safadi)
 

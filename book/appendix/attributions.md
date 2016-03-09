@@ -1,4 +1,4 @@
-# Attributions
+## Attributions
 
 This book is dedicated to the public domain and licensed under the
 terms of the [CC0 license](license.html).

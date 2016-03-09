@@ -1,4 +1,4 @@
-# The Cost of Future Tense
+## The Cost of Future Tense
 
 > [hellekin](../appendix/attributions.html#hellekin)
 

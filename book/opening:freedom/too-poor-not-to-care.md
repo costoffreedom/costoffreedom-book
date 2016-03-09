@@ -1,4 +1,4 @@
-# Too Poor Not to Care
+## Too Poor Not to Care
 
 > [Ben Dablo](../appendix/attributions.html#ben-dablo)
 

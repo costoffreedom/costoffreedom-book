@@ -1,4 +1,4 @@
-# Reconciliation
+## Reconciliation
 
 > [hellekin](../appendix/attributions.html#hellekin), [Natacha Roussel](../appendix/attributions.html#natacha-roussel), and [Pauline Gadea](../appendix/attributions.html#pauline-gadea)
 

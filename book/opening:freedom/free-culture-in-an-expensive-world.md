@@ -1,4 +1,4 @@
-# Free Culture in an Expensive World
+## Free Culture in an Expensive World
 
 > [Shauna Gordon-McKeon](../appendix/attributions.html#shauna-gordon-mckeon)
 

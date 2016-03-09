@@ -1,4 +1,4 @@
-# Why I Refused My Proprietary Self
+## Why I Refused My Proprietary Self
 
 > [Adam Hyde](../appendix/attributions.html#adam-hyde)
 

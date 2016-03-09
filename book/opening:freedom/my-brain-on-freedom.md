@@ -1,4 +1,4 @@
-# My Brain on Freedom
+## My Brain on Freedom
 
 > [Mike Linksvayer](../appendix/attributions.html#mike-linksvayer)
 

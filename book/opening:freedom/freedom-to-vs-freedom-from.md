@@ -1,4 +1,4 @@
-# “Freedom To” vs. “Freedom From”
+## “Freedom To” vs. “Freedom From”
 
 > [Martin Paul Eve](../appendix/attributions.html#martin-paul-eve)
 

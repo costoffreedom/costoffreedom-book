@@ -1,4 +1,4 @@
-{% include "chapter-intro.md" %}
+# Collective Memory
 
 ### Bassel should be free. _We will not stop campaigning for him until we see him as a free global citizen once again._
 

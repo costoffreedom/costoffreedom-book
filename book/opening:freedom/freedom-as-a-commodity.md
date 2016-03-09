@@ -1,4 +1,4 @@
-# Freedom as a Commodity
+## Freedom as a Commodity
 
 > [Pete Ippel](../appendix/attributions.html#pete-ippel)
 

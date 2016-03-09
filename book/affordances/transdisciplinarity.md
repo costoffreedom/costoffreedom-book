@@ -1,4 +1,4 @@
-# Transdisciplinarity
+## Transdisciplinarity
 
 > [Mélanie Dulong de Rosnay](../appendix/attributions.html#melanie-dulong-de-rosnay)
 

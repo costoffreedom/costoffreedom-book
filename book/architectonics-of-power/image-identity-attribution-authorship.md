@@ -1,4 +1,4 @@
-# Image, Identity, Attribution, Authorship
+## Image, Identity, Attribution, Authorship
 
 > [Christopher Adams](../appendix/attributions.html#christopher-adams)
 

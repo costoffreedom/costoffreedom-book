@@ -1,4 +1,4 @@
-# Supporting Bassel
+## Supporting Bassel
 
 > [Ethan Zuckerman](../appendix/attributions.html#ethan-zuckerman)
 

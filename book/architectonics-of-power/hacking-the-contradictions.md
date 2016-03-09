@@ -1,4 +1,4 @@
-# Hacking the Contradictions
+## Hacking the Contradictions
 
 > [Stéphanie Vidal](../appendix/attributions.html#stephanie-vidal)
 

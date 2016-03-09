@@ -1,4 +1,4 @@
-# Liberté
+## Liberté
 
 > [Donatella Della Ratta](../appendix/attributions.html#donatella-della-ratta)
 

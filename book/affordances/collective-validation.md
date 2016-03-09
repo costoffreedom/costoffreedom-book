@@ -1,4 +1,4 @@
-# Collective Validation
+## Collective Validation
 
 > [ginger coons](../appendix/attributions.html#ginger-coons)
 

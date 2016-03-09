@@ -1,4 +1,4 @@
-# What is Open?
+## What is Open?
 
 > [Richard Goodman](../appendix/attributions.html#richard-goodman)
 

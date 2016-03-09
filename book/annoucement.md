@@ -1,4 +1,4 @@
-# Announcement
+## Announcement
 
 Dear reader, this book has been a huge
 effort by many people from around the

@@ -1,4 +1,4 @@
-# Costs of Openness
+## Costs of Openness
 
 > [Tim Boykett](../appendix/attributions.html#tim-boykett)
 

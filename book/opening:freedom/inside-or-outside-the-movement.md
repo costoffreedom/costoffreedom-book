@@ -1,4 +1,4 @@
-# Inside or Outside the Movement
+## Inside or Outside the Movement
 
 > [John Wilbanks](../appendix/attributions.html#john-wilbanks)
 

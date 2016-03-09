@@ -1,4 +1,4 @@
-# Online Resources
+## Online Resources
 
 This book only scratched the surface of what’s being done in the free
 culture movements around the world. It is a call to action. The

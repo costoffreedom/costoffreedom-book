@@ -1,4 +1,4 @@
-# The Burden of Journalism
+## The Burden of Journalism
 
 > [Théophile Pillault](../appendix/attributions.html#theophile-pillault)
 

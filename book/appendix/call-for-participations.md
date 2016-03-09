@@ -1,4 +1,4 @@
-# Call For Participation
+## Call For Participation
 
 ### Call for mini-essays on “the cost of freedom” in free knowledge movements in honor of Bassel Khartabil, October 2015
 

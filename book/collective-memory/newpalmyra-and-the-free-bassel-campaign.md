@@ -1,4 +1,4 @@
-# #NEWPALMYRA and the Free Bassel Campaign
+## #NEWPALMYRA and the Free Bassel Campaign
 
 > [Jon Phillips](../appendix/attributions.html#jon-phillips)
 

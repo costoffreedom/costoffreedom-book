@@ -1,4 +1,4 @@
-# Architecture = Power
+## Architecture = Power
 
 > [Stéphanie Vidal](../appendix/attributions.html#stephanie-vidal)
 
