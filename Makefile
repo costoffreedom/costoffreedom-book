@@ -1,9 +1,9 @@
 pdf:
 	bin/convert_to_tex.sh
-	cd tex; make build
+	cd tex; pdflatex costoffreedom.tex
 
 epub:
 	sh bin/create_ebook.sh
 
 clean:
-	cd tex; make clean
+	cd tex; rm -rf chapters; latexmk -CA
