@@ -3,7 +3,9 @@
     "description": " This book wants to discuss how free knowledge movements are built and the real costs attached to them. Activists, artists, designers, developers, researchers, and writers involved with free knowledge movements have worked together to see further than the fog of our news feeds and produce some sense from our different experiences. This book is born in an attempt to free Bassel Khartabil, loved and celebrated Internet volunteer detained in Syria since 15 March 2012.",
     "language": "en",
     "author" : "Collective",
-    
+    "structure": {
+      "readme": "introduction.md"
+    },
     "plugins": [
         "layout",
         "collapsible-menu"
