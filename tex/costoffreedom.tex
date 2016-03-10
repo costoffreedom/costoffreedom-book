@@ -1,0 +1,110 @@
+% UTF-8 encoding
+
+\documentclass{CostOfFreedomBook}
+\usepackage{pdfpages}
+
+\setlength{\headheight}{15pt}
+\begin{document}
+
+\raggedbottom %  makes all pages the height of the text on that page. No extra vertical space is added.
+\pagenumbering{roman}
+\pagestyle{plain}
+\arrayrulecolor{chaptergrey} % stroke color for tables
+
+% cover
+\includepdf[pages={1}]{includes/cost-of-freedom-cover.pdf}
+
+\frontmatter
+\input{info} % some data about the work and the authors
+
+% CC-0 license
+\cclicensepage
+\blankpage
+\includepdf[pages={1}]{includes/cost-of-freedom-attributions.pdf}
+\include{chapters/attributions}
+
+\tableofcontents
+\addcontentsline{toc}{section}{Table of Content}
+
+% \blankpage
+% \include{chapters/announcement}
+
+\mainmatter % the main course
+\selectlanguage{english}
+
+\includepdf[pages={1}]{includes/cost-of-freedom-prologue.pdf}
+\addcontentsline{toc}{chapter}{\protect\numberline{}Prologue}
+
+\blankpage
+\include{chapters/prologue-voices-of-free-culture}
+\include{chapters/prologue-introduction}
+
+\includepdf[pages={1}]{includes/cost-of-freedom-collective-memory.pdf}
+\chapter{Collective Memory}
+
+\include{chapters/the-uncommon-creativity-of-bassel-khartabil}
+\include{chapters/bassel-and-my-freedom}
+% \include{chapters/about-bassel} % requires arabtex
+\include{chapters/newpalmyra-and-the-free-bassel-campaign}
+\include{chapters/palmyra-3d-premonition-vision-of-bassel}
+\include{chapters/rebuild-asad-al-lat}
+\include{chapters/supporting-bassel}
+\include{chapters/what-does-freedom-mean-to-you-mr-government}
+\include{chapters/bassel-k}
+% \include{chapters/my-friend-is-not-free} % requires chinese
+\include{chapters/liberte}
+% \include{chapters/free-bassel} % image
+
+\includepdf[pages={1}]{includes/cost-of-freedom-opening:freedom.pdf}
+\chapter{Opening:Freedom}
+\include{chapters/keeping-promises}
+\include{chapters/the-shit-of-freedom}
+\include{chapters/freedom-to-vs-freedom-from}
+\include{chapters/free-culture-in-an-expensive-world}
+\include{chapters/what-is-open}
+\include{chapters/the-open-world}
+\include{chapters/costs-of-openness}
+\include{chapters/my-brain-on-freedom}
+\include{chapters/too-poor-not-to-care}
+\include{chapters/inside-or-outside-the-movement}
+\include{chapters/freedom-as-a-commodity}
+\include{chapters/free-as-in-commons}
+
+\includepdf[pages={1}]{includes/cost-of-freedom-architectonics-of-power.pdf}
+\chapter{Architectonics Of Power}
+\include{chapters/hacking-the-contradictions}
+\include{chapters/time-to-wake-up}
+\include{chapters/the-cost-of-internet-freedom}
+\include{chapters/why-i-choose-privacy}
+\include{chapters/why-i-choose-copyright}
+\include{chapters/why-i-refused-my-proprietary-self}
+\include{chapters/image-identity-attribution-authorship}
+\include{chapters/the-burden-of-journalism}
+\include{chapters/architecture=power}
+\include{chapters/from-outer-space}
+\include{chapters/free-software-economics}
+\include{chapters/beyond-capitalism}
+
+\includepdf[pages={1}]{includes/cost-of-freedom-affordances.pdf}
+\chapter{Affordances}
+\include{chapters/queering}
+\include{chapters/nomadic-family}
+\include{chapters/self-sufficiency}
+\include{chapters/collective-validation}
+\include{chapters/transdisciplinarity}
+\include{chapters/resilient-networks}
+\include{chapters/reconciliation}
+
+\includepdf[pages={1}]{includes/cost-of-freedom-epilogue.pdf}
+\chapter{Epilogue}
+\include{chapters/internal-freedom}
+\include{chapters/love-letter-to-computers}
+\include{chapters/arabfuturisms-conversation-a}
+\include{chapters/the-cost-of-future-tense}
+\include{chapters/andromeda-report-gliese-832-c-expedition}
+
+\backmatter  % additional stuff
+\includepdf[pages={1}]{includes/cost-of-freedom-appendix.pdf}
+% \include{appendix}
+
+\end{document}
