@@ -7,8 +7,27 @@ mkdir -p $TEX_TARGET_DIRECTORY
 
 echo "Converting md files to latex... in $TEX_TARGET_DIRECTORY"
 # convert the whole thing to tex
-find book -name '*.md' -exec sh -c 'pandoc -f markdown -t latex -o tex/chapters/`basename "$0" .md`.tex $0' {} \;
+for file in $(find book -name '*.md'); do
 
+  filename="${file##*/}"
+
+  case "$filename" in
+  index.md)
+    # Do stuff
+    echo "_______________________"
+    index_name=$(basename `dirname $file`)
+    tex_name=`basename "$index_name" .md`.tex
+    ;;
+  *)
+    # echo $filename
+    tex_name=`basename "$filename" .md`.tex
+  esac
+
+  echo $tex_name
+
+  pandoc -f markdown -t latex -o tex/chapters/$tex_name $file
+
+done
 echo "Converted to latex files"
 
 
