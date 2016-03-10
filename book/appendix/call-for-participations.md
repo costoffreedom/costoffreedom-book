@@ -42,8 +42,8 @@ haiku that might be a problem, or there might be a message in that of
 some sort.
 
 Other details: The book will be PUBLISHED on Nov 6. We need your
-contribution no later than the ~~end of Nov 3 UTC~~ Thursday, __Nov 5
-at 11:00 UTC__ (Paris: noon; New York: 6AM; Tokyo: 9PM) to be
+contribution no later than **Nov 5
+at 11:00 UTC** (Paris: noon; New York: 6AM; Tokyo: 9PM) to be
 included. The book will be released under CC0; giving up the “right”
 to sue anyone for any use whatsoever of your contribution is a cost of
 entry…or one of those proprietary layers to be peeled back. Send
