@@ -36,7 +36,7 @@ Seeing Bassel paying a high price for his participation in free
 culture, many of us have started to reflect on our own fates, actions,
 and choices. Why are we here today? What have we chosen? What have we
 given up in this process of sometimes extreme belief? The second part,
-[OPENING: FREEDOM](opening:freedom/index.html), is a recollection of personal, sometimes
+[OPENING: FREEDOM](opening%3Afreedom/index.html), is a recollection of personal, sometimes
 contradictory reflections and views about the experience of working
 within free culture for some years. The diversity of contributions
 express the many directions that have been taken to act.
