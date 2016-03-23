@@ -13,14 +13,12 @@ from 2008. A full transcript of his tweets up to his arrest on March,
 [http://costoffreedom.cc/bassel-tweets.html](http://costoffreedom.cc/bassel-tweets.html). You
 may also want to follow [@freebassel](https://twitter.com/freebassel)
 and [@costfreedombook](https://twitter.com/costfreedombook) on
-Twitter. The [#freebassel](https://twitter.com/hashtag/freebassel))
+Twitter. The [#freebassel](https://twitter.com/hashtag/freebassel)
 and [#costoffreedom](https://twitter.com/hashtag/costoffreedom)
 hashtags are used for sharing related contents.
 
 We’d love to hear from you! You can join a mailing-list:
-[book@costoffreedom.cc](mailto:book-subscribe@costoffreedom.cc). Contributors
-can be reached at
-[people@costoffreedom.cc](mailto:people@costoffreedom.cc). A
+[book@costoffreedom.cc](mailto:book-subscribe@costoffreedom.cc). A
 low-traffic announcement list suitable for journalists is also
 available at
 [announce@costoffreedom.cc](mailto:cof-announce-subscribe@lists.costoffreedom.cc).
