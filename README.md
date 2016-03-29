@@ -55,7 +55,7 @@ To upload on Lulu, you need to add proper metadata. Use the folowing script
 
 latexmk and pandoc are required.
 
-   make pdf
+    make pdf
 
 ### License
 
