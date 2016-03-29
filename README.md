@@ -50,6 +50,13 @@ To upload on Lulu, you need to add proper metadata. Use the folowing script
 
     sh bin/create_ebook.sh 
 
+
+### Build clean PDF with Latex
+
+latexmk and pandoc are required.
+
+   make pdf
+
 ### License
 
 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/)
