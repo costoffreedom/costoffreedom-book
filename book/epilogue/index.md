@@ -1,3 +1,5 @@
+![](../../images/cost-of-freedom-epilogue.jpg)
+
 # Epilogue
 
 *   [Internal Freedom](internal-freedom.html), by [hellekin](../appendix/attributions.html#hellekin)
