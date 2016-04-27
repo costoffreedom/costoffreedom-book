@@ -1,6 +1,6 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{CostOfFreedomBook}[2015/11/16 v0.1 Cost of Freedom Book Class]
-\LoadClass[12pt]{book}
+\LoadClass[oneside,12pt]{book}
 
 %encoding
 
