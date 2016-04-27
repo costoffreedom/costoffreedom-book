@@ -37,6 +37,12 @@
     urlcolor=black %Crimson%linkgrey,
 }
 
+% TOC
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{2}
+
+\renewcommand*\l@subsection{\@dottedtocline{2}{1.7em}{3.2em}}
+
 %annexes
 \RequirePackage[toc,page]{appendix}
 \renewcommand{\appendixtocname}{Annexes}
