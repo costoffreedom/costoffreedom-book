@@ -139,7 +139,7 @@ conditions, using processes that blight our primal Commons, the global
 environment. We cannot abstract away these facts; we cannot advocate
 for free culture as though in a vacuum. We must advocate for the
 commons in all of its forms – digital, social, economic, environmental
-- before the cost of freedom becomes too high to bear.</p>
+– before the cost of freedom becomes too high to bear.</p>
 
 [^1]: I am from the United States. This essay is written from that limited perspective, and may not apply to other countries and cultures.
 [^2]: https://mako.cc/writing/hill-when_free_software_isnt_better.html

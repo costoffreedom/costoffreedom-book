@@ -1,3 +1,5 @@
+![](../../images/cost-of-freedom-affordances.jpg)
+
 # Affordances
 
 ### Nature, structure, motivations and limitations of some fundamental levers towards a successful practice of liberation.

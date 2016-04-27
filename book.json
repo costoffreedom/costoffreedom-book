@@ -4,7 +4,7 @@
     "language": "en",
     "author" : "Collective",
     "structure": {
-      "readme": "introduction.md"
+      "readme": "announcement.md"
     },
     "plugins": [
         "layout",

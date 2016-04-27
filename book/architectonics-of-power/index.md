@@ -1,3 +1,5 @@
+![](../../images/cost-of-freedom-architectonics-of-power.jpg)
+
 # Architectonics of Power
 
 ### Barriers to freedom and how we as a society eventually deal with them or fail to do so

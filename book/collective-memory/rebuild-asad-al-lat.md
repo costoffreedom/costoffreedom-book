@@ -2,8 +2,10 @@
 
 > [Georges Dahdouh](../appendix/attributions.html#georges-dahdouh)
 
-<p>Allat Lion, Palmyra, pitcure by Mappo
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lion_in_the_garden_of_Palmyra_Archeological_Museum%2C_2010-04-21.jpg/800px-Lion_in_the_garden_of_Palmyra_Archeological_Museum%2C_2010-04-21.jpg" alt="Allat Lion, Palmyra, pitcure by Mappo" /></p>
+<figure>
+<figcaption>Allat Lion, Palmyra, <a href="https://commons.wikimedia.org/wiki/File:Lion_in_the_garden_of_Palmyra_Archeological_Museum,_2010-04-21.jpg">picture</a> by Mappo</figcaption>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lion_in_the_garden_of_Palmyra_Archeological_Museum%2C_2010-04-21.jpg/800px-Lion_in_the_garden_of_Palmyra_Archeological_Museum%2C_2010-04-21.jpg" alt="Allat Lion, Palmyra, pitcure by Mappo" />
+</figure>
 
 <p>Watching the news in Syria, bloodshed and destruction everywhere, we
 have mixed feelings, fear for our parents and friends in the country
