@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Freedom comes with many costs, not least responsibility. Social,
 psychological, financial, bodily, emotional: known and unknown costs,

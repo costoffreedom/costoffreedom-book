@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TEX_TARGET_DIRECTORY=tex/chapters/
+TEX_TARGET_DIRECTORY=latex/tex/chapters/
 
 # create target dir
 mkdir -p $TEX_TARGET_DIRECTORY
@@ -25,7 +25,7 @@ for file in $(find book -name '*.md'); do
 
   echo $tex_name
 
-  pandoc -f markdown -t latex -o tex/chapters/$tex_name $file
+  pandoc -f markdown -t latex -o latex/tex/chapters/$tex_name $file
 
 done
 echo "Converted to latex files"

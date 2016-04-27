@@ -1,4 +1,4 @@
-# Voices of Free Culture
+## Voices of Free Culture
 
 > [Clément Renaud](appendix/attributions.html#clement-renaud)
 
