@@ -116,8 +116,8 @@
     \newpage \thispagestyle{empty} \vspace*{\fill}
 
     \begin{flushright}
-    \sc \noindent \cc~\textit{2015 \hspace{3pt}~- Cost of Freedom} \\
-    \noindent under Creative Commons.
+    \sc \noindent \cc~\textit{Creative Commons 1.0 (CC0)} \\
+    \noindent 2015
     \end{flushright}
 
     \vspace*{\fill}
