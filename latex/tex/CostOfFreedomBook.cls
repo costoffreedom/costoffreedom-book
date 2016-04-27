@@ -73,8 +73,11 @@
 % heading
 \RequirePackage{sectsty}
 \RequirePackage{titlecaps}
+
 \renewcommand\thesection{} % remove section number
 \sectionfont{ \usefont{T1}{qhv}{b}{n}\selectfont \huge \color{cofred} \MakeUppercase} %font, color, layout
+
+\subsectionfont{ \usefont{T1}{qhv}{b}{n}\selectfont \large \color{cofred} \MakeUppercase} %font, color, layout
 
 % page layout
 \RequirePackage[paperwidth=6.68in, paperheight=9.06in, margin=1in]{geometry} % cus­tomize page lay­out
