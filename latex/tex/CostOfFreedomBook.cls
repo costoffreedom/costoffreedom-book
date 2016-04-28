@@ -15,14 +15,6 @@
 % \renewcommand{\familydefault}{\sfdefault}
 % \renewcommand{\rmdefault}{lmss}
 
-% display Chinese
-\RequirePackage{CJKutf8}
-\newcommand{\zh}[1]{\begin{CJK}{UTF8}{gkai}#1\end{CJK}}
-\newcommand{\zht}[1]{\begin{CJK}{UTF8}{bkai}#1\end{CJK}} %traditional
-
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}
-}
 
 % Media & images
 \RequirePackage{graphicx}
@@ -135,3 +127,11 @@
 
 % \newfontfamily\arabicfont[Script=Arabic, Scale=1]{Traditional Arabic}
 \newfontfamily\arabicfont[Script=Arabic,Scale=1.1]{Scheherazade}
+
+% display Chinese
+% \RequirePackage{CJKutf8}
+\RequirePackage{xeCJK}
+\setCJKmainfont{ukai.ttc}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}
+}
