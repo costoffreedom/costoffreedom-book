@@ -100,8 +100,8 @@
     \newpage \thispagestyle{empty} \vspace*{\fill}
 
     \begin{flushright}
-    \sc \noindent \cc~\textit{Creative Commons 1.0 (CC0)} \\
-    \noindent 2015
+    \noindent ~Dedicated to the public domain \\
+    \noindent 2015, CC0-1.0 \cc  \\
     \end{flushright}
 
     \vspace*{\fill}
