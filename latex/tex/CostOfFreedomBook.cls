@@ -73,6 +73,9 @@
 \setlength{\parskip}{.6em} %paragraph spacing
 \RequirePackage[normalem]{ulem} %strikethrough
 
+\setlength{\parindent}{5pt}
+% \RequirePackage{parskip}
+
 %bio
 \renewcommand\verbatim@font{\usefont{T1}{qhv}{b}{n}\selectfont}
 
