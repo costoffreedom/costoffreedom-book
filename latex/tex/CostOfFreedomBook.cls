@@ -3,7 +3,7 @@
 \LoadClass[oneside,12pt]{book}
 
 %encoding
-\RequirePackage[utf8]{inputenc}
+% \RequirePackage[utf8]{inputenc}
 \RequirePackage[english]{babel}
 \RequirePackage{lmodern}
 \RequirePackage[T1]{fontenc}
@@ -14,9 +14,6 @@
 % \renewcommand{\sfdefault}{lmss}
 % \renewcommand{\familydefault}{\sfdefault}
 % \renewcommand{\rmdefault}{lmss}
-
-% display arabic
-\RequirePackage{arabtex}
 
 % display Chinese
 \RequirePackage{CJKutf8}
@@ -125,3 +122,16 @@
 
 % some definitions
 \def\subtitle#1{\gdef\@subtitle{#1}}
+
+% load additional PDF pages
+\RequirePackage{pdfpages}
+
+
+% display arabic
+\RequirePackage{polyglossia}
+\RequirePackage{fontspec}
+\setmainlanguage{english}
+\setotherlanguage{arabic}
+
+% \newfontfamily\arabicfont[Script=Arabic, Scale=1]{Traditional Arabic}
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.1]{Scheherazade}

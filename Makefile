@@ -1,6 +1,6 @@
 pdf:
 	bin/convert_to_tex.sh
-	cd latex/tex; pdflatex costoffreedom.tex
+	cd latex/tex; xelatex costoffreedom.tex
 
 epub:
 	sh bin/create_ebook.sh

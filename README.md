@@ -48,7 +48,7 @@ To stop using the custom version:
 
 To upload on Lulu, you need to add proper metadata. Use the folowing script
 
-    sh bin/create_ebook.sh 
+    sh bin/create_ebook.sh
 
 
 ### Build clean PDF with Latex
@@ -56,6 +56,11 @@ To upload on Lulu, you need to add proper metadata. Use the folowing script
 latexmk and pandoc are required.
 
     make pdf
+
+you will need xelatex and Scherazade font for Arabic language
+
+  sudo apt-get install texlive-xetex fonts-sil-scheherazade 
+
 
 ### License
 
