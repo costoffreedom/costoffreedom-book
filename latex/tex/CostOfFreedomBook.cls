@@ -1,6 +1,6 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{CostOfFreedomBook}[2015/11/16 v0.1 Cost of Freedom Book Class]
-\LoadClass[oneside,12pt]{book}
+\LoadClass[twoside,openright,oneside,12pt]{book}
 
 %encoding
 % \RequirePackage[utf8]{inputenc}
@@ -64,7 +64,7 @@
 } %font, color, layout
 
 % page layout
-\RequirePackage[paperwidth=6.68in, paperheight=9.06in, margin=1in]{geometry} % cus­tomize page lay­out
+\RequirePackage[paperwidth=6.68in, paperheight=9.06in, margin=.9in]{geometry} % cus­tomize page lay­out
 \pagestyle{plain} % options: empty , plain , fancy
 \RequirePackage{lscape}
 
@@ -76,11 +76,6 @@
 
 %bio
 \renewcommand\verbatim@font{\usefont{T1}{qhv}{b}{n}\selectfont}
-
-% footnote
-\addtolength{\footnotesep}{\footnotesep}
-\setlength{\skip\footins}{0.0469in}
-\renewcommand\footnoterule{\vspace*{-0.0071in}\setlength\leftskip{0pt}\setlength\rightskip{0pt plus 1fil}\noindent\textcolor{black}{\rule{0.25\columnwidth}{0.0071in}}\vspace*{0.0398in}}
 
 % info & data
 \RequirePackage{titling} %  \ti­tle, \au­thor avail­able per­ma­nently
