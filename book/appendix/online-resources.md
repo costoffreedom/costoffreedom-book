@@ -12,7 +12,7 @@ from 2008. A full transcript of his tweets up to his arrest on March,
 15, 2012, is available at
 <http://costoffreedom.cc/bassel-tweets/>. You
 may also want to follow [@freebassel](https://twitter.com/freebassel)
-and [@costfreedombook](https://twitter.com/costfreedombook) on
+and @[costfreedombook](https://twitter.com/costfreedombook) on
 Twitter. The [#freebassel](https://twitter.com/hashtag/freebassel)
 and [#costoffreedom](https://twitter.com/hashtag/costoffreedom)
 hashtags are used for sharing related contents.

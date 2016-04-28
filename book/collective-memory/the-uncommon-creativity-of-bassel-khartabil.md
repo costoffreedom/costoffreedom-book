@@ -4,7 +4,7 @@
 
 > The people who are in real danger never leave their countries. They are in danger for a reason and for that they don’t leave #Syria
 >
-> [@basselsafadi](https://twitter.com/basselsafadi/status/164355948582932480) on Twitter, 1/31/2012 14:34:46, one month before detention.
+> @[basselsafadi](https://twitter.com/basselsafadi/status/164355948582932480) on Twitter, 1/31/2012 14:34:46, one month before detention.
 
 In October 2010, I sat at a checkpoint on the Lebanon-Syria border, waiting for Bassel. It was late, and I’d been sitting in a nearby café, smelling of bleach but otherwise unremarkable, for nearly 12 hours. I was waiting with one of my traveling companions, Christopher Adams, who had been denied entry as a result of visa issues (“everything fine, stamps just changed yesterday”). We were part of a group of Creative Commons advocates traveling to Damascus as the last stop on a tour around the Arab world, doing workshops on free culture and open source software, along with such community stalwarts as Joi Ito, Lawrence Lessig, Mitchell Baker, Jon Phillips, and Bassel himself. It was a group from the near-future, time traveling at a second-per-second to the oldest still-inhabited city in existence, a place outside of time.
 

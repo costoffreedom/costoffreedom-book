@@ -24,7 +24,7 @@ __MISSINGBASSEL Illustration__: Neil Stuber
 [#FREEBASSEL](http://freebassel.org) campaign. He lives in Taipei.
 
 
-<span id='sabrina-banes'></span>Sabrina Banes ([@missbananabiker](https://twitter.com/missbananabiker)) writes
+<span id='sabrina-banes'></span>Sabrina Banes (@[missbananabiker](https://twitter.com/missbananabiker)) writes
 about information security, web freedoms, strong cryptography, anarcho-
 communism.
 
@@ -51,7 +51,7 @@ technologies, and social implications of information technologies.
 
 
 <span id='ginger-coons'></span>ginger coons is a digital researcher, a f-loss design advocate, and editor of
-[@libgraphicsmag](https://twitter.com/libgraphicsmag).
+@[libgraphicsmag](https://twitter.com/libgraphicsmag).
 
 
 <span id='ben-dablo'></span>Ben Dablo is a 31 year old citizen wanderer living in Portland, Oregon.
@@ -98,7 +98,7 @@ Foundation, and [GNU consensus](https://gnu.org/consensus) maintainer.
 
 <span id='pete-ippel'></span>Pete Ippel’s art is conceptual in nature and spans a variety of media from the
 traditional to the cutting edge. Pete’s personal account is
-[@hypermodern](https://twitter.com/hypermodern).
+@[hypermodern](https://twitter.com/hypermodern).
 
 
 <span id='jaromil'></span>Jaromil is a member of the [Dyne.org](http://www.dyne.org) Foundation and the [D-CENT](http://dcentproject.du) project.
@@ -149,7 +149,7 @@ freelance journalist, working for Vice, Les Inrockuptibles or Trax Magazine.
 <span id='donatella-della-ratta'></span>Donatella Della Ratta has been managing the Creative Commons Arab world
 community for five years. She maintains a blog on Arab media at
 <http://mediaoriente.com> and tweets avidly
-[@donatelladr](https://twitter.com/donatelladr).
+@[donatelladr](https://twitter.com/donatelladr).
 
 
 <span id='clement-renaud'></span>[Clément Renaud](http://clementrenaud.com) is a 32-years old researcher, developer,
@@ -178,7 +178,7 @@ portfolio at the Global Fund for Women.
 
 <span id='barry-threw'></span>Designer, technologist, and apparently author, [Barry
 Threw](http://www.barrythrew.com/)
-([@barrythrew](https://twitter.com/barrythrew)) is the Director of Software at
+(@[barrythrew](https://twitter.com/barrythrew)) is the Director of Software at
 [Obscura Digital](http://www.obscuradigital.com/), curator with [Gray
 Area](http://www.grayarea.org/) Foundation for the Arts, and the Interim
 Director of the [#NEWPALMYRA]() project. He lives in San Francisco, CA.
