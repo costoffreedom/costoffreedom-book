@@ -39,6 +39,9 @@
     urlcolor=black %Crimson%linkgrey,
 }
 
+% quotes (includes authors names)
+\renewenvironment{quote}{\list{}{\it\leftmargin=0in\rightmargin=0.3in}\item[]}{\endlist}
+
 % TOC
 \setcounter{secnumdepth}{0}
 \setcounter{tocdepth}{2}
