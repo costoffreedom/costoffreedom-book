@@ -5,31 +5,35 @@
 \setlength{\headheight}{15pt}
 \selectlanguage{english}
 
+% \arrayrulecolor{chaptergrey} % stroke color for tables
+
+
 \begin{document}
 
 \raggedbottom %  makes all pages the height of the text on that page. No extra vertical space is added.
-\pagenumbering{roman}
 \pagestyle{plain}
-\arrayrulecolor{chaptergrey} % stroke color for tables
+\pagenumbering{roman}
 
-% cover
-\includepdf[pages={1}]{includes/cost-of-freedom-cover.pdf}
 
-\frontmatter
+
+\includepdf[page=1]{includes/cost-of-freedom-cover.pdf}
+
 \input{info} % some data about the work and the authors
 
+\blankpage
 
-
+% cover
+\frontmatter
 % CC-0 license
 \cclicensepage
 \blankpage
-\includepdf[pages={1}]{includes/cost-of-freedom-attributions.pdf}
-\include{chapters/attributions}
-
 
 \tableofcontents
 
-\include{chapters/announcement}
+\includepdf[pages={1}]{includes/cost-of-freedom-attributions.pdf}
+\include{chapters/attributions}
+
+\include{includes/announcement}
 
 \mainmatter % the main course
 
@@ -63,7 +67,6 @@
 % \chapter{Opening:Freedom}
 % \include{chapters/opening:freedom}
 
-\include{chapters/keeping-promises}
 \include{chapters/keeping-promises}
 \include{chapters/the-shit-of-freedom}
 \include{chapters/freedom-to-vs-freedom-from}
