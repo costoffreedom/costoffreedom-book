@@ -64,7 +64,7 @@
 } %font, color, layout
 
 % page layout
-\RequirePackage[paperwidth=6.68in, paperheight=9.06in, margin=.9in]{geometry} % cus­tomize page lay­out
+\RequirePackage[paperwidth=6in, paperheight=9in, margin=.9in]{geometry} % cus­tomize page lay­out
 \pagestyle{plain} % options: empty , plain , fancy
 \RequirePackage{lscape}
 
@@ -101,7 +101,7 @@
 
     \begin{flushright}
     \noindent ~Dedicated to the public domain \\
-    \noindent 2015, CC0-1.0 \cc  \\
+    \noindent 2015, 2016. CC0-1.0 \cc  \\
     \end{flushright}
 
     \vspace*{\fill}
