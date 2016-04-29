@@ -82,7 +82,7 @@ culture, always fragile, falls apart.
 
 <p>But the open source approach is not the only way to come at “free as
 in beer”. The private capital of businesses using open source isn’t
-the only kind of property. There is – and always has been - the
+the only kind of property. There is – and always has been – the
 commons.</p>
 
 <p>It is easy to reframe the arguments for free culture around the
