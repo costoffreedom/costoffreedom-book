@@ -2,6 +2,7 @@
 \ProvidesClass{CostOfFreedomBook}[2015/11/16 v0.1 Cost of Freedom Book Class]
 \LoadClass[twoside,openright,oneside,12pt]{book}
 
+
 %encoding
 % \RequirePackage[utf8]{inputenc}
 \RequirePackage[english]{babel}
