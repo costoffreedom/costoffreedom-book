@@ -73,7 +73,7 @@
 \RequirePackage{setspace} %spacing between lines
 \setlength{\parskip}{.6em} %paragraph spacing
 \RequirePackage[normalem]{ulem} %strikethrough
-\setlength{\parindent}{5pt} % new paragraph indent
+% \setlength{\parindent}{5pt} % new paragraph indent
 
 %bio
 \renewcommand\verbatim@font{\usefont{T1}{qhv}{b}{n}\selectfont}
